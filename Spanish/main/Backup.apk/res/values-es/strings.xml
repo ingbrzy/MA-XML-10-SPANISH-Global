@@ -6,9 +6,6 @@ Tamaño:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Presentando la versión %1$s
 Tamaño de actualización Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Almacenamiento no disponible, comprueba tu tarjeta SD.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona normalmente.</string>
     <string name="app_name">Copia de seguridad</string>
     <string name="local_app_name">Copia de seguridad</string>
@@ -228,7 +225,6 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="restore_backup">Restaurar</string>
     <string name="enable_encrypt_description">Cifrar</string>
     <string name="disable_encrypt_description">No cifrar</string>
-    <string name="digit_percent">%</string>
     <string name="state_waiting">Un momento…</string>
     <string name="state_mounting">Accediendo al almacenamiento del router…</string>
     <string name="abort_backup_confirm">La copia no ha terminado. ¿Detener de todos modos?</string>
@@ -537,7 +533,6 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
 debería crear una copia de seguridad de iCloud primero."</string>
     <string name="list_footer_tip_title">Consejos:</string>
     <string name="import_tip_summary">Debido a problemas de compatibilidad, solo puede transferir datos parciales desde dispositivos iOS. Asegúrese de crear una copia de seguridad de iCloud antes de comenzar la transferencia.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Importar</string>
     <string name="select_empty">Seleccione elementos para importar</string>
     <string name="select_item_summary_wait">Esperando…</string>

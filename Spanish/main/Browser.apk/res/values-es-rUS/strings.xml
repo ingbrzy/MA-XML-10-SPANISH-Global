@@ -732,8 +732,6 @@ Las páginas que visite no aparecerán en el historial."</string>
     <string name="mw_snippets_disabled_generic_prompt">Obtenga contenido personalizado</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Para recibir contenido personalizado sugerido por Google, inicie sesión en Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Establecer hora</string>

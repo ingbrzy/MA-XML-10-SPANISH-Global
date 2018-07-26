@@ -81,12 +81,10 @@
     <string name="daily_forecast_add_city_message">Follow the weather in %1$s for a more detailed forecast.</string>
     <string name="daily_forecast_add_city_title">Sigue el tiempo en %1$s</string>
     <string name="daily_forecast_detail_date">M/d</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"No se pudo obtener la información del tiempo
 Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="data_provided_by">Datos proporcionados por</string>
     <string name="edit_city">Administrar ciudad</string>
-    <string name="empty">" "</string>
     <string name="eu_region_version_first_start_network_msg">Al usar este producto, acepta que Xiaomi recoja, procese y use su información personal, incluyendo las coordenadas de las ciudades que ha buscado, y otros tipos de información especificada en nuestra Política de Privacidad. Consulte nuestra Política de Privacidad para aprender como recogemos y procesamos la información. Pulsando sobre \"De acuerdo\", acepta el %1$s y %2$s de Xiaomi.</string>
     <string name="feedback_heavy_rain">Lluvia intensa</string>
     <string name="feedback_heavy_snow">Nieve</string>
@@ -99,8 +97,6 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="first_start_network_title">Conexión a Internet y acceso a la ubicación</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Ahora</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">Instalar ahora</string>
     <string name="index_item_install_dialog" />
@@ -112,12 +108,10 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="indices_title_feel">Sensación térmica</string>
     <string name="indices_title_pressure">Presión</string>
     <string name="install">Instalar</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">PRESIÓN</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Detalles</string>
     <string name="international_details_uv_index_title">ÍNDICE UV</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">VIENTO</string>
     <string name="it_is_going_to_rain">Va a llover</string>
     <string name="locate_fail_detail_err">"No se pudo localizar el dispositivo
@@ -188,7 +182,6 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="share_menu_title">Compartir</string>
     <string name="share_subject">Compartir</string>
     <string name="share_weather_desc">\#MIUI Tiempo#Hoy %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">No se puede obtener captura de pantalla</string>
     <string name="some_where_on_earth">En algún lugar de la Tierra</string>

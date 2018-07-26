@@ -148,7 +148,6 @@
     <string name="shutdown_alarm_enable_summary">La alarma sonará con el teléfono apagado</string>
     <string name="shutdown_alarm_title">Apagado de alarma</string>
     <string name="silent_alarm_summary">Silencio</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Desactivar una vez el %s</string>
     <string name="slider_text">Desliza hacia arriba para desactivar</string>
     <string name="snooze_confirm_cancel">Descartar alarma</string>
@@ -157,7 +156,6 @@
     <string name="start_up">Iniciar</string>
     <string name="stopwatch_lap_empty_text">No hay vueltas</string>
     <string name="stopwatch_title">Cronómetro</string>
-    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Ajustes</string>
     <string name="system_time_settings_category_title">Ajustes de hora</string>
     <string name="temperature_unit">%1$s°</string>

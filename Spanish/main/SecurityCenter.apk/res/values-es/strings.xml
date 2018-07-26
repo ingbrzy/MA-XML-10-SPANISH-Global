@@ -433,7 +433,6 @@ responda"</string>
     <string name="managed_user_title">Todas las aplicaciones de trabajo</string>
     <string name="pref_about_traffic_title">Configuración de uso de datos</string>
     <string name="pref_traffic_manage_title">Uso de datos</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Plan de datos</string>
     <string name="pref_adjust_traffic_data">Establecer uso de datos</string>
     <string name="pref_category_title_other">Ajustes adicionales</string>
@@ -959,7 +958,6 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Esta aplicación puede ralentizar
 tu dispositivo"</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">¿Desinstalar %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Desinstala esta aplicación para solucionar los problemas de uso de batería.</string>
     <string name="om_ill_proc_type_wakelock_title">La aplicación bloquea el modo suspensión y descarga la batería</string>
@@ -1018,7 +1016,6 @@ tu dispositivo"</string>
     <string name="usage_type_data_send">Datos móviles enviados</string>
     <string name="usage_type_no_coverage">Tiempo sin señal</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Servidor multimedia</string>
     <string name="power_screen">Pantalla</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1365,13 +1362,11 @@ tu dispositivo"</string>
     <string name="menu_text_optimize_manage">Aumento de velocidad</string>
     <string name="menu_text_networkassistants">Uso de datos</string>
     <string name="menu_summary_networkassistants">Administre su plan de datos</string>
-    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Excedió el límite</string>
     <string name="menu_summary_networkassistants_3">Suficientes datos restantes</string>
     <string name="menu_summary_networkassistants_4">Se están agotando los datos</string>
     <string name="menu_text_networkassistants_remain">%s restantes</string>
     <string name="menu_text_networkassistants_danger">%s por encima del límite</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1384,14 +1379,12 @@ tu dispositivo"</string>
     <string name="menu_summary_garbage_cleanup">No se encontró basura</string>
     <string name="menu_summary_garbage_cleanup_2">Tamaño de la basura</string>
     <string name="menu_summary_garbage_cleanup_3">Limpiar la basura ahora</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Uso de batería</string>
     <string name="menu_summary_power_manager">El ahorro de batería le da más tiempo entre cargas</string>
     <string name="menu_summary_power_manager_1">La batería está cargada</string>
     <string name="menu_summary_power_manager_2">%s restantes</string>
     <string name="menu_summary_power_manager_3">Conecte el cargador</string>
     <string name="menu_summary_power_manager_4">%s para terminar</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">El análisis anterior fue cancelado</string>
     <string name="examination_score_100">¡Todo parece estar bien!</string>
     <string name="examination_score_80_100">Varios elementos pueden optimizarse</string>
@@ -1757,7 +1750,6 @@ tu dispositivo"</string>
     <string name="card_main_deepclean_wechat_action">Limpiar</string>
     <string name="card_main_sectool_title">Herramientas</string>
     <string name="card_main_monthreport_action">Ver</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Comprobar la red</string>
     <string name="card_main_netcheck_summary">Conexión de prueba debido a problemas de conectividad</string>
     <string name="card_main_netcheck_action">Comprobar</string>

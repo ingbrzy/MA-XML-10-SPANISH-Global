@@ -431,7 +431,6 @@
     <string name="portrait_mode_depth_effect_success_hint">Efecto de profundidad</string>
     <string name="portrait_mode_use_hint">"Modo retrato difumina el segundo plano
 y resalta las personas en primer plano."</string>
-    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Cuadrado</string>
     <string name="simple_mode_button_text_square">Desactivar Cuadrado</string>
     <string name="face_beauty_smart">Inteligente</string>
@@ -446,7 +445,6 @@ y resalta las personas en primer plano."</string>
     <string name="pref_camera_beautify_entry_low">Baja</string>
     <string name="pref_camera_beautify_entry_normal">Media</string>
     <string name="pref_camera_beautify_entry_high">Alta</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modos</string>
     <string name="button_front_camera_title">Hacer un selfie</string>
     <string name="button_normal_video_title">Grabar vídeo</string>

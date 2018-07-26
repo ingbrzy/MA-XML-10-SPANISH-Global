@@ -105,7 +105,6 @@
     <string name="accessibility_wifi_signal_full">Señal de Wi-Fi excelente</string>
     <string name="accessibility_wifi_security_type_none">Red abierta</string>
     <string name="accessibility_wifi_security_type_secured">Red segura</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="data_usage_uninstalled_apps">Aplicaciones eliminadas</string>
     <string name="data_usage_uninstalled_apps_users">Aplicaciones y usuarios eliminados</string>
     <string name="tether_settings_title_usb">Anclaje a red USB</string>

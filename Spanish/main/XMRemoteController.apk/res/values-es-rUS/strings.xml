@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ac_gree">Gree CA</string>
     <string name="ac_mode_auto">Automático</string>
     <string name="ac_mode_cold">Refrigeración</string>
@@ -103,7 +102,6 @@
     <string name="bind_stb">Continuar vinculando set-top box</string>
     <string name="bind_stb_dlg">Asociar decodificador para cambiar canales</string>
     <string name="bind_stb_dlg_agree">Asociar</string>
-    <string name="brand_device">%1$s %2$s</string>
     <string name="brand_search_box_hint">Seleccione fabricante</string>
     <string name="brand_title_all">Todas</string>
     <string name="brand_title_hot">Popular</string>
@@ -306,7 +304,6 @@
     <string name="hot_videos">Popular</string>
     <string name="hour">h</string>
     <string name="humidity">Humedad:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">Arriba</string>
     <string name="input_complete">Aceptar</string>
     <string name="input_dialogue_cancel_button">Cancelar</string>
@@ -406,7 +403,6 @@
     <string name="loading_more">Un momento…</string>
     <string name="locate_current_place">Buscar ubicación actual</string>
     <string name="location_select">Renombrar dispositivo</string>
-    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">Iniciar sesión</string>
     <string name="login_directly">Iniciar sesión</string>
     <string name="login_done">Conectado</string>
@@ -433,7 +429,6 @@
     <string name="match_data">Información de emparejamiento</string>
     <string name="match_data_error_tips">"No pudo obtenerse la info
 Vuelva atrás para continuar"</string>
-    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">¿Funcionan los botones de dirección?</string>
     <string name="match_dvd_intro_pause">Soltar cuando la reproducción del DVD está en pausa</string>
     <string name="match_dvd_intro_play">Soltar cuando el DVD comienza la reproducción</string>
@@ -858,8 +853,6 @@ Abra los ajustes del control remoto y pulse \"Compartir\"."</string>
     <string name="scaning">Buscando…</string>
     <string name="scanning_milink">Buscando dispositivos…</string>
     <string name="scene_default">Predeterminado</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">Captura</string>
     <string name="screenshot_failed">No se pudo capturar</string>
     <string name="screenshot_failed_and_check_connection">No se pudo capturar pantalla, comprueba los dispositivos conectados</string>
@@ -967,7 +960,6 @@ Ir a Inicio > \"+\" > Escaner."</string>
     <string name="start_diagnosis">Probar</string>
     <string name="start_match">Asociar</string>
     <string name="stb">Decodificador</string>
-    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">Conectar/Desconectar STB</string>
     <string name="steps">Intento #%d</string>
     <string name="sticky_on_top">Anclar</string>

@@ -35,8 +35,6 @@
     <string name="mx_sub_dspt_provision_with_voip">Llamada por internet</string>
     <string name="phone_number_required_dspt_provision">"Este servicio requiere tu número de teléfono. "</string>
     <string name="sync_dspt_provision">"Sincroniza fotos, contactos, notas y mucho más entre todos tus dispositivos o accede a ellos desde "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Puedes activar o desactivar esta función en cualquier momento desde Ajustes.
 "</string>
     <string name="sync_dspt_entrance_provision">"Sincronice sus fotos, contactos, historial de llamadas y mensajes en todos sus dispositivos. Acceda a las cosas que sincronice desde cualquier navegador en %s. "</string>
@@ -47,8 +45,6 @@
     <string name="sync_dspt_entrance_provision_skip">Omitir este paso</string>
     <string name="sync_dspt_entrance_provision_network">Esta aplicación necesita conectarse a Internet para funcionar correctamente. La sincronización puede requerir conexión a datos móbiles y activar el Wi-Fi.</string>
     <string name="find_device_dspt_provision">Si pierdes tu dispositivo, puedes entrar en %s para localizarlo, bloquearlo o restablecerlo. Puedes activar o desactivar esta función en cualquier momento desde Ajustes.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">Si cambias las tarjetas SIM, se enviará automáticamente un SMS para reactivar esta característica.</string>
     <string name="mx_dspt_provision">"Mi Mensaje le permite enviar mensajes a otros dispositivos MIUI sin gastos cuando te conectes a una red Wi-Fi.
 
@@ -283,7 +279,6 @@ Usa una cuenta diferente."</string>
     <string name="micloud_find_device_opened">Localización de dispositivo activada</string>
     <string name="micloud_find_device_open_fail">No se pudo activar Localizar dispositivo</string>
     <string name="micloud_find_device_opened_content">Encuentra tu dispositivo en %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">No se pudo reactivar Localizar dispositivo</string>
     <string name="micloud_find_device_close_fail">No se pudo desactivar Localizar dispositivo</string>
     <string name="micloud_find_device_finish">Hecho</string>
@@ -350,8 +345,6 @@ Usa una cuenta diferente."</string>
     <string name="micloud_main_head_menu_state_close">Desactivado</string>
     <string name="micloud_main_head_menu_state_unavailable">No soportado</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Localizar dispositivo no está disponible en el segundo espacio, puede usarlo en el primer espacio.</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Pagos con huella digital</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

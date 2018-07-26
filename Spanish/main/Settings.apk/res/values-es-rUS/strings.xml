@@ -914,7 +914,6 @@ calidad de reproducción"</string>
     <string name="bootloader_status_unlocked">Desbloqueado</string>
     <string name="bootloader_status_unlocked_info">Dispositivo desbloqueado</string>
     <string name="bootloader_summary">Formatear su dispositivo a través de USB</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Color de la luz</string>
     <string name="breathing_light_color_summary">Color de luz al recibir una nueva notificación</string>
     <string name="breathing_light_freq_summary">Parpadear cuando tenga nuevas notificaciones</string>
@@ -1551,7 +1550,6 @@ Recuerda que los datos registrados por el teléfono y el proveedor pueden ser di
     <string name="dndm_auto_button_title">Repetir tiempo de no molestar</string>
     <string name="dndm_auto_setting_group">Programado</string>
     <string name="dndm_auto_time_setting">Establecer hora</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">A</string>
     <string name="dndm_auto_time_turn_off_title">Automáticamente desactivar el modo no molestar</string>
     <string name="dndm_auto_time_turn_on">De</string>
@@ -2001,7 +1999,6 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="gadget_picker_title">Elegir gadget</string>
     <string name="gadget_state_off">desactivado</string>
     <string name="gadget_state_on">activado</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">desactivando</string>
     <string name="gadget_state_turning_on">activando</string>
     <string name="gadget_sync">Sincronizar</string>
@@ -2309,7 +2306,6 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notificaciones
     <string name="lift_to_wake_title">Levantar el dispositivo para activarlo</string>
     <string name="line_breaking_summary">Optimizar los saltos de línea del párrafo</string>
     <string name="line_breaking_title">Optimización de texto</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="list_bg_header_text">Si restringe la conexión en segundo plano, las aplicaciones nuevas no podrán conectarse a internet en segundo plano después de ser instaladas. Después de esto, serían incapaces de recibir mensajes o descargar contenido.</string>
     <string name="list_empty_text">Vacío</string>
     <string name="loading_notification_apps">Cargando aplicaciones…</string>
@@ -2665,7 +2661,6 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
     <string name="memory_usage">Uso de la memoria</string>
     <string name="memory_usage_apps">Memoria que utilizan las aplicaciones</string>
-    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">Se utilizó un promedio de %1$s de memoria en las últimas tres horas</string>
     <string name="menu_cancel">Descartar</string>
     <string name="menu_check">Experiencia</string>
@@ -2912,7 +2907,6 @@ Seleccione su sistema operativo:"</string>
     <string name="nfc_how_it_works_got_it">Entendido</string>
     <string name="nfc_how_it_works_title">Cómo pagar en la terminal</string>
     <string name="nfc_more_title">Más…</string>
-    <string name="nfc_payment_app_and_desc">%1$s: %2$s</string>
     <string name="nfc_payment_default">Aplicación de pago predeterminada</string>
     <string name="nfc_payment_default_not_set">Sin establecer</string>
     <string name="nfc_payment_favor_default">Siempre usar la aplicación por defecto</string>
@@ -3124,7 +3118,6 @@ La app podrá activar y desactivar el modo No molestar, y cambiar la configuraci
     <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
     <string name="overlay_settings">Mostrar sobre otras apps</string>
     <string name="owner_info_settings_edit_text_hint">Por ejemplo, Android de Juan</string>
-    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Ninguno</string>
     <string name="owner_info_settings_title">Firma de Pantalla de bloqueo</string>
     <string name="owner_space">Primer espacio</string>
@@ -3436,8 +3429,6 @@ La app podrá activar y desactivar el modo No molestar, y cambiar la configuraci
     <string name="private_sms_recording_intro_header">Dibuje un patrón para desbloquear:</string>
     <string name="private_sms_reset_by_account">Para resetear su contraseña, acceda a su Mi Cuenta</string>
     <string name="process_dex2oat_label">Optimización de las aplicaciones</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Servidor de medios</string>
     <string name="process_provider_in_use_description">El proveedor %1$s está en uso.</string>
     <string name="process_service_in_use_description">El servicio %1$s está en uso.</string>
@@ -4060,7 +4051,6 @@ Para usar la fijación de pantalla:
     <string name="security_encryption_attention_3">Deberá definir una nueva contraseña de bloqueo de pantalla.</string>
     <string name="security_encryption_attention_4">Asegúrese de recordar la contraseña de bloqueo, ya que de lo contrario, deberá restaurar el dispositivo al estado de fábrica.</string>
     <string name="security_encryption_attention_info">Usted puede cifrar sus cuentas, configuraciones, apps descargadas, datos, medios y otros archivos.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Importante</string>
     <string name="security_encryption_close_dialog_info">Escoger no cifrar el dispositivo utilizando la contraseña de bloqueo puede hacer que algunos servicios de Google dejen de funcionar.</string>
     <string name="security_encryption_close_dialog_title">Regrese a la protección de contraseña por defecto</string>
@@ -4311,7 +4301,6 @@ PIN posiblemente incorrecto."</string>
     <string name="sim_reenter_new">Volver a ingresar el nuevo PIN</string>
     <string name="sim_select_card">Seleccionar una tarjeta SIM</string>
     <string name="sim_selection_required_pref">Selección requerida</string>
-    <string name="sim_settings_summary">%1$s (%2$s)</string>
     <string name="sim_settings_title">Tarjetas SIM</string>
     <string name="sim_setup_wizard_title">Tarjetas SIM</string>
     <string name="sim_signal_strength">%1$d dBm y %2$d asu</string>
@@ -4325,7 +4314,6 @@ PIN posiblemente incorrecto."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Omitir</string>
     <string name="skip_label">Omitir</string>
@@ -4403,7 +4391,6 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
     <string name="status_bar_settings_all_app_display_loading">Espere un momento…</string>
     <string name="status_bar_settings_app_notification_preferences">Ajustes de apps</string>
     <string name="status_bar_settings_basic_settings">Ajustes básicos</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Editar nombre del operador</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nombre del Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificaciones</string>
@@ -4635,7 +4622,6 @@ Considera utilizar una ^1 más rápida para mejorar el rendimiento."</string>
     <string name="suggestions_title">Sugerencias</string>
     <string name="sum_carrier_select">Elegir un operador de red</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
     <string name="super_resolution_access_title">Aplicaciones accesibles</string>
     <string name="super_resolution_desc">Hace imágenes más frescas utilizando un algoritmo de IA</string>
@@ -5625,11 +5611,9 @@ Toque el \"más\" para agregar palabras."</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Ninguna</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

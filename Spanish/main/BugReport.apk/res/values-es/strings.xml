@@ -57,7 +57,6 @@
     <string name="save_pic_success">Imagen guardada en %s</string>
     <string name="save_pic_fail">No se pudo guardar la imagen, revisa tu tarjeta SD</string>
     <string name="pic_not_exist">Esta imagen no existe</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Seleccionar producto</string>
     <string name="michat_skillset_business_type_title">Seleccionar servicio</string>
     <string name="michat_close_text">Chat finalizado</string>
