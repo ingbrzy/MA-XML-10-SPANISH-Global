@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APK</item>
+        <item quantity="one">%d APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s descargas</item>
+        <item quantity="one">%1$s descarga</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s usuarios</item>
+        <item quantity="one">%1$s usuario</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">hace %1$d días</item>
+        <item quantity="one">hace %1$d día</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">hace %1$d horas</item>
+        <item quantity="one">hace %1$d hora</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d marcas disponibles</item>
+        <item quantity="one">1 marca disponible</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">hace %1$d minutos</item>
+        <item quantity="one">hace %1$d minuto</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d episodios</item>
+        <item quantity="one">%d episodio</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Reproducir episodio %d</item>
+        <item quantity="one">Reproducir episodio %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">%d videos encontrados</item>
+        <item quantity="one">%d video encontrado</item>
+    </plurals>
+</resources>
