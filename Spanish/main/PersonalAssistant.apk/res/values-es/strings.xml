@@ -176,14 +176,10 @@
   <string name="alipay_msp_bl_bt_shutdown">Bluetooth no está encendido y la confidencialidad inteligente no se puede utilizar</string>
   <string name="alipay_msp_bl_timeout">La conexión Bluetooth es anormal y no puede usar un dispositivo inteligente para pagar su pago</string>
   <string name="alipay_msp_bl_verify_error">La verificación del dispositivo inteligente falló, utilice la contraseña de pago para el pago</string>
-  <string name="alipay_msp_image_loader_view_tag">alipay_msp_image_loader_view_tag</string>
-  <string name="alipay_msp_tag_view_holder">alipay_msp_tag_view_holder</string>
-  <string name="alipay_msp_view_wrapper">alipay_msp_view_wrapper</string>
   <string name="alipay_net_error">No se puede conectar al servidor, ¿reintentar</string>
   <string name="alipay_newUserRegister">Nuevo registro de usuario</string>
   <string name="alipay_password">Contraseña</string>
   <string name="alipay_password_login">Iniciar sesión con contraseña</string>
-  <string name="alipay_phoneNumber">+86</string>
   <string name="alipay_pre_router_alipay_account">Use la cuenta registrada de Alipay</string>
   <string name="alipay_pre_router_cancel">Cancelación</string>
   <string name="alipay_pre_router_has_auth_account">Use una cuenta autorizada</string>
@@ -291,7 +287,6 @@
   <string name="ball_football_recent_end">Terminados</string>
   <string name="ball_football_recent_end_tip">Resultados</string>
   <string name="ball_football_recent_ing">En juego</string>
-  <string name="ball_football_recent_middle">:</string>
   <string name="ball_football_recent_text_show">Comentario de texto</string>
   <string name="ball_football_title">Fútbol</string>
   <string name="ball_football_total_rank">Estadisticas</string>
@@ -521,7 +516,6 @@
   <string name="express_company_phone_prefix">\"contacto:\"</string>
   <string name="express_company_pricing_details">Detalles de precios</string>
   <string name="express_complete">Aceptado</string>
-  <string name="express_complete_flag">3</string>
   <string name="express_contact_address">Escriba la dirección</string>
   <string name="express_contact_address_finding">Localizar...</string>
   <string name="express_contact_label">Información para el servicio de recogida</string>
@@ -532,7 +526,6 @@
   <string name="express_copy_number">Copia</string>
   <string name="express_delete_order">Eliminar</string>
   <string name="express_delivery">Entrega</string>
-  <string name="express_delivery_flag">5</string>
   <string name="express_dest_city_label">Destino</string>
   <string name="express_detailed_address">Dirección</string>
   <string name="express_field_empty">Vacío</string>
@@ -540,7 +533,6 @@
   <string name="express_goods_detail">Detalles del pedido</string>
   <string name="express_icon_tip">Recupere información de seguimiento de entrega exprés utilizando su número de teléfono y la información de pedido.</string>
   <string name="express_icon_tip_link">Seguridad &amp; Privacidad</string>
-  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Servicio de mensajería</string>
   <string name="express_inquiry">Seguimiento</string>
   <string name="express_inquiry_and_send">Seguimiento y envío</string>
@@ -606,7 +598,6 @@ Revisa tu número de rastreo \". </string>
   <string name="express_order_failed">Fallado</string>
   <string name="express_order_ongoing">Ordenar...</string>
   <string name="express_order_result">Resultado</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Aceptado</string>
   <string name="express_order_state_allograph">Firmado</string>
   <string name="express_order_state_cancelled">Cancelado</string>
@@ -868,15 +859,12 @@ Varias órdenes enviadas vía SF expreso de los vendedores fuera de Taobao, de t
   <string name="hour24_format_en">HH:mm</string>
   <string name="http_stock_error">No se pudo cargar la información</string>
   <string name="immediate_recommendation">Recomendaciones</string>
-  <string name="info_divider">|</string>
   <string name="item_type_custom">Personalizar</string>
   <string name="item_type_suggestion">Sugerencias</string>
   <string name="just_now">Ahora mismo</string>
   <string name="kakalib_bar_qr_code">Código de barras, código bidimensional</string>
   <string name="kakalib_ok">Confirmar</string>
   <string name="keyboard_alipay">Teclado de seguridad Alipay</string>
-  <string name="keyboard_more_abc">\#+=</string>
-  <string name="keyboard_more_num">123</string>
   <string name="keyboard_ok">Insertar</string>
   <string name="keyboard_space">Espacio</string>
   <string name="keyword_recommend">Recomendado</string>
@@ -1032,7 +1020,6 @@ Varias órdenes enviadas vía SF expreso de los vendedores fuera de Taobao, de t
   <string name="mini_safe_no">Código de seguridad</string>
   <string name="mini_safe_no_hint">Los últimos tres dígitos en la parte posterior de la tarjeta</string>
   <string name="mini_start_download">Comience a descargar...</string>
-  <string name="mini_str_null">xx</string>
   <string name="mini_temp_support_xiaomi">Temporalmente solo admite pulsera de mijo</string>
   <string name="mini_to_open">Para abrir</string>
   <string name="mini_to_open_error">El software de adquisición de huellas dactilares comienza de manera anormal. Verifique.</string>
@@ -1093,11 +1080,7 @@ Varias órdenes enviadas vía SF expreso de los vendedores fuera de Taobao, de t
   <string name="msp_memo_user_cancel">Cancelado por el usuario</string>
   <string name="msp_mini_card_type_text">Tipo de tarjeta</string>
   <string name="msp_mini_choose_identitify">Elegir identidad</string>
-  <string name="msp_mini_layout">mini_layout</string>
-  <string name="msp_mini_layout_parent">mini_layout_parent</string>
-  <string name="msp_mini_linblocksconpent">mini_linBlocksConpent</string>
   <string name="msp_mini_read_protocal_title">Seleccione el acuerdo de lectura</string>
-  <string name="msp_mini_root">mini_root</string>
   <string name="msp_mini_safty_code_info">El código de seguridad es un conjunto de números impresos en el área de la firma en la parte posterior de la tarjeta de crédito, generalmente los últimos 3 dígitos</string>
   <string name="msp_mini_safty_code_title">Codigo de Seguridad</string>
   <string name="msp_phone_num_info">"El número de teléfono móvil reservado por el banco es el número de teléfono móvil ingresado cuando se procesó la tarjeta bancaria.
@@ -1177,7 +1160,6 @@ Si no hay reserva, el número de teléfono está olvidado o está desactivado, c
   <string name="paycode_sdk_parent">Acceso directo de pago</string>
   <string name="paycode_sdk_parent_title">Pago rápido</string>
   <string name="payment">Mis pagos</string>
-  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">Mis pagos</string>
   <string name="payment_card_title">Mis pagos</string>
   <string name="payment_clear_records_dialog_message">¿eliminar todos los registros de historial de pagos?</string>
@@ -1242,12 +1224,10 @@ Si no hay reserva, el número de teléfono está olvidado o está desactivado, c
   <string name="payment_upload_data_success">Cargar datos correctamente</string>
   <string name="payment_user_notice_bar_text">Acerca de \"Auto pagos\"</string>
   <string name="personalAssistant_mainpage">Página de inicio</string>
-  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="pie_chart_label_atm">Retirado de cajero automatico:</string>
   <string name="pie_chart_label_catering">Comida:</string>
   <string name="pie_chart_label_education">Educación:</string>
   <string name="pie_chart_label_entertainment">Entretenimiento:</string>
-  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">Ir a medias:</string>
   <string name="pie_chart_label_life">Vida:</string>
   <string name="pie_chart_label_medical">Salud:</string>
@@ -1256,7 +1236,6 @@ Si no hay reserva, el número de teléfono está olvidado o está desactivado, c
   <string name="pie_chart_label_remain">Restante:</string>
   <string name="pie_chart_label_remittance">Transferido:</string>
   <string name="pie_chart_label_shopping">Compras:</string>
-  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">Pagos:</string>
   <string name="pie_chart_label_telephone_charge">Comunicaciones:</string>
   <string name="pie_chart_label_tenement">Alquiler:</string>
@@ -1444,7 +1423,6 @@ Si no hay reserva, el número de teléfono está olvidado o está desactivado, c
   <string name="steps_vip_des">Cuente los pasos sin instalar aplicaciones de terceros.</string>
   <string name="stock_card_add">Añadir compañía</string>
   <string name="stock_card_title">Acciones</string>
-  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Esquema de colores</string>
   <string name="stock_list_empty_text">No estás siguiendo ninguna empresa.</string>
   <string name="stock_search_empty">No se pudieron encontrar resultados</string>
@@ -1459,7 +1437,6 @@ Si no hay reserva, el número de teléfono está olvidado o está desactivado, c
   <string name="system_favorite_dialog_negative">Salir</string>
   <string name="system_favorite_dialog_positive">Permitir</string>
   <string name="system_favorite_dialog_title_confirm">Autorización requerida</string>
-  <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">Quitar</string>
   <string name="taobao_auth_login">Los usuarios de Taobao inician sesión rápidamente</string>
   <string name="taobao_protocol">Acuerdo de servicio de Taobao</string>
