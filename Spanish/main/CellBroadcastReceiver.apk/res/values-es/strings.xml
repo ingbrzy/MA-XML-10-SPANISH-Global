@@ -92,4 +92,12 @@
     <string name="cmas_opt_out_dialog_text">Actualmente recibes alertas de emergencia. ¿Quieres seguir recibiéndolas?</string>
     <string name="cmas_opt_out_button_yes">Sí</string>
     <string name="cmas_opt_out_button_no">No</string>
+    <string name="add_channel">Añadir canal</string>
+    <string name="category_india_settings_title">Configuración para India</string>
+    <string name="enable">Activar</string>
+    <string name="exercise">Ejercicio</string>
+    <string name="exercises">Ejercicios</string>
+    <string name="updating_title">Configuración de llamadas</string>
+    <string name="warning_alerts">Alertas de advertencia</string>
+    <string name="warning_alert">Alerta de advertencia</string>
 </resources>

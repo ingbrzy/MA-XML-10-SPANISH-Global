@@ -6091,4 +6091,26 @@ Toca"<b> Atrás</b> para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_tethering_title">Zona con cobertura inalámbrica</string>
     <string name="wifi_wps_fail_error">Error de configuración protegida Wi-Fi. Inténtelo de nuevo.</string>
     <string name="hotknot_charging_warning">La función %s puede verse afectada durante la carga USB</string>
+    <string name="wifi_and_mobile_skipped_message">El teléfono no podrá verificar que su software esté actualizado</string>
+    <string name="wifi_ap_choose_dual">Ambos</string>
+    <string name="wifi_api_test">API Wi-Fi</string>
+    <string name="wifi_config_info">Ajustes Wi-Fi</string>
+    <string name="wifi_display_autonomous_go">Activar GO autónomo</string>
+    <string name="wifi_display_certification_heading">Certificación</string>
+    <string name="wifi_display_listen_mode">Activar modo escucha</string>
+    <string name="wifi_display_operating_channel">Canal</string>
+    <string name="wifi_display_wps_config">Configuración WPS</string>
+    <string name="wifi_state_enabling">Activando</string>
+    <string name="wifi_state_label">Estado Wi-Fi:</string>
+    <string name="wifi_update">Actualizar estadisticas</string>
+    <string name="wifi_state_disabled">Desactivado</string>
+    <string name="wifi_state_disabling">Desactivando</string>
+    <string name="wifi_state_enabled">Activado</string>
+    <string name="wifi_display_pause">Pausar</string>
+    <string name="wifi_display_resume">Continuar</string>
+    <string name="wifi_display_listen_channel">Canal de escucha</string>
+    <string name="total_info_no_vibrator">Silenciar sonidos excepto alarmas</string>
+    <string name="unmute_sound_title">Dejar de silenciar sonido</string>
+    <string name="ssid_label">SSID</string>
+    <string name="hidden_ssid_label">SSID oculto</string>
 </resources>

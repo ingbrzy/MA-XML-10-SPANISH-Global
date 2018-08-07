@@ -138,4 +138,8 @@
     <string name="upload_succ_line5">Archivo enviado</string>
     <string name="upload_succ_ok">Aceptar</string>
     <string name="upload_success">Envío de %1$s completado</string>
+    <string name="incoming_file_toast_msg">Archivo entrante de otro dispositivo. Confirma que quieres recibir este archivo</string>
+    <string name="permdesc_handoverStatus">Permite recibir información del estado de transferencia de transferencia por Bluetooth.</string>
+    <string name="permlab_handoverStatus">Reciba transmisiones de transferencias de Bluetooth.</string>
+    <string name="upload_fail_waiting">Preparando archivos salientes,transmisión automática más tarde.</string>
 </resources>
