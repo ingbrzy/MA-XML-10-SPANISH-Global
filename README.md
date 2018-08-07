@@ -14,7 +14,7 @@ https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare
 
 What's new in our repository?  | Últimas actualizaciones al repositorio en Español:
 
-https://github.com/ingbrzy/MA-XML-10-SPANISH/commits
+https://github.com/ingbrzy/MA-XML-10-SPANISH-Global/commits
 
 Special thanks to the translators volunteers:
 
