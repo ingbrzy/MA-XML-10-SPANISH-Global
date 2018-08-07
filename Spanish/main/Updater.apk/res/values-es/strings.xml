@@ -16,7 +16,6 @@
   <string name="btn_stop">Detener</string>
   <string name="btn_yes">Sí</string>
   <string name="check_new_version">Comprobar</string>
-  <string name="chengelog">%1$s</string>
   <string name="dialog_3g_desc">Tenga en cuenta que el uso de datos móviles para descargar actualizaciones puede suponer un gasto de datos importante</string>
   <string name="dialog_3g_title">¡Advertencia!</string>
   <string name="dialog_btn_3g">Continuar de todos modos</string>
@@ -34,7 +33,6 @@ Los datos no serán borrados.\""</string>
   <string name="menu_title_current_version_log">¿Qué hay nuevo?</string>
   <string name="menu_title_pick_rom_file">Elegir el paquete de actualización</string>
   <string name="menu_title_recovery">Reiniciar al modo Recovery</string>
-  <string name="message">%1$s</string>
   <string name="message_checkbox">Ocultar futuros mensajes del equipo de Xiaomi.eu</string>
   <string name="message_title">¡NOTA!</string>
   <string name="new_version">¡Nueva actualización disponible!</string>
@@ -58,7 +56,6 @@ Las actualizaciones no están disponibles!"</string>
   <string name="server_error">El servidor no responde, puede que la aplicación no funcione correctamente</string>
   <string name="share_title">Compartir con</string>
   <string name="stable">estable</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="version">Actual:</string>
   <string name="weekly">semanal</string>
   <string name="wifi_recommended">¡No hay conexión Wi-Fi para comenzar la descarga de forma segura!</string>
