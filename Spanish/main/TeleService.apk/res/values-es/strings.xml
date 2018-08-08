@@ -510,7 +510,7 @@ Calidad de reproducción"</string>
     <string name="labelCFVideo">Vídeo</string>
     <string name="labelCDMAMore">Ajustes de llamadas CDMA</string>
     <string name="labelCdmaMore_with_label">Ajustes de llamadas CDMA (%s)</string>
-    <string name="apn_settings">Nombres de Puntos de Acceso</string>
+    <string name="apn_settings">APN</string>
     <string name="settings_label">Configuración de red</string>
     <string name="phone_accounts">Cuentas de llamada</string>
     <string name="phone_accounts_make_calls_with">Realizar llamadas con</string>

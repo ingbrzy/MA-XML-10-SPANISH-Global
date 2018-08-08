@@ -589,7 +589,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Try this:</string>
     <string name="mw_miuichromium_error_page_title">An error occurred</string>
     <string name="mw_miuichromium_error_page_unknown_error">Oops, something went wrong</string>
-    <string name="mw_miuichromium_error_page_wlan">Turn on Wi-Fi</string>
+    <string name="mw_miuichromium_error_page_wlan">Activar Wi-Fi</string>
     <string name="mw_month_picker_dialog_title">Set month</string>
     <string name="mw_new_tab_otr_not_saved">"Chrome &lt;em>won’t save&lt;/em> the following information:
         &lt;ul>

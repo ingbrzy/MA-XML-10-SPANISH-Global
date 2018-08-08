@@ -3,11 +3,11 @@
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_auto_brightness">Brillo</string>
     <string name="status_bar_toggle_data">Datos móviles</string>
-    <string name="status_bar_toggle_flight_mode">Avión</string>
+    <string name="status_bar_toggle_flight_mode">Modo Avión</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Bloqueo</string>
     <string name="status_bar_toggle_mute">Silencio</string>
-    <string name="status_bar_toggle_rotate">Rotación apagada</string>
+    <string name="status_bar_toggle_rotate">Rotación</string>
     <string name="status_bar_toggle_screen_button">Botones</string>
     <string name="status_bar_toggle_screenshot">Captura</string>
     <string name="status_bar_toggle_sync">Sincro</string>
@@ -16,7 +16,7 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_power_mode">Rendimiento</string>
     <string name="status_bar_toggle_wifi_ap">Punto de acceso</string>
-    <string name="status_bar_toggle_quiet_mode">DND</string>
+    <string name="status_bar_toggle_quiet_mode">No Molestar</string>
     <string name="status_bar_toggle_paper_mode">Modo lectura</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_cast">Proyectar</string>

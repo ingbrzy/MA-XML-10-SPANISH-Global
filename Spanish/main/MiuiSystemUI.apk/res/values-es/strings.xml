@@ -1270,7 +1270,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_rssi_emergency_only">Solo llamadas de emergencia</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screenbutton_label">Botones</string>
-    <string name="quick_settings_screenlock_label">Pantalla de bloqueo</string>
+    <string name="quick_settings_screenlock_label">Bloquear</string>
     <string name="quick_settings_screenshot_label">Captura de pantalla</string>
     <string name="quick_settings_secondary_label_until">Hasta %s</string>
     <string name="quick_settings_settings_label">Ajustes</string>
