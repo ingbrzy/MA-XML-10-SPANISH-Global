@@ -230,6 +230,7 @@
     <string name="tax_unemployment">Desempleo</string>
     <string name="tax_update_time_format">Datos suministrados por HeXun (%s)</string>
     <string name="times" />
+    <string name="unit_data_default_currency_0">EUR</string>
     <string name="unit_data_display_area_acre">Acre</string>
     <string name="unit_data_display_area_are">Are</string>
     <string name="unit_data_display_area_ha">Hectárea</string>

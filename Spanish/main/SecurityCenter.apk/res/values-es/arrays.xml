@@ -54,11 +54,6 @@
         <item>Cuando el dispositivo esté bloqueado o después de salir de la aplicación</item>
         <item>Cuando el dispositivo esté bloqueado o 1 minuto después de salir de la aplicación</item>
     </string-array>
-    <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-    </string-array>
     <string-array name="sort_type">
         <item>Estado</item>
         <item>Nombre de la app</item>
@@ -128,10 +123,5 @@
         <item>No vibrar nunca</item>
         <item>Vibrar en modo silencio</item>
         <item>Vibrar siempre</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

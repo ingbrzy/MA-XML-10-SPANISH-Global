@@ -200,15 +200,6 @@ Toque la pantalla para agregar o ubicar la ciudad manualmente"</string>
     <string name="traffic_control_today_numbers">Hoy: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Mañana: %1$s</string>
     <string name="traffic_controls">Restricción vehicular</string>
-    <string name="tts_report_aqi" />
-    <string name="tts_report_defautl_head" />
-    <string name="tts_report_split" />
-    <string name="tts_report_temperature_high_centigrade" />
-    <string name="tts_report_temperature_high_fahrenheit" />
-    <string name="tts_report_temperature_low_centigrade" />
-    <string name="tts_report_temperature_low_fahrenheit" />
-    <string name="tts_report_weather_desc" />
-    <string name="tts_report_wind" />
     <string name="unit">Unidades</string>
     <string name="unit_temperature">Unidad de temperatura</string>
     <string name="unit_wind">Unidad de velocidad del viento</string>
@@ -217,10 +208,6 @@ Toque la pantalla para agregar o ubicar la ciudad manualmente"</string>
     <string name="update_setting_title_text">Actualizar información del tiempo</string>
     <string name="updated_a_moment_ago">Actualizado hace un momento</string>
     <string name="updating">Actualizando…</string>
-    <string name="video_dialog_no_play" />
-    <string name="video_dialog_play" />
-    <string name="video_dialog_subtitle" />
-    <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">Ayer</string>
     <string name="view_indexes_item_today">Hoy</string>
     <string name="view_indexes_item_tommorrow">Mañana</string>

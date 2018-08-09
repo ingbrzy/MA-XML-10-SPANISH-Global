@@ -100,7 +100,6 @@ No puedes acercar con el teclado ni en la barra de navegación."</string>
     <string name="accessibility_shortcut_description">Si activas la combinación de teclas, podrás presionar los dos botones de volumen durante 3 segundos para iniciar una función de accesibilidad.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Habilitar en pantalla bloqueada</string>
     <string name="accessibility_shortcut_service_title">Servicio de combinación de teclas</string>
-    <string name="accessibility_summary_default_combination">%1$s/%2$s</string>
     <string name="accessibility_summary_state_disabled">DESACTIVADO</string>
     <string name="accessibility_summary_state_enabled">ACTIVADO</string>
     <string name="accessibility_sync_disabled">Sincronización inhabilitada</string>
@@ -4632,7 +4631,6 @@ Considera utilizar una ^1 más rápida para mejorar el rendimiento."</string>
     <string name="supl_not_set">&lt;No definido></string>
     <string name="support_account_picker_add_account">Agregar cuenta</string>
     <string name="support_account_request_prefix">Solicitando como</string>
-    <string name="support_country_format">%1$s - %2$s</string>
     <string name="support_country_list_title">Compatibilidad con:</string>
     <string name="support_disclaimer_do_not_show">No volver a mostrar</string>
     <string name="support_disclaimer_title">Enviar información del sistema</string>

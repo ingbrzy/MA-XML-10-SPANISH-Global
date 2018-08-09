@@ -13,7 +13,6 @@
     <string name="bl_no_block_sms">Sin mensajes bloqueados.</string>
     <string name="bl_no_blacklist">Ningún número bloqueado.</string>
     <string name="wl_no_whitelist">Sin excepciones.</string>
-    <string name="log_count">(%d)</string>
     <string name="tab_block_log_unKnowNumber">Número privado</string>
     <string name="user_define_title">Añadir reglas</string>
     <string name="blacklist_prefix_add_hint">Bloquear todos los números que comiencen con este prefijo</string>
@@ -22,7 +21,6 @@
     <string name="all_address_choose_hint">Todos los números de esta provincia</string>
     <string name="address_choose_hint">%1$s, %2$s y %3$d otras ubicaciones</string>
     <string name="two_address_choose_hint">%1$s y %2$s</string>
-    <string name="one_address_choose_hint">%s1</string>
     <string name="marked_by_user">"Lo has marcado como "</string>
     <string name="dlg_black_antispam_message">¿Añadir este número a la lista negra?</string>
     <string name="dlg_white_antispam_message">¿Añadir este número a la lista de excepciones?</string>
@@ -232,7 +230,6 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="info_unantispam_phone">Permitir llamadas</string>
     <string name="info_unantispam_phone_sms">Permitir llamadas y SMS</string>
     <string name="st_antispam_delete">Eliminar</string>
-    <string name="info_antispam_current_mode">%s</string>
     <string name="note_list_none">La lista está vacía</string>
     <string name="note_sms_none">No hay mensajes</string>
     <string name="note_call_none">No hay llamadas</string>
@@ -326,7 +323,6 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="kilobyteShort">KB</string>
     <string name="byteShort">B</string>
     <string name="yuan">CNY</string>
-    <string name="percent_text_formatted">%s%%</string>
     <string name="main_toolbar_firewall">Restringir uso de datos</string>
     <string name="main_toolbar_statistic">Estadísticas de uso de datos</string>
     <string name="main_toolbar_purchase">Recargar</string>
@@ -466,8 +462,6 @@ responda"</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">Actualizado hace 1 semana</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizado hace más de una semana</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado hace más de un mes</string>
-    <string name="left_precent">60%</string>
-    <string name="right_precent">100%</string>
     <string name="pref_avaible_traffic">Plan de datos</string>
     <string name="pref_daily_traffic">Límite de datos máximo</string>
     <string name="pref_special_package_setting">Plan de datos personalizado</string>
@@ -495,8 +489,6 @@ responda"</string>
     <string name="declaration_dialog_msg">Esta característica puede ayudarte a realizar un seguimiento de su uso, pero no garantiza que no se apliquen cargos adicionales. Para obtener mejores resultados, establece un límite sensato.</string>
     <string name="input_used_hint">Introduzca uso de datos</string>
     <string name="input_used_max_hint">Introduce uso de datos (menos de %s)</string>
-    <string name="text_day" />
-    <string name="text_cycle_day">%s</string>
     <string name="settings">Ajustes de uso de datos</string>
     <string name="adjust_traffic_data">Establecer uso de datos</string>
     <string name="per_month_pkg_traffic_settings">Establecer límite de datos</string>
@@ -603,9 +595,6 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>
-    <string name="operator_number_cmcc">10086</string>
-    <string name="operator_number_unicom">10010</string>
-    <string name="operator_number_telcom">10000</string>
     <string name="operator_mi_sim">Mi SIM</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
@@ -680,7 +669,6 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="roaming_limit_warning_notification_body">Toque para ver el uso de datos.</string>
     <string name="roaming_limit_network_notification_body">Toque para ver redes de datos disponibles</string>
     <string name="roaming_limit_dialog_message">Límite de datos diario en itinerancia alcanzado.</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">¿Permitir itinerancia de datos móviles?</string>
     <string name="dialog_roaming_warning_message">La operadora hará un cargo después de activar el roaming internacional. ¿Activar de todas formas?</string>
     <string name="dialog_roaming_warning_checkbox">No mostrar de nuevo</string>
@@ -955,7 +943,6 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="om_other_processes_cpu_usage_summary">El uso medio de CPU es menor a %s%%</string>
     <string name="om_cpu_overload_app_fixed">Todos los problemas fueron resueltos</string>
     <string name="om_memory_clean_cleaning_text">Aumentando velocidad…</string>
-    <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Esta aplicación puede ralentizar
 tu dispositivo"</string>
     <string name="om_ill_proc_handle_unstaill_title">¿Desinstalar %s?</string>
@@ -1011,7 +998,6 @@ tu dispositivo"</string>
     <string name="battery_desc_bluetooth">Batería consumida por Bluetooth</string>
     <string name="battery_desc_display">Batería consumida por la pantalla y la retroiluminación</string>
     <string name="battery_desc_apps">Batería consumida por aplicación</string>
-    <string name="percentage">%d%%</string>
     <string name="usage_type_data_recv">Datos móviles recibidos</string>
     <string name="usage_type_data_send">Datos móviles enviados</string>
     <string name="usage_type_no_coverage">Tiempo sin señal</string>
@@ -1655,7 +1641,6 @@ tu dispositivo"</string>
     <string name="antivirus_choose_engine_settings">Ajustes de definiciones de virus</string>
     <string name="antivirus_choose_engine_title">Definiciones</string>
     <string name="antivirus_choose_engine_dialog_title">Seleccionar definiciones</string>
-    <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_monitor_clean_tips">Elementos eliminados: %s</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Política de Privacidad</string>
@@ -2394,17 +2379,10 @@ tu dispositivo"</string>
     <string name="power_save_low_battery_seekbar_title">Cambiar perfiles de batería cuando la energía restante sea inferior a %1$d%%</string>
     <string name="power_save_low_battery_option_title">Si la batería está baja, cambiar a</string>
     <string name="power_save_low_battery_option_summary">Cuando la batería esté por encima del límite inferior, el dispositivo volverá al perfil utilizado por última vez</string>
-    <string name="power_save_low_battery_percentage_ten">10%</string>
-    <string name="power_save_low_battery_percentage_twenty">20%</string>
-    <string name="power_save_low_battery_percentage_thirty">30%</string>
-    <string name="power_save_low_battery_percentage_forty">40%</string>
-    <string name="power_save_low_battery_percentage_fifty">50%</string>
     <string name="power_save_on_time_title">Programar cambio de perfil</string>
     <string name="power_save_on_time_auto_save_title">Programar cambio de perfil</string>
     <string name="power_save_on_time_start_time_summary">Iniciar</string>
-    <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_end_time_summary">Terminar</string>
-    <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">Durante este período cambiar a</string>
     <string name="power_save_on_time_option_summary">Al final de este período el dispositivo volverá al perfil utilizado por última vez</string>
     <string name="power_save_on_time_default_time">00:00</string>
