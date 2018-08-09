@@ -16,7 +16,6 @@
   <string name="barcode_system_unmatch">Actualizar MIUI antes de instalar Scanner</string>
   <string name="barcode_to_install">Instalar el Escáner para continuar</string>
   <string name="barcode_uninstalled">El escáner está desinstalado</string>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="choose_search_engine">Seleccionar motor de búsqueda web predeterminado</string>
   <string name="clear_history">Borrar historial</string>
   <string name="clear_shortcuts">Borrar accesos directos</string>

@@ -4,27 +4,14 @@
         <item>CMWAP</item>
         <item>CMNET</item>
     </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Red doméstica</item>
         <item>Todas las redes</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>CALIENTE</item>
         <item>TEMPLADO</item>
         <item>FRÍO</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="agps_si_mode_entries">
         <item>MSB</item>
@@ -320,11 +307,6 @@
         <item>LDAC</item>
         <item>Habilitar códigos opcionales</item>
         <item>Deshabilitar códigos opcionales</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Por defecto)</item>
@@ -722,10 +704,6 @@
         <item>Compatibilidad</item>
         <item>Alta velocidad</item>
     </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="data_usage_data_range">
         <item>Últimos 30 días</item>
         <item>Establecer ciclo uso...</item>
@@ -931,54 +909,6 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Gráfico</item>
         <item>Porcentaje</item>
     </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
-    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nada</item>
         <item>480p</item>
@@ -1158,17 +1088,6 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>2 horas</item>
         <item>8 horas</item>
     </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
         <item>Denegar</item>
@@ -1192,11 +1111,6 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Normal</item>
         <item>Extremo</item>
     </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animaciones desactivadas</item>
         <item>Escala de animación .5x</item>
@@ -1216,17 +1130,6 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Veloz</item>
         <item>Muy veloz</item>
         <item>Rapidísimo</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Very slow</item>
@@ -1259,12 +1162,6 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Sólo de personas destacadas</item>
         <item>Ninguno</item>
     </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="vpn_states">
         <item>Desconectado</item>
         <item>Iniciando...</item>
@@ -1295,12 +1192,6 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Medio</item>
         <item>Alto</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Preferir Wi-Fi</item>
         <item>Preferida para móviles</item>
@@ -1318,15 +1209,6 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Preferir Wi-Fi</item>
         <item>Preferida para móviles</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>2</item>
-        <item>1</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Conectar automáticamente</item>

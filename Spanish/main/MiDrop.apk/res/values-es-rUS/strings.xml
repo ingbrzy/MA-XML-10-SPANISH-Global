@@ -40,7 +40,6 @@
     <string name="fcm_fallback_notification_channel_label">Varios</string>
     <string name="gcm_fallback_notification_channel_label">Varios</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abort_connected">Desconectar</string>
     <string name="abort_connected_message">¿Desconectarse del otro dispositivo?</string>
     <string name="app_name">Mi Drop</string>
@@ -151,7 +150,6 @@
 
 En Android 6.0 y posterior, debe activar los servicios de ubicación para enviar y recibir archivos."</string>
     <string name="location_skip">Omitir</string>
-    <string name="max_send_file">99+</string>
     <string name="mime_type_audio">Audio</string>
     <string name="mime_type_choose">Seleccionar tipo de archivo</string>
     <string name="mime_type_pics">Imagen</string>

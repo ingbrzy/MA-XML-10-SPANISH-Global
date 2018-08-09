@@ -100,7 +100,6 @@ No se puede ampliar el teclado ni la barra de navegación."</string>
     <string name="accessibility_shortcut_description">Si el acceso directo está activado, pulsa los dos botones de volumen durante tres segundos para iniciar una función de accesibilidad.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Permitir en la pantalla de bloqueo</string>
     <string name="accessibility_shortcut_service_title">Servicio del acceso directo</string>
-    <string name="accessibility_summary_default_combination">%1$s/%2$s</string>
     <string name="accessibility_summary_state_disabled">DESACTIVADO</string>
     <string name="accessibility_summary_state_enabled">ACTIVADO</string>
     <string name="accessibility_sync_disabled">Sincronización inhabilitada</string>
@@ -4632,7 +4631,6 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="supl_not_set">&lt;No configurado></string>
     <string name="support_account_picker_add_account">Añadir cuenta</string>
     <string name="support_account_request_prefix">Solicitando como</string>
-    <string name="support_country_format">%1$s - %2$s</string>
     <string name="support_country_list_title">Asistencia en:</string>
     <string name="support_disclaimer_do_not_show">No volver a mostrar</string>
     <string name="support_disclaimer_title">Enviar información del sistema</string>

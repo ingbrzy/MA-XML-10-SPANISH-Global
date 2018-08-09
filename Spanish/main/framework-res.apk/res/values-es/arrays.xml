@@ -37,8 +37,6 @@
         <item>Otra</item>
         <item>Personalizar</item>
     </string-array>
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Casa</item>
         <item>Trabajo</item>

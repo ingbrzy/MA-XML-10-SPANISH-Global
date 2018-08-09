@@ -52,20 +52,6 @@
     <item>En el camino</item>
     <item>Enviar</item>
   </string-array>
-  <string-array name="express_status_detail_flag">
-    <item>0</item>
-    <item>5</item>
-  </string-array>
-  <string-array name="express_status_flag_all">
-    <item>0</item>
-    <item>5</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>6</item>
-    <item>-1</item>
-  </string-array>
   <string-array name="express_watched_app_filter">
     <item>承运公司:</item>
     <item>运单编号:</item>

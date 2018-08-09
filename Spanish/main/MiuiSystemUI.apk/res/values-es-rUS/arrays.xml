@@ -17,15 +17,6 @@
         <item>Máximo 3 procesos</item>
         <item>Máximo 4 procesos</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -103,11 +94,6 @@
         <item>LDAC</item>
         <item>Habilitar codecs opcionales</item>
         <item>Deshabilitar codecs opcionales</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (por defecto)</item>
@@ -263,17 +249,6 @@
         <item>Veloz</item>
         <item>Muy veloz</item>
         <item>El más rápido</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Cargando</item>
