@@ -24,10 +24,10 @@
         <item>igual a</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
-        <item>USD</item>
         <item>EUR</item>
-        <item>HKD</item>
+        <item>USD</item>
         <item>JPY</item>
         <item>CNY</item>
+        <item>HKD</item>
     </string-array>
 </resources>
