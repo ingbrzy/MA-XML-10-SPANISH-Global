@@ -178,7 +178,8 @@
     <string name="timer_clock_alert_text">Establecer temporizador</string>
     <string name="timer_continue">Continuar</string>
     <string name="timer_continue_timer">Reanudar temporizador</string>
-    <string name="timer_got_it">OK</string>
+	<string name="timer_end_time">El temporizador se detendrá a las %s</string>
+    <string name="timer_got_it">Aceptar</string>
     <string name="timer_item_duration_display">%1$d min %2$d seg</string>
     <string name="timer_item_label_hint">Nombre del temporizador</string>
     <string name="timer_item_picker_hour">H</string>
@@ -213,5 +214,6 @@
     <string name="worldcolock_timezone_gap">Hora</string>
     <string name="worldcolock_timezone_local">Igual a la hora local</string>
     <string name="timer_pause_hint">Pausar</string>
+    <string name="timer_cancel_hint">Detener</string>
     <string name="timer_running_hint">Continuar</string>
 </resources>
