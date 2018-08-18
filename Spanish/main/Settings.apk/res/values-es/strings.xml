@@ -4393,6 +4393,8 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_custom_carrier">Editar nombre de operador</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nombre de Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificaciones</string>
+	<string name="status_bar_settings_expand_top_notification">Expandir la notificación superior</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Mostrar en la pantalla de bloqueo</string>
     <string name="status_bar_settings_long_click_sort">Pulsa y mantén para acceder a un acceso rápido</string>
     <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>
     <string name="status_bar_settings_no_carrier">Ninguno</string>

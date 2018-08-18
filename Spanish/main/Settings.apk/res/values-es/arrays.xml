@@ -1329,4 +1329,8 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Escala de animación 5x</item>
         <item>Escala de animación 10x</item>
     </string-array>
+	<string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Búsqueda</item>
+        <item>Ajustes</item>
+    </string-array>
 </resources>
