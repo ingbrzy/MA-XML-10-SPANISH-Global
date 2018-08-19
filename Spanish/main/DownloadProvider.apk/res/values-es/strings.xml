@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="download_filesize_unknown">Desconocido</string>
-    <string name="app_label">Descargas</string>
-    <string name="permlab_downloadManager">Acceso a Descargas.</string>
-    <string name="permdesc_downloadManager">Permite que la aplicación acceda a Descargas y que la use para descargar archivos. Las aplicaciones maliciosas pueden usar esto para interrumpir las descargas y acceder a información privada.</string>
+<string name="permdesc_downloadManager">Permite que la aplicación acceda a Descargas y que la use para descargar archivos. Las aplicaciones maliciosas pueden usar esto para interrumpir las descargas y acceder a información privada.</string>
     <string name="permlab_downloadManagerAdvanced">Funciones avanzadas de Descargas.</string>
     <string name="permdesc_downloadManagerAdvanced">Permite que la aplicación acceda a las funciones avanzadas de Descargas. Las aplicaciones maliciosas pueden usar esto para interrumpir las descargas y acceder a información privada.</string>
     <string name="permlab_downloadCompletedIntent">Enviar notificaciones de descarga.</string>
