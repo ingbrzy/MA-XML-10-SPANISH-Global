@@ -112,7 +112,7 @@
     <string name="description_image_button_dialpad">Teclado de marcado</string>
     <string name="description_image_button_tools">Opciones</string>
     <string name="description_target_answer">Contestar</string>
-    <string name="ok">OK</string>
+    <string name="ok">Aceptar</string>
     <string name="cancel">Cancelar</string>
     <string name="wait_prompt_str">"¿Enviar los siguientes tonos?
 "</string>

@@ -18,12 +18,12 @@
     <string name="find_device_telephony_fault">Localizar Dispositivo: Error de telefonía (%s).</string>
     <string name="time_correction_success">Hora corregida</string>
     <string name="time_correction_failure">No se pudo corregir la hora (%s)</string>
-    <string name="find_device_stop_noise">Pulsa OK para silenciar</string>
+    <string name="find_device_stop_noise">Pulsa Aceptar para silenciar</string>
     <string name="find_device_noise_title">Alarma de Localizar dispositivo</string>
     <string name="find_device_success_title">Localizar dispositivo</string>
     <string name="find_device_notice">Ve a&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />para localizar, bloquear o restaurar tu dispositivo.</string>
     <string name="find_device_notice_sms_alert">Si cambias las tarjetas SIM, se enviará automáticamente un SMS para reactivar esta característica.</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">Aceptar</string>
     <string name="unlock_error_network">No se puede conectar a la red</string>
     <string name="unlock_error_device_id">No se puede obtener la ID de dispositivo</string>
     <string name="unlock_error_ssl_hand_shake">No se pudo conectar con el servidor, intenta ajustar la fecha y la hora manualmente.</string>

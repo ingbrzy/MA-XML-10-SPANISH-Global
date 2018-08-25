@@ -512,7 +512,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_login_dialog_title">Authentication required</string>
     <string name="mw_login_dialog_username_field">Username</string>
     <string name="mw_low_memory_error">Unable to complete previous operation due to low memory</string>
-    <string name="mw_media_player_error_button">OK</string>
+    <string name="mw_media_player_error_button">Aceptar</string>
     <string name="mw_media_player_error_text_invalid_progressive_playback">Este vídeo no es válido para retransmisión en este dispositivo.</string>
     <string name="mw_media_player_error_text_unknown">No se puede reproducir este vídeo.</string>
     <string name="mw_media_player_error_title">No se puede reproducir vídeo</string>

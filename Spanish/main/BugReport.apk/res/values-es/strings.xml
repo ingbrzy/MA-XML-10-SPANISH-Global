@@ -146,7 +146,7 @@
     <string name="discard_draft_dialog_button_cancel">Permanecer</string>
     <string name="network_unavailable_dialog_title">No se puede conectar a la red</string>
     <string name="network_unavailable_dialog_content">Tu informe se enviará cuando la conexión a internet esté disponible.</string>
-    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="network_unavailable_dialog_button_ok">Aceptar</string>
     <string name="packaging_dialog_content">Generando el informe…</string>
     <string name="loading_apps">Cargando lista…</string>
     <string name="network_err">No se puede conectar a la red.</string>
@@ -159,7 +159,7 @@
     <string name="cta_dialog_content">Esta aplicación necesita conectarse a internet para funcionar normalmente.</string>
     <string name="cta_not_show_again">No volver a mostrar</string>
     <string name="cta_cancel">Cancelar</string>
-    <string name="cta_confirm">OK</string>
+    <string name="cta_confirm">Aceptar</string>
     <string name="submit_dialog_title">Enviar reporte</string>
     <string name="submit_dialog_content">Tus comentarios, junto con los archivos adjuntos y registros, se enviarán a los servidores de MIUI. Puede contener información personal.</string>
     <string name="submit_dialog_content_global">Sus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puede desmarcar las casillas correspondientes para los elementos que no desee subir) se enviarán a los servidores de MIUI y a una sección restringida de foro MIUI para los desarrolladores. La información sobre sus hilos y la actividad del foro también se recopilará para su análisis y comunicación posterior. Los registros pueden contener información personal y sus datos de ubicación.</string>

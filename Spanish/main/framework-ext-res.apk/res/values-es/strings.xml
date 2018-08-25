@@ -7,7 +7,7 @@
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Bloqueo</string>
     <string name="status_bar_toggle_mute">Silencio</string>
-    <string name="status_bar_toggle_rotate">Rotación</string>
+    <string name="status_bar_toggle_rotate">No rotar</string>
     <string name="status_bar_toggle_screen_button">Botones</string>
     <string name="status_bar_toggle_screenshot">Captura</string>
     <string name="status_bar_toggle_sync">Sincro</string>
@@ -56,7 +56,7 @@
     <string name="reboot_info_auto_boot">El dispositivo está programado para encenderse a las %s</string>
     <string name="reboot_info_shutdown_alarm">Siguiente alarma: %s</string>
     <string name="key_btn_space">Espacio</string>
-    <string name="key_btn_ok">OK</string>
+    <string name="key_btn_ok">Aceptar</string>
     <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
     <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
     <string name="lockscreen_access_pattern_cell_added">Celda añadida</string>

@@ -801,7 +801,7 @@
   <string name="video_comment_publish">Enviar</string>
   <string name="video_comment_topic">\#Añadir tópico#</string>
   <string name="video_data_consumption_cancel">Cancelar</string>
-  <string name="video_data_consumption_confirm">OK</string>
+  <string name="video_data_consumption_confirm">Aceptar</string>
   <string name="video_data_consumption_dialog_message">Subir va a requerir %1$s de datos móviles</string>
   <string name="video_data_consumption_dialog_title">Aviso de uso de datos</string>
   <string name="video_description">Descripción del video</string>

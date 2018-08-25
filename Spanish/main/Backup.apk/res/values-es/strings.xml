@@ -20,7 +20,7 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="backup_failed">No se pudo realizar la copia</string>
     <string name="sdcard_unmounted">Insertar tarjeta SD ahora</string>
     <string name="backup_progress">Realizando copia…</string>
-    <string name="button_ok">OK</string>
+    <string name="button_ok">Aceptar</string>
     <string name="button_continue">Continuar</string>
     <string name="backup_finished">Copia completada</string>
     <string name="backup_report">Ver detalles</string>
@@ -194,7 +194,7 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="enable_encrypt_summery1">Iniciar sesión en Mi Cuenta para acceder a las copias de seguridad cifradas.</string>
     <string name="enable_encrypt_summery2">Tus copias de seguridad serán cifradas automáticamente. Para acceder a ellas debes iniciar sesión en Mi Cuenta.</string>
     <string name="enable_encrypt_xiaomi_account">Esta copia de seguridad ha sido creada por %1$s. Para restaurar, borra la cuenta actual y accede como %2$s.</string>
-    <string name="button_got_it">OK</string>
+    <string name="button_got_it">Aceptar</string>
     <string name="no_encrypt_password">Sin contraseña</string>
     <string name="enable_encrypt_fail">Error de encriptación</string>
     <string name="read_encrypt_fail">No es posible leer las copias de seguridad cifradas</string>
