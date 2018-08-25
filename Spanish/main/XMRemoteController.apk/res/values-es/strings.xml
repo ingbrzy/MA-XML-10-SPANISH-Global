@@ -192,7 +192,7 @@
     <string name="dialog_install_assistant_content">Instalar la transmisión de Mi Screen para sacar el máximo provecho de Mi TV o Mi Box</string>
     <string name="dining_room">Comedor</string>
     <string name="disagree_cancel">Cancelar</string>
-    <string name="disagree_confirm">OK</string>
+    <string name="disagree_confirm">Aceptar</string>
     <string name="disagree_legal_terms_warning">Revocar la autorización podría hacer que varias funciones importantes no estuviesen dispoonibles. ¿Continuar de todas formas?</string>
     <string name="download_assistant">Transmitir pantalla</string>
     <string name="download_path_fail">No se pudo descargar. Comprueba tu tarjeta SD o memoria USB.</string>
@@ -460,7 +460,7 @@ Asegúrate de que %1$s responde."</string>
     <string name="match_stb_intro_ok">Soltar cuando el cambio se muestre en la pantalla</string>
     <string name="match_stb_intro_up">Soltar cuando el cursor se mueva hacia arriba</string>
     <string name="match_stb_name_left">Izquierda</string>
-    <string name="match_stb_name_ok">OK</string>
+    <string name="match_stb_name_ok">Aceptar</string>
     <string name="match_stb_name_up">Arriba</string>
     <string name="match_stb_seletion_des">Elige tu ubicación</string>
     <string name="match_succuss">Todo listo</string>

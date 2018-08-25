@@ -151,7 +151,7 @@
     <string name="dialog_title_add_white_list_error">Atención</string>
     <string name="dialog_msg_add_white_list_error">No se pudo añadir este archivo a las excepciones</string>
     <string name="dialog_ok_add_white_list_error">De acuerdo</string>
-    <string name="ok">OK</string>
+    <string name="ok">Aceptar</string>
     <string name="cancel">Cancelar</string>
     <string name="title_delete_large_file">Eliminar archivos grandes</string>
     <string name="summary_delete_large_file">¿Eliminar permanentemente los archivos seleccionados?</string>

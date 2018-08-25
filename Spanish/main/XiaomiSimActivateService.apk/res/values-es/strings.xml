@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Servicio de Activación de SIM de Xiaomi</string>
-    <string name="accept">OK</string>
+    <string name="accept">Aceptar</string>
     <string name="explain_send_sms_permission_title">Verifique su número de teléfono</string>
     <string name="explain_send_sms_permission_msg">Para activar %s, el Marco de Servicios Xiaomi enviará un SMS para verificar su número de teléfono. Se cobrará el coste de un SMS normal por su operador.</string>
     <string name="explain_send_sms_permission_button">Verificar</string>
