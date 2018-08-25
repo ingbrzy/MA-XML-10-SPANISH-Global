@@ -116,7 +116,7 @@
     <string name="context_menu_send_sms">Enviar mensaje</string>
     <string name="context_menu_view_contact">Ver contacto</string>
     <string name="context_menu_view_mms">Ver MMS</string>
-    <string name="conversation">Mensajería</string>
+    <string name="conversation">Mensajes</string>
     <string name="conversation_listitem_avatar">Avatar</string>
     <string name="converting_to_picture_message">Convirtiendo en mensaje multimedia…</string>
     <string name="converting_to_text_message">Convirtiendo en mensaje de texto…</string>
@@ -672,5 +672,5 @@ Intentos realizados: %s."</string>
     <string name="yes">OK</string>
     <string name="yesterday">Ayer</string>
     <string name="notification_channel_description">Notificaciones de Mensajes</string>
-    <string name="notification_channel_name">Mensajería</string>
+    <string name="notification_channel_name">Mensajes</string>
 </resources>
