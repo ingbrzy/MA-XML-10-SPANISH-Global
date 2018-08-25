@@ -25,7 +25,6 @@
     <string name="s5">Crear un evento de calendario</string>
     <string name="s6">¿Quieres permitir que el anuncio cree un evento de calendario?</string>
     <string name="s7">Anuncio de prueba</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_action_bar_home_description">Ir a la página de Inicio</string>
     <string name="abc_action_bar_up_description">Subir</string>
     <string name="abc_action_menu_overflow_description">Más</string>
