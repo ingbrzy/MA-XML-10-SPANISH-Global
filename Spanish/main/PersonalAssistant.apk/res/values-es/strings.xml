@@ -254,6 +254,17 @@
   <string name="already_download">Descargado</string>
   <string name="amount_ten_million_format">%sdiez mil</string>
   <string name="app_label">Tarjeta rápida</string>
+  <string name="app_setting">Personal Assistant settings</string>
+  <string name="app_setting_add_header_bg">Add background image to header</string>
+  <string name="app_setting_datetime">Date display</string>
+  <string name="app_setting_dialog_cancel">Cancel</string>
+  <string name="app_setting_has_not_setted">Not Setted</string>
+  <string name="app_setting_has_setted">Setted</string>
+  <string name="app_setting_more_setting">More Setting</string>
+  <string name="app_setting_on_off_setting">Switch setting</string>
+  <string name="app_setting_privacy_policy">Privacy Policy</string>
+  <string name="app_setting_search">Search Box</string>
+  <string name="app_setting_xiaoai">Xiao AI Button</string>
   <string name="app_name">miot-device-lib</string>
   <string name="apps">Sugerencias de aplicaciones</string>
   <string name="apps_label">Apps</string>
