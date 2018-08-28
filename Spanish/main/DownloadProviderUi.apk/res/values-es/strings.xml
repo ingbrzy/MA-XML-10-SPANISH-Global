@@ -159,6 +159,9 @@
     <string name="pref_summary_no_limit_popup">Ilimitado</string>
     <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de uso de datos</string>
     <string name="preferences_title">Ajustes</string>
+	<string name="privacy_policy">Política de privacidad</string>
+    <string name="privacy_tip_content">"¿Usar Xunlei Accelerator para acelerar descargas? La URL del host de la descarga se cargará en los servidores de Xunlei. Los detalles de Mi Mi cuenta también se cargarán para verificar si tiene suscripciones activas a este servicio."</string>
+    <string name="privacy_tip_title">¿Usar Xunlei Accelerator?</string>
     <string name="privacy_tip_cancel">Cancelar</string>
     <string name="privacy_tip_ok">Aceptar</string>
     <string name="rank">Clasificación</string>

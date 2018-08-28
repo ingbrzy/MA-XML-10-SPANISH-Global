@@ -883,6 +883,7 @@ Motivo: \"%s\""</string>
     <string name="preference_others">Otros</string>
     <string name="preference_phone">Dispositivo</string>
     <string name="preference_phone_more_title">Ajustes de llamada</string>
+	<string name="preference_privacy_policy_title">Política de privacidad</string>
     <string name="preference_remove_duplicate">Combinar contactos duplicados</string>
     <string name="preference_show_firewall_calllog">Mostrar llamadas bloqueadas en el historial de llamadas</string>
     <string name="preference_show_yellowpage_tab_description">Páginas amarillas podría no funcionar correctamente si está función está desactivada.</string>

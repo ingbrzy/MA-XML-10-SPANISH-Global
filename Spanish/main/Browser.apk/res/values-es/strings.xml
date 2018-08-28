@@ -898,6 +898,7 @@ Recuerde que los archivos que descargue y los marcadores que agregue se guardar�
     <string name="pref_privacy_formdata_title">Datos del formulario</string>
     <string name="pref_privacy_location_title">Acceso a ubicación</string>
     <string name="pref_privacy_security_title">Privacidad y seguridad</string>
+	<string name="pref_privacy_policy">Política de privacidad</string>
     <string name="pref_save_bandwidth_mode_title">Reducir el consumo de datos</string>
     <string name="pref_security_accept_cookies">Aceptar cookies</string>
     <string name="pref_security_accept_cookies_summary">Permitir que los sitios guarden y lean los datos de cookies</string>
@@ -1040,6 +1041,17 @@ Recuerde que los archivos que descargue y los marcadores que agregue se guardar�
     <string name="share_image_text">¡Mira lo que he compartido! @MIUI</string>
     <string name="share_page_text">Mira lo que he compartido: %1$s @MIUI| %2$s</string>
     <string name="share_video">Compartir vídeo</string>
+	<string name="short_video_description">Canal de vídeo</string>
+	<string name="short_video_tip">¡Mira! Un vídeo gracioso</string>
+	<string name="show_check_security_url_check_tip_dialog_description">"Recopilaremos y usaremos sus datos personales si elige usar nuestros servicios.
+		Aquí están los datos que recopilaremos::
+		1. URLs seguras: recopilaremos las URL de los sitios web que visita mientras utiliza nuestros servicios.
+		2. Datos de ubicación: accederemos a su información de ubicación.
+		Así es como usamos los datos que recopilamos:
+		1. Seguridad: Usamos sus datos cuando protegemos su dispositivo de fraudes y virus, así como por razones de almacenamiento y respaldo.
+		2. Contenido: Sus datos nos ayudan a proporcionar contenido más relevante.
+		El navegador necesita conectarse a Internet para funcionar normalmente. Debe aceptar nuestro %2$s y %1$s para poder usar el Navegador.​"</string>
+	<string name="show_security_tip_dialog_title">Política de privacidad</string>
     <string name="sign_in_to" formatted="false">Iniciar sesión para %s1 %s2\"</string>
     <string name="site_sort_des">Reorganizar elementos</string>
     <string name="skip_button_label">Omitir</string>
