@@ -358,10 +358,6 @@
     <string name="resource_ranking">Popular</string>
     <string name="resource_ranking_free">Gratis</string>
     <string name="resource_ranking_purchase">Pago</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Tonos de llamada</string>
     <string name="resource_ringtone_playing_error">Error</string>
     <string name="resource_ringtone_volume_mute">Timbre silenciado</string>

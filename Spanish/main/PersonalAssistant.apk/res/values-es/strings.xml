@@ -628,10 +628,12 @@ Revisa tu número de rastreo \". </string>
   <string name="express_select_address">Dirección</string>
   <string name="express_select_addressee">Para</string>
   <string name="express_select_city">Elija la ciudad</string>
+  <string name="express_select_send_providers">Seleccione un servicio de mensajeria</string>
   <string name="express_select_sender">De</string>
   <string name="express_send">Nave</string>
   <string name="express_send_mms">Enviar</string>
   <string name="express_send_mms_format">Paquete entregado por %1$s | Número de seguimiento: %2$s</string>
+  <string name="express_send_not_available">El servicio no está disponible temporalmente. Por favor Inténtalo más tarde.</string>
   <string name="express_send_notice">Artículos prohibidos</string>
   <string name="express_sender_info">Información del remitente</string>
   <string name="express_sender_name">Nombre del remitente</string>
