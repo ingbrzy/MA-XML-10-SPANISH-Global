@@ -196,6 +196,7 @@
     <string name="online_precust_plant">Planta</string>
     <string name="online_precust_scenery">Escenario</string>
     <string name="online_search_hint">Buscar recursos en línea</string>
+    <string name="pref_privacy_policy">Política de Privacidad</string>
     <string name="present_local_themes">Mis temas</string>
     <string name="present_local_themes_subtitle">Personalice su dispositivo</string>
     <string name="present_official_themes">Nuestra selección</string>

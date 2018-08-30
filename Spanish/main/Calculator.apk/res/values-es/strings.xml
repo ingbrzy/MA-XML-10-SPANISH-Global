@@ -159,6 +159,7 @@
     <string name="preference_follow_web_title">Pagina web oficial</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_privacy_title">Política de Privacidad</string>
     <string name="preference_settings">Ajustes</string>
     <string name="preference_use_degress_summary">Sustituir radianes con ángulos en funciones trigonométricas</string>
     <string name="preference_use_degress_title">Usar ángulos</string>

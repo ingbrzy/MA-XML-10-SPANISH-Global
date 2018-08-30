@@ -326,4 +326,6 @@
     <string name="customer_service_complain">Reportar servicio al cliente</string>
     <string name="customer_service_station">Ubicaciones de servicio</string>
     <string name="select_system_app_tag">Seleccione un problema</string>
+    <string name="privacy_category_title">Privacidad</string>
+    <string name="privacy_policy_title">Política de Privacidad</string>
 </resources>

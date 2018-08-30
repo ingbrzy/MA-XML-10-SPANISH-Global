@@ -2199,6 +2199,7 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notificaciones
     <string name="keyboard_shortcuts_helper">Asistente de combinación de teclas</string>
     <string name="keyboard_shortcuts_helper_summary">Mostrar accesos directos disponibles</string>
     <string name="keyguard_advance_setting_title">Ajustes avanzados</string>
+    <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="keywords_accounts">cuenta</string>
     <string name="keywords_airplane">Avión;Modo avión;Avión;Modo avión;Vuelo;Modo vuelo</string>
     <string name="keywords_all_apps">apps, descarga, aplicaciones, sistema</string>

@@ -1634,4 +1634,5 @@ Esta tablet no cuenta con un altavoz. Puede cambiar al modo manos libres o usar 
     <string name="requesting_unlock">Solicitando desbloqueo de red...</string>
     <string name="unlock_failed">Solicitud de desbloqueo de red incorrecta.</string>
     <string name="unlock_success">Desbloqueo de red correcto.</string>
+    <string name="privacy_policy_title">Política de Privacidad</string>
 </resources>

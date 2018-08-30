@@ -2199,6 +2199,7 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="keyboard_shortcuts_helper">Ayuda de accesos directos de teclado</string>
     <string name="keyboard_shortcuts_helper_summary">Mostrar accesos directos de teclado disponibles</string>
     <string name="keyguard_advance_setting_title">Ajustes avanzados</string>
+    <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="keywords_accounts">cuenta</string>
     <string name="keywords_airplane">Avión;Modo avión;Aeronave;Modo Aeronave;Vuelo;Modo vuelo</string>
     <string name="keywords_all_apps">aplicaciones, descargar, aplicaciones, sistema</string>

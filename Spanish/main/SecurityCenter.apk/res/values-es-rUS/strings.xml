@@ -2419,4 +2419,5 @@ su dispositivo"</string>
     <string name="shutdown_time_day">Apagar: %2$s %1$dd</string>
     <string name="shutdown_time_day_tomorrow">Apagar: %1$s</string>
     <string name="shutdown_time">Apagar: %1$s</string>
+    <string name="menu_item_about_privacy_title">Política de Privacidad</string>
 </resources>

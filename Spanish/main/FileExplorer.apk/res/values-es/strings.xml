@@ -448,6 +448,7 @@
   <string name="operation_reply">Comentario</string>
   <string name="operation_send">Enviar</string>
   <string name="operation_share">Compartir</string>
+  <string name="operation_show_privacy_policy">ver Política de Privacidad</string>
   <string name="operation_show_sys">Mostrar archivos ocultos</string>
   <string name="operation_unfavorite">No favorito</string>
   <string name="original_user_desc">Sube vídeos originales regularmente para obtener el estado de Creador.</string>
