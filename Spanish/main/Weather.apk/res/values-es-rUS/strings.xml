@@ -155,6 +155,7 @@ Toque la pantalla para agregar o ubicar la ciudad manualmente"</string>
     <string name="privacy_grant_failed">No se pudo conceder la autorización. Espere un momento y vuelva a intentarlo.</string>
     <string name="privacy_grant_or_revoke_settings">Conceder y cancelar autorizaciones</string>
     <string name="privacy_grant_success">Autorización concedida</string>
+    <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_revoke_failed">No se pudo cancelar la autorización. Espere un momento y vuelva a intentarlo.</string>
     <string name="privacy_revoke_success">Autorización cancelada</string>
     <string name="privacy_settings">Política de Privacidad</string>

@@ -398,4 +398,5 @@ Si no actualiza, es posible que las aplicaciones duales no funcionen correctamen
     <string name="can_not_switch_when_green_kid_active">El cambio al Segundo Espacio está restringido por el control parental</string>
     <string name="need_network_when_bind">Conectar a la red antes de añadir dispositivos</string>
     <string name="this_function_can_not_use_in_second_space">Esta función solo se puede usar en el Primer Espacio</string>
+    <string name="menu_item_about_privacy_title">Política de Privacidad</string>
 </resources>

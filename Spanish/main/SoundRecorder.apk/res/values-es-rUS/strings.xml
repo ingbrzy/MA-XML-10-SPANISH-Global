@@ -152,4 +152,5 @@
     <string name="head_set_tip_dialog_ok">Entendido</string>
     <string name="rename_fail_tip">No se pudo renombrar. El elemento con este nombre ya existe.</string>
     <string name="dialog_privacy_revoke_tips">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Desea revocar la autorización? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de revocar la autorización de los servicios Mi Cloud.</string>
+    <string name="privacy_policy_title">Política de Privacidad</string>
 </resources>

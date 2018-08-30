@@ -86,4 +86,5 @@ El economizador de batería tratará de forma selectiva las apps importantes."</
     <string name="sleepmode_privacy_link">Aprenda más sobre privacidad y seguridad</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>
     <string name="sleepmode_disclaimer_agree">Aceptar</string>
+    <string name="privacy">Política de Privacidad</string>
 </resources>

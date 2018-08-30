@@ -2471,4 +2471,5 @@ tu dispositivo"</string>
     <string name="shutdown_time_day">Apagado: %2$s %1$dd</string>
     <string name="shutdown_time_day_tomorrow">Apagado: %1$s</string>
     <string name="shutdown_time">Apagado: %1$s</string>
+    <string name="menu_item_about_privacy_title">Política de Privacidad</string>
 </resources>

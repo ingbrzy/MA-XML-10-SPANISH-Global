@@ -159,6 +159,7 @@
     <string name="search_setting_description">Busca texto en tus notas</string>
     <string name="select_account_prompt">Activa la sincronización de notas</string>
     <string name="set_alarm_description">Establecer alarma</string>
+    <string name="setting_privacy">Política de Privacidad</string>
     <string name="snippet_audio_stub">Notas de voz</string>
     <string name="snippet_image_stub">Nota de imagen</string>
     <string name="snippet_image_template">[Imagen %1$s ]</string>
