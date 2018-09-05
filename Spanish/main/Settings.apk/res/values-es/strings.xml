@@ -1036,7 +1036,8 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="charge_length_format">hace %1$s</string>
     <string name="charging_sounds_title">Sonidos de carga de batería</string>
     <string name="check_find_device_status_failure_confirm">Aceptar</string>
-    <string name="check_importance">¿Marcar como importante?</string>
+    <string name="check_importance">Reglas para notificaciones agrupadas</string>
+	<string name="check_importance_dialog_cancel">Cancelar</string>
     <string name="check_update">Buscar actualizaciones</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizar volumen de llamada entrante para notificaciones</string>
     <string name="checking_decryption">Comprobando...</string>
@@ -1062,8 +1063,11 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="clear_instant_app_data">Borrar aplicación</string>
     <string name="clear_uri_btn_text">Permitir acceso</string>
     <string name="clear_user_data_text">Borrar datos</string>
+	<string name="close_aod">"Esta función no se puede combinar con \"Modo siempre activo\". Apague \"Modo siempre activo\" primero."</string>
     <string name="close_app">Cerrar aplicación actual</string>
     <string name="close_demo_mode">Cancelar</string>
+	<string name="close_fod">"No podrá desbloquear su dispositivo usando su huella digital cuando la pantalla esté apagada. El desbloqueo de huellas dactilares solo funcionará cuando la pantalla esté encendida."</string>
+	<string name="close_fod_aod">"No podrá desbloquear su dispositivo usando su huella digital cuando la pantalla esté apagada. \"Modo siempre activo\" tampoco estará disponible. El desbloqueo de huellas dactilares solo funcionará cuando la pantalla esté encendida."</string>
     <string name="close_gesture">Cerrar con un gesto</string>
     <string name="close_miui_optimization_title">Desactivar optimización MIUI</string>
     <string name="close_optimization_message">El formato de texto, cuentas y otras partes de MIUI podrían verse afectadas después de desactivar esta función.</string>
@@ -4393,9 +4397,11 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_basic_settings">Ajustes básicos</string>
     <string name="status_bar_settings_custom_carrier">Editar nombre de operador</string>
     <string name="status_bar_settings_custom_wifi_name">Editar nombre de Wi-Fi</string>
+	<string name="status_bar_settings_customer_feedback">comentarios</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificaciones</string>
 	<string name="status_bar_settings_expand_top_notification">Expandir la notificación superior</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar en la pantalla de bloqueo</string>
+	<string name="status_bar_settings_function_description">Información sobre esta característica</string>
     <string name="status_bar_settings_long_click_sort">Pulsa y mantén para acceder a un acceso rápido</string>
     <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>
     <string name="status_bar_settings_no_carrier">Ninguno</string>
@@ -4425,6 +4431,11 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_toggle_collapse_after_clicked">Contraer al pulsar</string>
     <string name="status_bar_settings_toggle_position">Cambiar posiciones</string>
     <string name="status_bar_settings_user_fold">Carpeta de notificaciones</string>
+	<string name="status_bar_settings_user_fold_description1">La carpeta de notificaciones se introdujo en MIUI 9. Esta característica filtra las notificaciones sin importancia y las coloca en una carpeta separada..</string>
+	<string name="status_bar_settings_user_fold_description2">MIUI recordará qué notificaciones tocas, y luego usará múltiples criterios para determinar si son importantes..</string>
+	<string name="status_bar_settings_user_fold_description3">"Si las notificaciones que considera importantes continúan en la carpeta de Notificaciones, asegúrese de informarnos de tales problemas. Agradeceríamos sus comentarios."</string>
+	<string name="status_bar_settings_user_fold_disable">Desactivar</string>
+	<string name="status_bar_settings_user_fold_enable">Activar</string>
     <string name="status_bar_settings_user_fold_summary">Todas las notificaciones no importantes aparecerán en otra carpeta</string>
     <string name="status_bar_style_list">Combinada</string>
     <string name="status_bar_style_page">Separada</string>
@@ -4769,6 +4780,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="title_hdmi_color_calibration">Corrección de color preestablecido</string>
     <string name="title_layout_current">Tamaño del texto</string>
     <string name="title_layout_current2">Tamaño del texto</string>
+	<string name="to_close">Apagar</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduce la contraseña</string>
     <string name="toast_need_login">Iniciar sesión en Mi Cuenta</string>
     <string name="total">No molestar</string>

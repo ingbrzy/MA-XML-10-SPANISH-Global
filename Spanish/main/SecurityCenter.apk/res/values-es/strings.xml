@@ -1023,8 +1023,13 @@ tu dispositivo"</string>
     <string name="power_center_state_on">Activado</string>
     <string name="power_center_state_off">Desactivado</string>
     <string name="power_center_charge_time">%1$s para finalizar</string>
+	<string name="power_center_hints_scan_danger_result">Puede solucionar problemas de batería ahora</string>
+	<string name="power_center_list_item_auto_brightness">Ajustar el brillo de la pantalla automáticamente</string>
+	<string name="power_center_list_item_close_bluetooth">Apagar Bluetooth</string>
+	<string name="power_center_list_item_deep_save_title">Ajustes avanzados</string>
+	<string name="power_center_list_item_set_lockscreen_time">Ponga el móvil en suspensión después de 30 segundos de inactividad</string>
     <string name="power_dialog_cancel">Cancelar</string>
-    <string name="power_dialog_ok">OK</string>
+    <string name="power_dialog_ok">Aceptar</string>
     <string name="power_consume_rank_title">Uso de la batería</string>
     <string name="power_consume_rank_software">Aplicaciones</string>
     <string name="power_consume_rank_hardware">Hardware</string>
@@ -1197,6 +1202,7 @@ tu dispositivo"</string>
     <string name="auto_task_operation_memory_clean_lockscreen">Limpiar memoria</string>
     <string name="auto_task_operation_mobile_data">Datos móviles</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
+	<string name="auto_task_result_summary_text">Establecer tareas automatizadas para Ahorro de batería</string>
     <string name="auto_task_operation_mute">Modo silencio</string>
     <string name="auto_task_operation_vibration">Vibración</string>
     <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -1248,6 +1254,11 @@ tu dispositivo"</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="auto_task_manage_new_task">Nuevas tareas automáticas</string>
     <string name="handle_bar_title_system">Sistema</string>
+	<string name="handle_title_abnormal">Drenado de batería</string>
+	<string name="handle_title_app">Aplicaciones</string>
+	<string name="handle_title_system">Uso de bateria del sistema</string>
+	<string name="hide_mode_result_summary_text">Personaliza la configuración de ahorro de batería para aplicaciones individuales</string>
+	<string name="handle_title_details">Detalles de uso de batería</string>
     <string name="apps_list_header_title_sms">Verifica la aplicación de mensajes</string>
     <string name="apps_list_header_title_sms_access">Restringir acceso a los códigos de verificación</string>
     <string name="apps_item_title_system">Actualización del sistema</string>
@@ -1586,6 +1597,8 @@ tu dispositivo"</string>
     <string name="usb_adb_input_apply_step_3">¿Permitir ahora?</string>
     <string name="adb_install_no_network">Conéctese a la red e inténtelo de nuevo</string>
     <string name="pc_install_manager">Instalar vía USB</string>
+	<string name="pc_main_activity_back">Atrás</string>
+	<string name="pc_settings_title">Ajustes del uso de batería</string>
     <string name="monitor_requests_from_pc">Administrar la instalación de las aplicaciones vía USB</string>
     <string name="app_install_intercept">Bloquear instalación</string>
     <string name="pc_to_phone_install">Instalación bloqueada de %s vía USB</string>
@@ -2472,4 +2485,13 @@ tu dispositivo"</string>
     <string name="shutdown_time_day_tomorrow">Apagado: %1$s</string>
     <string name="shutdown_time">Apagado: %1$s</string>
     <string name="menu_item_about_privacy_title">Política de Privacidad</string>
+	<string name="extreme_power_save_mode_card_summary">Active el modo extremo para ahorrar batería cuando la batería está baja.</string>
+	<string name="extreme_power_save_mode_summary">El ahorrador de bateria extremo restringe la activdad de segundo plano y la sincronización.</string>
+    <string name="extreme_power_save_mode_title">Ahorrador extremo de batería</string>
+	<string name="privacy_apps_go_to_use">Empezar</string>
+	<string name="privacy_apps_manage">Administrar aplicaciones ocultas</string>
+	<string name="privacy_apps_manager_dialog_message">"El icono de esta aplicación no se mostrará en la pantalla de inicio después de ocultar esta aplicación. ¿Ocultar esta aplicación ahora?"</string>
+	<string name="privacy_apps_tutorial">Tutorial</string>
+	<string name="privacy_apps_tutorial_prompt_pageone">"Cuando oculta una aplicación, se mueve a una carpeta oculta. Su acceso directo en la pantalla de inicio está oculto.
+	Esta característica no es compatible con las aplicaciones del sistema."</string>
 </resources>

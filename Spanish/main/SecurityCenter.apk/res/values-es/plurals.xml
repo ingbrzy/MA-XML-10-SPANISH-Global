@@ -120,6 +120,14 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Se encontraron %d problemas de batería, soluciónelos</item>
         <item quantity="one">Se encontró %d problema de batería, soluciónelo</item>
     </plurals>
+	<plurals name="power_center_menu_text">
+        <item quantity="other">elementos</item>
+        <item quantity="one">elemento</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Añadir %d minutos</item>
+        <item quantity="one">Añadir %d minuto</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Descargado por %1$d personas</item>
         <item quantity="one">Descargado por %1$d personas</item>
