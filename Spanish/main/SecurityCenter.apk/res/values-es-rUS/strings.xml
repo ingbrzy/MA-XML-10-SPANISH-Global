@@ -317,12 +317,6 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="app_name_na">Uso de datos</string>
     <string name="list_empty_text">Vacío</string>
     <string name="dialog_title_attention">Advertencia</string>
-    <string name="kilobyte_per_second">Kb/s</string>
-    <string name="megabyte_per_second">Mb/s</string>
-    <string name="gigabyteShort">GB</string>
-    <string name="megabyteShort">MB</string>
-    <string name="kilobyteShort">KB</string>
-    <string name="byteShort">B</string>
     <string name="yuan">CNY</string>
     <string name="main_toolbar_firewall">Restringir el uso de datos</string>
     <string name="main_toolbar_statistic">Estadísticas del uso de datos</string>

@@ -3280,7 +3280,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="power_user">Usuario</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicaciones preinstaladas</string>
-    <string name="pref_bg_network_title">Conexión de fondo</string>
+    <string name="pref_bg_network_title">Datos en segundo plano</string>
     <string name="pref_button_light">Luz de los botones</string>
     <string name="pref_button_light_summary">Iluminar botones de Menú, %1$sy Volver</string>
     <string name="pref_button_light_summary_sub">Inicio,</string>

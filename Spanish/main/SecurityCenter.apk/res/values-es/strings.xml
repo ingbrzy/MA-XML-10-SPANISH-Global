@@ -329,8 +329,8 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="main_button_usage_adjust">Sincronizar uso de datos móviles</string>
     <string name="main_button_usage_adjusting">Cambiando…</string>
     <string name="main_button_usage_adjusting_bill">Cambiando…</string>
-    <string name="main_button_usage_adjust_manual">Establecer límite de uso de datos móviles</string>
-    <string name="main_button_usage_package_setting">Establecer límite de uso de datos móviles</string>
+    <string name="main_button_usage_adjust_manual">Establecer límite de uso de datos</string>
+    <string name="main_button_usage_package_setting">Establecer límite de uso de datos</string>
     <string name="main_alert_message_no_imsi">Tarjeta SIM no detectada</string>
     <string name="main_primary_message_traffic_remain">Datos móviles</string>
     <string name="main_primary_message_traffic_warning">Alerta de datos móviles</string>
@@ -437,7 +437,7 @@ responda"</string>
     <string name="pref_title_traffic_speed_state">Mostrar velocidad de la red</string>
     <string name="pref_title_declaration">Aviso legal</string>
     <string name="pref_new_installed_preconfig_title">Ajustes por defecto para nuevas aplicaciones</string>
-    <string name="pref_bg_network_title">Conexión de fondo</string>
+    <string name="pref_bg_network_title">Datos en segundo plano</string>
     <string name="pref_mi_sim_settings">Ajustes Mi SIM</string>
     <string name="pref_title_upload_data_usage">Notificar estadísticas de uso de datos</string>
     <string name="pref_summary_upload_data_usage">Las estadísticas de tu uso de datos nos ayudan a mejorar MIUI. Los informes se llevan a cabo de acuerdo con nuestra Política de Privacidad.</string>
@@ -788,7 +788,7 @@ Lee las instrucciones que vienen con el router y restaura los ajuntes de fábric
 "<b> 5. Asegúrate de que tu router está bien conectado</b>"
 Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problemas con la conexión de casa, contacta con el proveedor de servicios de internet."</string>
     <string name="permission_exception_title">Conexión restringida para aplicaciones</string>
-    <string name="bg_network_exception_title">Conexión de fondo restringida</string>
+    <string name="bg_network_exception_title">Datos en segundo plano restringidos</string>
     <string name="networkchanged_exception_title">Conexión modificada</string>
     <string name="networkchanged_exception_summary">La conexión de red se ha modificado. Por favor, inténtalo de nuevo.</string>
     <string name="network_test_speed">Test velocidad de Wi-Fi</string>

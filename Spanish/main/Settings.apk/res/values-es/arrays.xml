@@ -1333,4 +1333,12 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Búsqueda</item>
         <item>Ajustes</item>
     </string-array>
+	<string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Batería</item>
+        <item>Cámara trasera</item>
+        <item>Pantalla</item>
+        <item>Resolución</item>
+        <item>Android</item>
+    </string-array>
 </resources>
