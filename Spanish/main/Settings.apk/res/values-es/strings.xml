@@ -1097,7 +1097,7 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="color_white">Blanco</string>
     <string name="color_yellow">Amarillo</string>
     <string name="common_settings">Ajustes rápidos</string>
-    <string name="complete_parameters">Todos las especificaciones</string>
+    <string name="complete_parameters">Todas las especificaciones</string>
     <string name="complete_settings">Ajustes generales</string>
     <string name="computing_size">Calculando…</string>
     <string name="condition_airplane_summary">La red móvil, la conexión Wi-Fi y el Bluetooth están desactivados. No puedes hacer llamadas ni conectarte a Internet.</string>
@@ -1439,7 +1439,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="device_battery">Batería</string>
     <string name="device_build_id">Número de versión</string>
     <string name="device_cellular_network">Búsqueda de redes móviles</string>
-    <string name="device_complete_parameters">Todos las especificaciones</string>
+    <string name="device_complete_parameters">Todas las especificaciones</string>
     <string name="device_cpu">CPU</string>
     <string name="device_cpu10_info">Deca-core</string>
     <string name="device_cpu2_info">Dual-core</string>
