@@ -4768,7 +4768,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="toast_lockscreen_glogin_empty_password">Introducir contraseña</string>
     <string name="toast_need_login">Inicie sesión con su Mi Cuenta</string>
     <string name="total">No molestar</string>
-    <string name="total_info">Silenciar sonidos %1$sexcepto las alarmas</string>
+    <string name="total_info">Silenciar sonidos %1$s excepto las alarmas</string>
     <string name="total_memory">Memoria total</string>
     <string name="total_size">%s en total</string>
     <string name="total_size_label">Total</string>
