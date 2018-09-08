@@ -5,7 +5,7 @@
     <string name="status_bar_toggle_data">Datos</string>
     <string name="status_bar_toggle_flight_mode">Modo Avión</string>
     <string name="status_bar_toggle_gps">GPS</string>
-    <string name="status_bar_toggle_lock">Bloqueo</string>
+    <string name="status_bar_toggle_lock">Bloquear</string>
     <string name="status_bar_toggle_mute">Silencio</string>
     <string name="status_bar_toggle_rotate">No rotar</string>
     <string name="status_bar_toggle_screen_button">Botones</string>
