@@ -3583,7 +3583,7 @@ Interfaz UT: %5$s"</string>
     <string name="remove_managed_profile_label">Quitar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en Modo Silencioso</string>
+    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en Silenciar</string>
     <string name="repeat_title">Repetir</string>
     <string name="reset_aaid">Reiniciar Identificador de publicidad</string>
     <string name="reset_app_preferences">Restablecer ajustes de aplicaciones</string>
@@ -4243,7 +4243,7 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="silent_mode">Modo silencioso</string>
     <string name="silent_mode_title">Modo silencioso</string>
     <string name="silent_off">Desactivar</string>
-    <string name="silent_settings">Silencio/No molestar</string>
+    <string name="silent_settings">Silenciar/No molestar</string>
     <string name="silent_standard">Silenciar</string>
     <string name="silent_time">Duración del modo silencioso</string>
     <string name="silent_total">No molestar</string>
@@ -4373,7 +4373,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="stable_build">Estable</string>
     <string name="standard">Silenciar</string>
     <string name="standard_info">Se silenciarán llamadas y notificaciones</string>
-    <string name="start_silent_mode">Activar Modo Silencioso</string>
+    <string name="start_silent_mode">Activar Silenciar</string>
     <string name="starting_android">Iniciando Android…</string>
     <string name="status_awaiting_tap">Toca una etiqueta para editarla...</string>
     <string name="status_awake_time">Tiempo de actividad</string>
