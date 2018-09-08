@@ -1409,6 +1409,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="delete_or_keep_legacy_passwords_confirm_msg">¿Eliminar esta huella?</string>
     <string name="delete_rule">Quitar reglas</string>
     <string name="delete_saved_network">Eliminar las redes guardadas</string>
+	<string name="delete_sound_effect">Sonido al \"Borrar\"</string>
     <string name="deleted_apps">Aplicaciones eliminadas</string>
     <string name="deletion_helper_automatic_title">Automático</string>
     <string name="deletion_helper_manual_title">Manual</string>
@@ -5870,6 +5871,7 @@ Toca"<b> Atrás</b> para conectarte a otra red Wi-Fi.</string>
     <string name="zen_mode_configure_rule">Configurar regla</string>
     <string name="zen_mode_delete_rule">Eliminar regla</string>
     <string name="zen_mode_delete_rule_button">Eliminar</string>
+	
     <string name="zen_mode_delete_rule_confirmation">¿Quieres eliminar la regla \"%1$s\"?</string>
     <string name="zen_mode_end_time">Hora de finalización</string>
     <string name="zen_mode_end_time_next_day_summary_format">Día siguiente a las %s</string>
