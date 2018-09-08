@@ -1123,8 +1123,8 @@ Motivo: \"%s\""</string>
     <string name="title_other_devices">Otros dispositivos disponibles</string>
     <string name="title_paired_devices">Dispositivos vinculados</string>
     <string name="toast_call_detail_error">No se pueden ver los detalles de la llamada solicitada</string>
-    <string name="toast_call_no_SoundRecorder">Recorder app not available</string>
-    <string name="toast_call_no_notes">Notes app not available</string>
+    <string name="toast_call_no_SoundRecorder">Grabadora no disponible</string>
+    <string name="toast_call_no_notes">Notas no disponible</string>
     <string name="toast_copy_done">Hecho</string>
     <string name="toast_copying">Copiando…</string>
     <string name="toast_displaying_all_contacts">Mostrando todos los contactos</string>

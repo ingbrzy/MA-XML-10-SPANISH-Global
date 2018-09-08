@@ -344,4 +344,8 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Registrado %d días seguidos</item>
         <item quantity="one">Registrado %d vez</item>
     </plurals>
+	<plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problemas</item>
+        <item quantity="one">%1$d problema</item>
+    </plurals>
 </resources>

@@ -19,7 +19,7 @@ https://github.com/ingbrzy/MA-XML-10-SPANISH-Global/commits
 Special thanks to the translators volunteers:
 
 * @Infante007
-* @nosijf982
+* @danielchc
 * @rdgi
 * @Muchachito
 * @BadWolf

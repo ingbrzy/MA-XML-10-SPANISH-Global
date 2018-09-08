@@ -61,6 +61,8 @@
     <string name="asset_sync_power_alert_message">Conectar cargador para respaldar canciones.</string>
     <string name="asset_sync_power_alert_title">Batería baja</string>
     <string name="audio_picker_title">Escoger una canción</string>
+	<string name="auto_update">Actualizar automáticamente</string>
+	<string name="auto_update_tip">Puede actualizar las aplicaciones del sistema usando datos móviles. Esto generará gastos de datos adicionales.</string>
     <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
     <string name="avoid_to_use_traffic_summary">No usar redes móviles para escuchar música online</string>
     <string name="avoid_to_use_traffic_title">Preguntar cuando se utilizan datos móviles para reproducir canciones</string>

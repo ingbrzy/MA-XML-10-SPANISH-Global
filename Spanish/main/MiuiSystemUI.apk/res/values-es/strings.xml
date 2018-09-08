@@ -174,8 +174,8 @@
     <string name="accessibility_quick_settings_flashlight_off">Linterna apagada.</string>
     <string name="accessibility_quick_settings_flashlight_on">Linterna encendida.</string>
     <string name="accessibility_quick_settings_flashlight_unavailable">Linterna no disponible.</string>
-    <string name="accessibility_quick_settings_hotspot_changed_off">Hotspot móvil desactivado.</string>
-    <string name="accessibility_quick_settings_hotspot_changed_on">Hotspot móvil activado.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Punto de acceso móvil desactivado.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Punto de acceso móvil activado.</string>
     <string name="accessibility_quick_settings_less_time">Menos tiempo.</string>
     <string name="accessibility_quick_settings_location_changed_off">Reporte de localización desactivado.</string>
     <string name="accessibility_quick_settings_location_changed_on">Reporte de localización activado.</string>
@@ -191,7 +191,6 @@
     <string name="accessibility_quick_settings_rotation_value">%s modo</string>
     <string name="accessibility_quick_settings_settings">Abrir ajustes.</string>
     <string name="accessibility_quick_settings_user">Sesión iniciada como %s</string>
-    <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi desactivado.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi activado.</string>
     <string name="accessibility_quick_settings_work_mode_changed_off">Modo trabajo desactivado.</string>
@@ -210,7 +209,6 @@
     <string name="accessibility_recents_item_launched">Iniciando %s.</string>
     <string name="accessibility_recents_item_open_app_info">Abrir información de %s.</string>
     <string name="accessibility_recents_item_will_be_dismissed">Desestimar%s.</string>
-    <string name="accessibility_recents_task_header">%1$s %2$s</string>
     <string name="accessibility_remove_notification">Eliminar notificación.</string>
     <string name="accessibility_ringer_silent">Silencio.</string>
     <string name="accessibility_ringer_vibrate">Vibración.</string>
@@ -229,7 +227,7 @@
     <string name="accessibility_splite_screen_secondary">Añadida como la aplicación secundaria en la Pantalla dividida</string>
     <string name="accessibility_status_bar_headphones">Auriculares conectados</string>
     <string name="accessibility_status_bar_headset">Auriculares conectados</string>
-    <string name="accessibility_status_bar_hotspot">Hotspot</string>
+    <string name="accessibility_status_bar_hotspot">Punto de acceso</string>
     <string name="accessibility_three_bars">Tres barras.</string>
     <string name="accessibility_tty_enabled">TeleTypewriter habilitado.</string>
     <string name="accessibility_two_bars">Dos barras.</string>
@@ -1245,7 +1243,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_edit_label">Editar</string>
     <string name="quick_settings_flashlight_label">Linterna</string>
     <string name="quick_settings_gps_label">GPS</string>
-    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_hotspot_label">Punto de acceso</string>
     <string name="quick_settings_ime_label">Método de entrada</string>
     <string name="quick_settings_inversion_label">Invertir colores</string>
     <string name="quick_settings_location_label">Ubicación</string>
