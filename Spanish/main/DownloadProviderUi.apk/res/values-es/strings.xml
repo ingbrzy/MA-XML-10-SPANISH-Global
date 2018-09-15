@@ -205,4 +205,25 @@
     <string name="loading">Un momento…</string>
     <string name="net_error">Conéctate a la red e inténtalo de nuevo</string>
     <string name="rank_app_list">Top descargas</string>
+	<string name="new_add">Nueva descarga</string>
+	<string name="force_touch_newdownload">Nueva descarga</string>
+	<string name="copy">Copiar</string>
+	<string name="copy_info">Copiado la portapapeles ¡Ya puedes compartirlo con tus amigos!</string>
+	<string name="creat_task_success">Added to download queue</string>
+	<string name="create_task">Crear tarea</string>
+	<string name="delete">Eliminar</string>
+	<string name="delete_the_downloaded_file">Los archivos descargados serán borrados.</string>
+	<string name="edit_hint"> Introducir una dirección http, torrent o eMule</string>
+	<string name="editmode_menu_delete">Eliminar</string>
+	<string name="editmode_menu_share">Compartir</string>
+	<string name="xunlei_open_info">¿Usar Xunlei Engine para abrir estos links?</string>
+	<string name="engine_open">Abrir</string>
+	<string name="pref_download_storage_path">Guardar en una localización personalizada</string>
+	<string name="file_exist_hint">El archivo ya existe</string>
+	<string name="file_picker">Eligir localización</string>
+	<string name="file_size">Tamaño:</string>
+	<string name="pref_summary_no_limit_popup">Sin límite</string>
+	<string name="dialog_content_limit0">Restringir descargas</string>
+	<string name="dialog_content_limit_max">Sin límite</string>
+	<string name="show_more">Mostrar %s más</string>
 </resources>

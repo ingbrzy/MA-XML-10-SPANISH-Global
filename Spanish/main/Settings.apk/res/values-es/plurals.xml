@@ -225,8 +225,8 @@
         <item quantity="one">Estás a %1$d paso de acceder a CIT.</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Solo te quedan %1$d pasos de ser un desarrollador.</item>
-        <item quantity="one">Solo te queda %1$d paso de ser un desarrollador.</item>
+        <item quantity="other">Solo te quedan %1$d pasos para activar las opciones de desarrollador.</item>
+        <item quantity="one">Solo te queda %1$d paso para activar las opciones de desarrollador.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Estás a %1$d pasos de acceder a la información de tu dispositivo.</item>
