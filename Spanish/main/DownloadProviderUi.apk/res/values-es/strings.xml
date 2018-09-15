@@ -210,8 +210,6 @@
 	<string name="create_task">Crear tarea</string>
 	<string name="delete">Eliminar</string>
 	<string name="edit_hint"> Introducir una dirección http, torrent o eMule</string>
-	<string name="editmode_menu_delete">Eliminar</string>
-	<string name="editmode_menu_share">Compartir</string>
 	<string name="xunlei_open_info">¿Usar Xunlei Engine para abrir estos links?</string>
 	<string name="engine_open">Abrir</string>
 	<string name="pref_download_storage_path">Guardar en una localización personalizada</string>
