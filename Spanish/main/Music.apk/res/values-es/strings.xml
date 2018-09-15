@@ -27,7 +27,7 @@
     <string name="add_to_playlist_successful">Añadida con éxito</string>
     <string name="added_next_play">Añadido para reproducir después</string>
     <string name="alaka_required">Deberías pagar por esta canción para escucharla</string>
-    <string name="album_label">Cubiertas de álbum</string>
+    <string name="album_label">Carátulas de álbum</string>
     <string name="album_name">Álbum</string>
     <string name="all_album_count">Todos los álbumes (%d)</string>
     <string name="all_playlist_count">Todas las listas de reproducción (%d)</string>
@@ -131,7 +131,7 @@ está proporcionado principalmente por Ultimate Inc."</string>
     <string name="create_order_fail">No se pudo crear el pedido, inténtalo de nuevo.</string>
     <string name="create_playlist">Crear lista de reproducción</string>
     <string name="create_playlist_failure">No se pudo crear la lista de reproducción</string>
-    <string name="current_album">Cubierta actual del álbum</string>
+    <string name="current_album">Carátula actual del álbum</string>
     <string name="current_lyric">Letras actuales</string>
     <string name="current_version">Versión actual</string>
     <string name="data_usage_warning">Uso de datos</string>
@@ -376,7 +376,7 @@ está proporcionado principalmente por Ultimate Inc."</string>
     <string name="headset_and_audio_effect_category">Auriculares y efectos de audio</string>
     <string name="headset_and_audio_effect_summary">Auriculares y ecualizador</string>
     <string name="headset_and_audio_effect_title">Auriculares y efectos de audio</string>
-    <string name="hide_album">Ocultar cubierta del álbum</string>
+    <string name="hide_album">Ocultar carátula del álbum</string>
     <string name="hide_lyric">Ocultar letras</string>
     <string name="higher_quality_music">Audio de alta calidad</string>
     <string name="higher_quality_music_summary">Reproduce y descarga archivos con altas tasas de bits</string>
@@ -427,7 +427,7 @@ está proporcionado principalmente por Ultimate Inc."</string>
     <string name="local_page_custom_title">Para ti</string>
     <string name="local_page_playlist">Mis listas de reproducción</string>
     <string name="local_page_song_download_history">Descargas</string>
-    <string name="long_press_to_select_lyric">Mantén presionado para seleccionar un archivo de letras local</string>
+    <string name="long_press_to_select_lyric">Cargar archivo con la letra</string>
     <string name="lrc_search_failed">Letras no encontradas</string>
     <string name="lrc_searching">Buscando…</string>
     <string name="lyric_is_empty">No hay letra disponible</string>
@@ -466,7 +466,7 @@ está proporcionado principalmente por Ultimate Inc."</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="mobile_recommended_title">Uso de datos móviles</string>
     <string name="modify_lyric">Editar letra</string>
-    <string name="modify_pic">Cambiar cubierta</string>
+    <string name="modify_pic">Cambiar carátula</string>
     <string name="modify_progress">Cambiar la velocidad de desplazamiento de la letra</string>
     <string name="modify_progress_helper">Desliza hacia arriba o abajo para ajustar el progreso de la letra.</string>
     <string name="modify_song_info">Editar información de canción</string>
@@ -622,7 +622,7 @@ está proporcionado principalmente por Ultimate Inc."</string>
     <string name="s6">¿Permitir que el anuncio cree un evento de calendario?</string>
     <string name="s7">Anuncio de prueba</string>
     <string name="save_changes">Guardar cambios</string>
-    <string name="search_album_and_lyric">Buscar cubiertas de álbum y letras</string>
+    <string name="search_album_and_lyric">Buscar carátulas de álbum y letras</string>
     <string name="search_empty">No se encontraron resultados</string>
     <string name="search_for_album">Álbum</string>
     <string name="search_for_artist">Artista</string>
@@ -634,7 +634,7 @@ está proporcionado principalmente por Ultimate Inc."</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="select_device">Seleccionar dispositivo</string>
     <string name="select_displayed_folders">Elegir carpetas para mostrar</string>
-    <string name="select_local_cover">Seleccionar cubierta local</string>
+    <string name="select_local_cover">Seleccionar carátula local</string>
     <string name="select_local_lyric_file">Seleccionar archivo de letras local</string>
     <string name="select_none">Desmarcar todo</string>
     <string name="selected_count">Seleccionado %1$d de %2$d</string>

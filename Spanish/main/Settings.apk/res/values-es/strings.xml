@@ -2142,6 +2142,7 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="install_applications_title">Permitir todas las fuentes</string>
     <string name="install_no_market_app_summary">Permitir la instalación de aplicaciones de fuentes desconocidas de la App Store</string>
     <string name="install_no_market_app_title">Fuentes desconocidas</string>
+	<string name="install_unknown_applications">Permitir la instalación de aplicaciones de fuentes desconocidas</string>
     <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
     <string name="install_preinstall_app">Cargando aplicaciones…</string>
     <string name="install_text">Instalar</string>
@@ -2204,7 +2205,9 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="keyboard_shortcuts_helper">Ayuda de accesos directos de teclado</string>
     <string name="keyboard_shortcuts_helper_summary">Mostrar accesos directos de teclado disponibles</string>
     <string name="keyguard_advance_setting_title">Ajustes avanzados</string>
+	<string name="keyguard_security_setting_others">Otros</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
+	<string name="keyguard_vertical_clock_title">Reloj vertical</string>
     <string name="keywords_accounts">cuenta</string>
     <string name="keywords_airplane">Avión;Modo avión;Aeronave;Modo Aeronave;Vuelo;Modo vuelo</string>
     <string name="keywords_all_apps">aplicaciones, descargar, aplicaciones, sistema</string>
@@ -4802,6 +4805,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="track_frame_time">Perfil de renderización GPU</string>
     <string name="trackball_settings">Trackball</string>
     <string name="trackball_wake_title">Encender trackball</string>
+	<string name="traffic_balance">Modo de uso de datos</string>
     <string name="traffic_none">Nada</string>
     <string name="transition_animation_scale_title">Nivel de animación de las transiciones</string>
     <string name="translation_contributors_summary" />
@@ -5511,6 +5515,8 @@ Toca en más para añadir palabras."</string>
     <string name="wifi_empty_list_wifi_off">Para ver las redes disponibles, activa la conexión Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
     <string name="wifi_enable">Wi-Fi</string>
+	<string name="wifi_enable_data_and_wifi_roam">Asistente Wi-Fi</string>
+    <string name="wifi_enable_data_and_wifi_roam_summary">Mantener datos y  Wi-Fi activados para cambiar cuando la conexión Wi-Fi no sea buena.</string>
     <string name="wifi_enable_watchdog_service_summary">Evitar conexiones débiles</string>
     <string name="wifi_error">Error</string>
     <string name="wifi_fail_to_scan">No se pueden encontrar redes</string>

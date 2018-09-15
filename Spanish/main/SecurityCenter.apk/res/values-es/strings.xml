@@ -1853,7 +1853,7 @@ tu dispositivo"</string>
     <string name="lock_mode_title">Ajustes de bloqueo</string>
     <string name="after_the_lock_screen">Bloquear aplicaciones con la pantalla</string>
     <string name="set_applock_password">Establecer contraseña</string>
-    <string name="ac_firstUseApplock_title">Establezca una contraseña para proteger sus aplicaciones</string>
+    <string name="ac_firstUseApplock_title">Protega sus aplicaciones</string>
     <string name="ac_firstUseApplock_subTitle">Utiliza herramientas de seguridad del sistema</string>
     <string name="ac_notification_contentText">Tocar para activar</string>
     <string name="ac_pre_notification_contentText">Protege tu información personal</string>

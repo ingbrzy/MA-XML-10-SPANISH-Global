@@ -38,7 +38,9 @@
     <string name="aqi_quality_ambient_air_quality">Calidad del aire en las proximidades</string>
     <string name="aqi_quality_co_desc">Monóxido de carbono</string>
     <string name="aqi_quality_detail_15_days">Previsión para 15 días</string>
+	<string name="aqi_quality_detail_24_hours">Previsión para 24 horas</string>
     <string name="aqi_quality_detail_48_hours">Previsión para 48 horas</string>
+	<string name="aqi_quality_detail_5_days">Previsión para 5 días</string>
     <string name="aqi_quality_major_pollutants">Contaminantes principales</string>
     <string name="aqi_quality_map_title">Mapa de calidad del aire</string>
     <string name="aqi_quality_no2_desc">Dióxido de nitrógeno</string>

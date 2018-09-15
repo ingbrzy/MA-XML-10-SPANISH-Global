@@ -136,6 +136,8 @@
     <string name="delivery_report_activity">Informe de entrega</string>
     <string name="delivery_toast_body">Mensaje recibido por %s</string>
     <string name="dialog_message_fake_cell_detect_error">¿Corregir la información del mensaje? Para hacerlo, MIUI necesita enviar al servidor tu número de teléfono (%1$s), el contenido del mensaje y la información de ubicación.</string>
+    <string name="dialog_message_mx">Mi Message le permite enviar mensajes a otros usuarios de MIUI sin incurrir en cargos. Se requiere un mensaje de texto saliente para activar Mi Message. Su operador le cobrará por este mensaje. Debes aceptar nuestra \"%1$s\" y \"%2$s\" antes de usar Mi Message.</string>
+    <string name="dialog_message_networking">Mensaje necesita usar las páginas amarillas para poder proporcionar reconocimiento de identificación del remitente. Las páginas de mensajería y amarillas necesitan conectarse a Internet y acceder a su ubicación para trabajar normalmente. ¿Permitir?</string>
     <string name="dialog_message_sms_report">Los mensajes spam y la información del remitente se cargarán en MIUI cuando los notifique. Solo se usarán para mejorar los filtros de spam de MIUI.</string>
     <string name="dialog_title_fake_cell_detect_error">Corrección</string>
     <string name="disable_notifications_dialog_message">¿Dejar de duplicar las notificaciones de mensajes de texto por defecto de la aplicación Mensajería?</string>
@@ -653,6 +655,7 @@ Intentos realizados: %s."</string>
     <string name="unstick_conversation">Desanclar conversación actual</string>
     <string name="unsticked_conversation">Conversación ya desanclada</string>
     <string name="unsupported_media_format">Formato %1$s no admitido.</string>
+	<string name="user_agreement">Acuerdo de usuario</string>
     <string name="url_fraud_dangerous_alert">"El sitio web al que estás tratando de acceder podría ser peligroso. Podrías dañar tu dispositivo y tus archivos. ¿Visitarlo de todas maneras?
 %s"</string>
     <string name="url_fraud_risky_alert">"El sitio %s que intenta visitar podría ser peligroso. ¿Visitar?
