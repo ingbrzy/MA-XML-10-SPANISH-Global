@@ -677,4 +677,5 @@ Intentos realizados: %s."</string>
     <string name="yesterday">Ayer</string>
     <string name="notification_channel_description">Notificaciones de Mensajes</string>
     <string name="notification_channel_name">Mensajes</string>
+	<string name="dialog_title_networking">Terminos y condiciones</string>
 </resources>
