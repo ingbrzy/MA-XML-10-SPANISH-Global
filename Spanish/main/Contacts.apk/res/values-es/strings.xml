@@ -191,6 +191,7 @@
     <string name="composer_failed_to_get_database_infomation">Error al obtener información de la base de datos.</string>
     <string name="composer_has_no_exportable_contact">No hay contactos que exportar. Si ya tienes contactos en el dispositvo, es posible que algunos proveedores de datos no permitan que se exporten los contactos desde el dispositivo.</string>
     <string name="composer_not_initialized">El redactor de vCard no se ha iniciado correctamente.</string>
+	<string name="conference_call_disable_tip">"No se pueden hacer llamadas. Asegúrese de que su dispositivo esté conectado a una red 4G que soporte VoLTE."</string>
     <string name="confirm_delete_contact_all_call_logs">¿Borrar el historial de %s?</string>
     <string name="confirm_delete_selected_all_call_logs">¿Borrar el historial de llamadas?</string>
     <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
