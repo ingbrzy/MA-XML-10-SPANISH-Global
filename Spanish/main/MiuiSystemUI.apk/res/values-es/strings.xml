@@ -810,6 +810,8 @@ Utilice sólo el cargador proporcionado."</string>
     <string name="keyguard_indication_trust_disabled">El dispositivo permanecerá bloqueado hasta que lo desbloquees manualmente</string>
     <string name="keyguard_instructions_when_pattern_disabled">Presiona Menú para desbloquear.</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+	<string name="keyguard_left_bankcard">Calculadora</string>
+	<string name="keyguard_left_buscard">Notas</string>
 	<string name="keyguard_left_remotecentral">Calendario</string>
     <string name="keyguard_left_smarthome">Contactos</string>
 	<string name="keyguard_left_torch">Linterna</string>
