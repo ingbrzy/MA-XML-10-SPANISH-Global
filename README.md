@@ -4,6 +4,8 @@
 
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
 
+**Importante! Solo me hago cargo de la traducción de *Español(España)*, *Español(América)* está desactualizado si alguién si quiere hacer cargo que cree una issue**
+
 XML checking script | Validador XML:
 
 https://translators.xiaomi.eu/XML_MIUI10-Spanish-es.html

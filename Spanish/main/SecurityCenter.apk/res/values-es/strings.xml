@@ -2342,8 +2342,8 @@ tu dispositivo"</string>
     <string name="gamebox_type_gesture">Desliza para mostrar</string>
     <string name="gb_first_window_title">Acelerador de velocidad en juegos</string>
     <string name="gb_first_window_summary">Aumento de la velocidad y rendimiento a nivel de sistema</string>
-    <string name="gb_first_window_gamebox_summary_four">Usar respuestas rápidas, realizar grabaciones y capturas de pantalla</string>
-    <string name="gb_first_window_gamebox_summary_six">Limpiar caché, realizar grabaciones y capturas de pantalla</string>
+    <string name="gb_first_window_gamebox_summary_four">Limpiar caché, realizar grabaciones y capturas de pantalla</string>
+    <string name="gb_first_window_gamebox_summary_six">Usar respuestas rápidas, realizar grabaciones y capturas de pantalla</string>
     <string name="gb_first_window_handsfree_title">Llamadas manos libres</string>
     <string name="gb_first_window_handsfree_summary">Activar el altavoz automáticamente</string>
     <string name="gb_first_window_antimsg_title">Notificaciones convenientes</string>
