@@ -2983,7 +2983,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="no_vr_listeners">Ninguna aplicación instalada ha solicitado ejecutarse como servicios de ayuda de RV.</string>
     <string name="noise_suppression">Supresión de ruido ambiente</string>
     <string name="normal">Normal</string>
-    <string name="normal_info">Parece que todo funciona normalmente</string>
+    <string name="normal_info">Todo funciona normalmente</string>
     <string name="normal_smartcover_title">Fondo opaco</string>
     <string name="not_battery_optimizing">No se está utilizando la optimización de la batería</string>
     <string name="not_installed">No instalada para este usuario</string>
@@ -4789,7 +4789,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="toast_lockscreen_glogin_empty_password">Introduce la contraseña</string>
     <string name="toast_need_login">Iniciar sesión en Mi Cuenta</string>
     <string name="total">No molestar</string>
-    <string name="total_info">Silenciar sonido %1$sexcepto las alarmas</string>
+    <string name="total_info">Silenciar sonido y apagar vibración excepto para las alarmas</string>
     <string name="total_memory">Memoria total</string>
     <string name="total_size">%s total</string>
     <string name="total_size_label">Total</string>
