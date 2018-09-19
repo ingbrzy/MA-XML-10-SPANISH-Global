@@ -4,7 +4,8 @@
 
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
 
-**Importante! Solo me hago cargo de la traducción de *Español(España)*, *Español(América)* está desactualizado si alguién si quiere hacer cargo que cree una issue**
+*Español(América)* No se actualiza (si alguien si quiere hacer cargo que cree una issue)
+
 
 XML checking script | Validador XML:
 
