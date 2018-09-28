@@ -1310,7 +1310,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="recents_app_info_button_label">Información de aplicación</string>
     <string name="recents_caption_resize">Selecciona un nuevo diseño de tareas</string>
     <string name="recents_drag_hint_message">Arrastra aquí para usar la Pantalla dividida</string>
-    <string name="recents_empty_message">Sin archivos recientes</string>
+    <string name="recents_empty_message">Sin actividades recientes</string>
     <string name="recents_empty_message_dismissed_all">Has borrado todo</string>
     <string name="recents_empty_message_multi_window">Abrir aplicaciones desde Inicio</string>
     <string name="recents_exit_multi_window_mode">Salir</string>

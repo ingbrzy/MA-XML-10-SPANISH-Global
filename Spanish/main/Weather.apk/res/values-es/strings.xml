@@ -100,6 +100,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Ahora</string>
     <string name="hourly_forecast_date">d/M</string>
+	<string name="hourly_forecast_title_24_hours_desc">Previsión 24 horas</string>
     <string name="index_item_experience_now">Instalar ahora</string>
     <string name="index_item_install_dialog" />
     <string name="index_item_install_dialog_cancel" />

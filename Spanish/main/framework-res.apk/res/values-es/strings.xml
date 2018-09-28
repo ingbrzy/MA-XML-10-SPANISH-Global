@@ -1326,7 +1326,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
     <string name="stk_cc_ussd_to_dial">La solicitud USSD se ha modificado para la solicitud DIAL.</string>
     <string name="stk_cc_ussd_to_ss">La solicitud USSD se ha modificado para la solicitud SS.</string>
     <string name="stk_cc_ussd_to_ussd">La solicitud USSD se ha modificado para la nueva solicitud USSD.</string>
-    <string name="storage_internal">Almacenamiento interno compartido</string>
+    <string name="storage_internal">Almacenamiento interno</string>
     <string name="storage_sd_card">Tarjeta SD</string>
     <string name="storage_sd_card_label">Tarjeta SD %s</string>
     <string name="storage_usb">Almacenamiento USB</string>
