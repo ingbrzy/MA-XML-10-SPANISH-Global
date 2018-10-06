@@ -4410,7 +4410,6 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
 	<string name="status_bar_settings_expand_top_notification">Expandir la notificación superior</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar en la pantalla de bloqueo</string>
 	<string name="status_bar_settings_function_description">Sobre esta característica</string>
-	<string name="status_bar_settings_function_description">Información sobre esta característica</string>
     <string name="status_bar_settings_long_click_sort">Pulsa y mantén para acceder a un acceso rápido</string>
     <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>
     <string name="status_bar_settings_no_carrier">Ninguno</string>
