@@ -296,11 +296,11 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Momentos de WeChat</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">Aceptar</string>
     <string name="confirm_download_video_message">Acaba de descargar este vídeo para empezar a verlo. La descarga continuará cuando esté disponible una red Wi-Fi.</string>
     <string name="confirm_download_video_title">Descargar vídeo</string>
     <string name="confirm_face">Confirmar</string>
-    <string name="confirm_hidden_recommend_group">OK</string>
+    <string name="confirm_hidden_recommend_group">Aceptar</string>
     <string name="confirm_hidden_recommend_group_message">Cuando las recomendaciones estén desactivadas, puede utilizar la opción \"Más personas que se parecen\"</string>
     <string name="confirm_hidden_recommend_group_title">No mostrar recomendaciones</string>
     <string name="confirm_merge_face_albums">" "<Data> ¿Combinar este álbum con %s? </Data>" "</string>
@@ -1236,7 +1236,7 @@ para personalizar la Galería"</string>
     <string name="video_editor_loading_warning_title">Error de cifrado</string>
     <string name="video_editor_more">Avanzado</string>
     <string name="video_editor_not_support_tips">No se admiten este tipo de archivos de vídeo</string>
-    <string name="video_editor_ok">OK</string>
+    <string name="video_editor_ok">Aceptar</string>
     <string name="video_editor_regulator">Ajustar</string>
     <string name="video_editor_res_download_failed_tips">No se pudo descargar, comprueba los ajustes de red e inténtalo de nuevo</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">¿Quieres descargar bandas sonoras usando datos móviles?</string>

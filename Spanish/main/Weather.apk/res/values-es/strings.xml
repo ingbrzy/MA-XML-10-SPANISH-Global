@@ -53,7 +53,7 @@
     <string name="aqi_top_pollution">Contaminantes principales</string>
     <string name="button_abandon">Descartar cambios</string>
     <string name="button_add_city">Añadir ubicación</string>
-    <string name="button_allow">OK</string>
+    <string name="button_allow">Aceptar</string>
     <string name="button_confirm">De acuerdo</string>
     <string name="button_exit">No estoy de acuerdo</string>
     <string name="button_not_allow">Cancelar</string>

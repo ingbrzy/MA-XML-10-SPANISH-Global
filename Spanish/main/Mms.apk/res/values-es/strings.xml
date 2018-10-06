@@ -23,7 +23,7 @@
     <string name="adding_attachments_title">Añadiendo archivos adjuntos</string>
     <string name="adding_recipients">Añadiendo destinatarios…</string>
     <string name="alert_dlg_cancel_button">Cancelar</string>
-    <string name="alert_dlg_ok_button">OK</string>
+    <string name="alert_dlg_ok_button">Aceptar</string>
     <string name="app_label">Mensajes</string>
     <string name="app_name">Dispositivos</string>
     <string name="attach_image">Imágenes</string>
@@ -78,7 +78,7 @@
     <string name="cloud_state_sync_finished">Sincronizado con Mi Nube</string>
     <string name="cloud_state_syncing">Sincronizando con Mi Nube…</string>
     <string name="compressing">Imagen demasiado grande. Comprimiendo…</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">Aceptar</string>
     <string name="confirm_add_blacklist_dialog_dspt">¿Añadir el número a la lista de bloqueo?</string>
     <string name="confirm_delete_SIM_message">¿Eliminar este mensaje de la SIM?</string>
     <string name="confirm_delete_all_SIM_messages">¿Eliminar todos los mensajes de la SIM?</string>
@@ -222,7 +222,7 @@
     <string name="hybrid_pull_to_refresh_release_label">Suelta para actualizar…</string>
     <string name="hybrid_service_unavailiable">Servicio no disponible</string>
     <string name="hybrid_try_again">Inténtalo de nuevo</string>
-    <string name="i_know">OK </string>
+    <string name="i_know">Aceptar </string>
     <string name="importing_progress_private_message">Importando…</string>
     <string name="in_sms">Mensaje</string>
     <string name="insufficient_drm_rights">Derechos DRM insuficientes.</string>
@@ -468,7 +468,7 @@
     <string name="processing">Procesando…</string>
     <string name="prvate_contact">Contactos privados</string>
     <string name="quick_reply">Contestar</string>
-    <string name="rate_limit_surpassed">OK</string>
+    <string name="rate_limit_surpassed">Aceptar</string>
     <string name="received_at_time">Recibido a las: %1s</string>
     <string name="received_label">"Recibido: "</string>
     <string name="recipient_editor_count_format">%d</string>
@@ -673,7 +673,7 @@ Intentos realizados: %s."</string>
     <string name="warning_show">Enviar en %ds</string>
     <string name="wild_msg_processing">Procesando…</string>
     <string name="wild_msg_title">Selecciona los números de teléfono que deseas sincronizar</string>
-    <string name="yes">OK</string>
+    <string name="yes">Aceptar</string>
     <string name="yesterday">Ayer</string>
     <string name="notification_channel_description">Notificaciones de Mensajes</string>
     <string name="notification_channel_name">Mensajes</string>

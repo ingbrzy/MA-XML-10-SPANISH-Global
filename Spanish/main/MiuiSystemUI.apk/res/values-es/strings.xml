@@ -1345,7 +1345,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="runningservices_settings_summary">Ver y controlar los servicios en ejecución</string>
     <string name="runningservices_settings_title">Servicios en ejecución</string>
     <string name="save">Guardar</string>
-    <string name="save_mode_btn_ok">OK</string>
+    <string name="save_mode_btn_ok">Aceptar</string>
     <string name="saved_network">Guardado por %1$s</string>
     <string name="screen_button_notification_text">Para activarlos, presiona los botones de Inicio y Encendido simultáneamente.</string>
     <string name="screen_button_notification_title">Los botones de navegación están desactivados</string>

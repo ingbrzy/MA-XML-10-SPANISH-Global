@@ -44,7 +44,7 @@
         <item>Personalizar</item>
     </string-array>
     <string-array name="network_switch_type_name">
-        <item>datos móviles</item>
+        <item>Datos móviles</item>
         <item>Wi-Fi</item>
         <item>Bluetooth</item>
         <item>Ethernet</item>

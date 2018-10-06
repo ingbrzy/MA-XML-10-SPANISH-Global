@@ -242,12 +242,15 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="animator_duration_scale_title">Nivel de duración de las animaciones</string>
     <string name="another_migration_already_in_progress">Hay otra migración en curso.</string>
     <string name="anti_spam">Lista negra</string>
+	<string name="aod_close_color_inversion">"Esta característica no se puede combinar con la inversión de color. Desactive la inversión de color primero."</string>
+	<string name="aod_got_it">Entendido</string>
     <string name="aod_mode_summary">Mostrar siempre tiempo, fecha y mensajes cuando la pantalla esté desactivada</string>
     <string name="aod_mode_time_summary">Programar hora en que el dispositivo debe cambiar al Modo siempre activo</string>
     <string name="aod_mode_time_title">Programar</string>
     <string name="aod_mode_title">Modo siempre activo</string>
     <string name="aod_mode_turn_off">Desactivado</string>
     <string name="aod_mode_turn_on">Activado</string>
+	<string name="aod_to_close">Apagar</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Tipo de autenticación</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -307,9 +310,9 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="app_launch_open_domain_urls_title">Abrir enlaces compatibles</string>
     <string name="app_launch_other_defaults_title">Otros ajustes predeterminados</string>
     <string name="app_launch_supported_domain_urls_title">Enlaces compatibles</string>
-    <string name="app_link_open_always">Abrir en esta aplicación</string>
+    <string name="app_link_open_always">Abrir</string>
     <string name="app_link_open_ask">Preguntar siempre</string>
-    <string name="app_link_open_never">No abrir en esta aplicación</string>
+    <string name="app_link_open_never">No abrir</string>
     <string name="app_list_memory_use">Uso de las aplicaciones</string>
     <string name="app_list_preference_none">Nada</string>
     <string name="app_memory_use">Uso de memoria</string>
@@ -2145,7 +2148,7 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="install_no_market_app_title">Fuentes desconocidas</string>
 	<string name="install_unknown_applications">Permitir la instalación de aplicaciones de fuentes desconocidas</string>
     <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
-    <string name="install_preinstall_app">Cargando aplicaciones…</string>
+    <string name="install_preinstall_app">Cambiando de región…</string>
     <string name="install_text">Instalar</string>
     <string name="install_type_instant">Aplicación instantánea</string>
     <string name="install_whole_rom">Descargar ROM</string>
@@ -2965,7 +2968,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="no_connected_devices">No hay dispositivos conectados</string>
     <string name="no_data_usage">No se han usado datos</string>
     <string name="no_default_apps">Ninguna aplicación predeterminada</string>
-    <string name="no_default_home">Sin aplicación de inicio predeterminada</string>
+    <string name="no_default_home">No seleccionada</string>
     <string name="no_device_admins">No hay aplicaciones de administrador de dispositivos disponibles</string>
     <string name="no_internet_access_remember">No volver a preguntar por esta red</string>
     <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a internet. ¿Permanecer conectado?</string>
@@ -4196,7 +4199,7 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="setup_lock_settings_picker_message">Activa las funciones de protección del dispositivo para evitar que otros utilicen el teléfono sin tu permiso. Elige el bloqueo de pantalla que quieras utilizar.</string>
     <string name="setup_lock_settings_picker_title">Protege tu teléfono</string>
     <string name="setup_password_back">Atrás</string>
-    <string name="setup_password_confirm">OK</string>
+    <string name="setup_password_confirm">Aceptar</string>
     <string name="setup_wifi_nfc_tag">Configurar etiqueta NFC Wi-Fi</string>
     <string name="severe_threats_summary">Recibe alertas de amenazas graves contra la vida y propiedad</string>
     <string name="severe_threats_title">Amenazas graves</string>
@@ -4334,7 +4337,7 @@ Es posible que el PIN no sea correcto."</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Modo fondo inteligente</string>
     <string name="smartcover_sensitive_summary">Bloquea y desbloquea el teléfono automáticamente usando el fondo inteligente</string>
     <string name="smartcover_sensitive_title">Fondo inteligente</string>
-    <string name="sms_application_title">Aplicación de SMS</string>
+    <string name="sms_application_title">Mensajes</string>
     <string name="sms_change_default_dialog_text">¿Usar %1$s en lugar de %2$s como aplicación de SMS?</string>
     <string name="sms_change_default_dialog_title">¿Cambiar aplicación de SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">¿Usar %s como aplicación de SMS?</string>
@@ -4406,6 +4409,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_enable_notification">Mostrar notificaciones</string>
 	<string name="status_bar_settings_expand_top_notification">Expandir la notificación superior</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar en la pantalla de bloqueo</string>
+	<string name="status_bar_settings_function_description">Sobre esta característica</string>
 	<string name="status_bar_settings_function_description">Información sobre esta característica</string>
     <string name="status_bar_settings_long_click_sort">Pulsa y mantén para acceder a un acceso rápido</string>
     <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>
@@ -4964,7 +4968,7 @@ Las huellas digitales guardadas también se eliminarán del perfil y no podrás 
     <string name="unlock_set_unlock_password_title">Contraseña</string>
     <string name="unlock_set_unlock_pattern_summary">Dibuja un patrón simple con el dedo para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pattern_title">Patrón</string>
-    <string name="unlock_set_unlock_pin_summary">Introduce 4 dígitos para desbloquear el dispositivo</string>
+    <string name="unlock_set_unlock_pin_summary">Introduce 4-16 dígitos para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
     <string name="unlock_setup_wizard_fingerprint_details">Una vez que hayas configurado un bloqueo de pantalla, podrás configurar también la huella digital en Ajustes > Seguridad.</string>
@@ -5425,7 +5429,7 @@ Toca en más para añadir palabras."</string>
     <string name="wifi_assistant_explicitly_confirm_wifi_message">Esta red no tiene acceso a internet. Hay otras redes Wi-Fi disponibles. ¿Cambiar redes?</string>
     <string name="wifi_assistant_keep_connection">Permanecer conectado</string>
     <string name="wifi_assistant_off">Desactivado</string>
-    <string name="wifi_assistant_ok">OK</string>
+    <string name="wifi_assistant_ok">Aceptar</string>
     <string name="wifi_assistant_on">Activado</string>
     <string name="wifi_assistant_setup_wifi_assistant">Configurar</string>
     <string name="wifi_assistant_summary">Cambiar entre redes Wi-Fi y datos móviles cuando la conexión Wi-Fi sea débil</string>

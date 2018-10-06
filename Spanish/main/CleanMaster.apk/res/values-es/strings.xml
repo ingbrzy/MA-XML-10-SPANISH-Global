@@ -7,7 +7,7 @@
     <string name="menu_add_to_white_list">Agregar a excepciones</string>
     <string name="text_optimizer">Cargar nombres de carpeta</string>
     <string name="summary_optimizer">Esta función sube los nombres de las carpetas para actualizar la base de datos online de Cheetah Mobile y requiere la ID de tu dispositivo.</string>
-    <string name="button_optimizer">OK</string>
+    <string name="button_optimizer">Aceptar</string>
     <string name="name_optimizer">Política de privacidad</string>
     <string name="title_optimizer">Términos y Condiciones</string>
     <string name="header_optimizer">Al usar esta función, aceptas %s.</string>
@@ -38,7 +38,7 @@
     <string name="optimizecenter_data_support_tc">Desarrollado por Tencent</string>
     <string name="hints_app_uninstall_residual">¿Borrar archivos de desinstalación residuales?</string>
     <string name="button_text_cancel">Cancelar</string>
-    <string name="button_text_known">OK</string>
+    <string name="button_text_known">Aceptar</string>
     <string name="button_text_cleanup">Limpiar</string>
     <string name="button_text_delete_from_white_list">Eliminar</string>
     <string name="empty_title_garbage_white_list">Sin excepciones.</string>
@@ -157,11 +157,11 @@
     <string name="summary_delete_large_file">¿Eliminar permanentemente los archivos seleccionados?</string>
     <string name="title_delete_cache">Limpiar caché de aplicaciones</string>
     <string name="summary_delete_cache">¿Limpiar caché de las aplicaciones seleccionadas?</string>
-    <string name="positive_confirm">OK</string>
+    <string name="positive_confirm">Aceptar</string>
 	<string name="pref_about_privacy_title">Política de privacidad</string>
     <string name="title_auto_cleaner">Recordar limpiar</string>
     <string name="summary_auto_cleaner">¿Recibir notificaciones cada vez que el tamaño de la papelera alcance los 100 MB?</string>
-    <string name="confirm_auto_cleaner">OK</string>
+    <string name="confirm_auto_cleaner">Aceptar</string>
     <string name="auto_cleaner_open">Activar</string>
     <string name="btn_text_done">Hecho</string>
     <string name="btn_text_stop">Detener</string>
@@ -220,7 +220,7 @@
     <string name="toast_scaning_similar_image">Verificando fotos…</string>
     <string name="dialog_content_select_all_confirm">¿Mantener una copia de esta foto?</string>
     <string name="button_text_not_prompt_again">No mostrar de nuevo</string>
-    <string name="button_text_let_me_select">OK</string>
+    <string name="button_text_let_me_select">Aceptar</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Eliminar fotos de Mi Cloud</string>
     <string name="button_text_select_all">Seleccionar</string>
     <string name="button_text_unselect_all">Desmarcar</string>
@@ -547,7 +547,7 @@
     <string name="whatsapp_clean_exit_confirm_msg">Todavía no se ha terminado de escanear WhataApp. ¿Detener ahora el escaneo?</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Detener el escaneo</string>
     <string name="whatsapp_clean_exit_confirm_ok">Detener</string>
-    <string name="whatsapp_delete_confirm_ok">OK</string>
+    <string name="whatsapp_delete_confirm_ok">Aceptar</string>
     <string name="whatsapp_delete_confirm_cancel">Cancelar</string>
     <string name="whatsapp_content_empty">No hay elementos.</string>
     <string name="whatsapp_delete_confirm_message">¿Eliminar ahora?</string>

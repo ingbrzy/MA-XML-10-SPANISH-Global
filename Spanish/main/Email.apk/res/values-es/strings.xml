@@ -533,7 +533,7 @@
   <string name="gmail_login_confirm_to_use_proxy">¿Usar servidor proxy para acceder a su cuenta de Gmail?</string>
   <string name="gmail_login_failed_non_proxy_title">No se puede acceder al servidor de Gmail</string>
   <string name="gmail_server_authorization_deleted">No pudo autenticar la cuenta. Pruebe a agregar esta cuenta de nuevo.</string>
-  <string name="gmail_web_login_go">OK</string>
+  <string name="gmail_web_login_go">Aceptar</string>
   <string name="gmail_web_login_required_message">Iniciar sesión en Gmail</string>
   <string name="header_category_account">Cuentas</string>
   <string name="header_category_other">Comentarios</string>

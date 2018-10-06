@@ -51,7 +51,7 @@
     <string name="status_bar_recording_pause">Grabación en pausa</string>
     <string name="low_battery_error_title">Batería baja</string>
     <string name="low_battery_error">Menos del 5% de batería restante. Pause y guarde su grabación para asegurarse de que no se pierda.</string>
-    <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_confirm">Aceptar</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
     <string name="sound_recorder_settings">Ajustes</string>
@@ -91,7 +91,7 @@
     <string name="notification_message_all_paused">Esperando a una conexión Wi-Fi.</string>
     <string name="data_connection_title">Aviso de uso de datos</string>
     <string name="data_connection_body">Usar su conexión de datos para descargar este archivo aumentará su uso de datos. Si supera los datos establecidos por su plan de datos, su operador podría cobrarle cargos adicionales.</string>
-    <string name="data_connection_button_text">OK</string>
+    <string name="data_connection_button_text">Aceptar</string>
     <string name="error_sdcard_unmounted">Inserte una tarjeta SD ahora</string>
     <string name="record_back_pressed_hint">Para detener la grabación, pulse atrás de nuevo</string>
     <string name="record_mark_point">Marcar %s</string>

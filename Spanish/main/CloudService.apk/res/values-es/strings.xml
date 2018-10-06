@@ -77,7 +77,7 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="disable_find_device_error">\"No se puede desactivar la localización del dispositivo. \"%1$s</string>
     <string name="find_device_error_network">Comprueba tu conexión de datos e inténtalo de nuevo.</string>
     <string name="find_device_error_server">Error del servidor</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">Aceptar</string>
     <string name="button_cancel">Cancelar</string>
     <string name="enable_micloud">Inicia sesión para usar Mi Cloud</string>
     <string name="xiaomi_cloud_service">Mi Nube</string>
@@ -218,7 +218,7 @@ Usa una cuenta diferente."</string>
     <string name="micloud_confusion_no">No</string>
     <string name="micloud_confusion_yes">Sí</string>
     <string name="micloud_confusion_cancel">Cancelar</string>
-    <string name="micloud_confusion_ok">OK</string>
+    <string name="micloud_confusion_ok">Aceptar</string>
     <string name="micloud_confusion_entrance_title">Datos modificados</string>
     <string name="micloud_confusion_entrance_question">¿Ha modificado recientemente Mi Cuenta usando %s?</string>
     <string name="micloud_confusion_entrance_hint">No inicies sesión en Mi Cuenta desde dispositivos públicos</string>
@@ -250,7 +250,7 @@ Usa una cuenta diferente."</string>
     <string name="micloud_sync_alert_dialog_title">Usar Mi Nube</string>
     <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas y otros elementos en todos tus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
-    <string name="micloud_sync_alert_dialog_positive">OK</string>
+    <string name="micloud_sync_alert_dialog_positive">Aceptar</string>
     <string name="micloud_battery_low_notification_title">Batería baja</string>
     <string name="micloud_battery_low_notification_message">Conecta el cargador para sincronizar</string>
     <string name="micloud_upgrade_member">Obtener almacenamiento</string>

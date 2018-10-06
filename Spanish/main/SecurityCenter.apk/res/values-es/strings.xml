@@ -420,7 +420,7 @@ responda"</string>
     <string name="traffic_none">Ninguno</string>
     <string name="sorted_dialog_title">Ordenar por</string>
     <string name="cancel_button">Cancelar</string>
-    <string name="ok_button">OK</string>
+    <string name="ok_button">Aceptar</string>
     <string name="permit_running_network">Datos en segundo plano</string>
     <string name="network_control">Ver ajustes de aplicaciones</string>
     <string name="foreground_traffic">Primer plano %s</string>
@@ -699,7 +699,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="network_diagnostics">Comprobar la red</string>
     <string name="btn_start_diagnostic">Comprobar la red</string>
     <string name="btn_stop_diagnostic">Detener</string>
-    <string name="btn_finish_diagnostic">OK</string>
+    <string name="btn_finish_diagnostic">Aceptar</string>
     <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
     <string name="main_toolbar_internet_by_mobiledata">Datos móviles</string>
@@ -906,7 +906,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
 	<string name="first_aid_scanning_item1">Comprobando problemas de rendimiento…</string>
 	<string name="first_aid_scanning_item2">Comprobando problemas de red…</string>
 	<string name="first_aid_scanning_item3">Comprobando ajustes incorrectos…</string>
-	<string name="first_aid_scanning_item4">Comprobando problemas de battería</string>
+	<string name="first_aid_scanning_item4">Comprobando problemas de battería…</string>
 	<string name="first_aid_scanning_item5">Comprobando otros problemas…</string>
 	<string name="first_aid_stop_scan">Detener</string>
     <string name="exception_dialog_message">Las estadísticas de uso de datos no han podido ser calculadas debido a un error. Sin datos estadísticos precisos, Seguridad no podrá monitorizar el uso de datos. ¿Reiniciar para restaurar esta función?</string>
@@ -1018,6 +1018,18 @@ tu dispositivo"</string>
     <string name="power_center_ontime_boot">Programar encendido</string>
     <string name="power_center_time_to_boot">Hora de encendido</string>
     <string name="power_center_repeat">Repetir</string>
+	<string name="power_center_scan_item_title_GPS">Precisión del GPS</string>
+	<string name="power_center_scan_item_title_abnormal">Problemas de batería</string>
+	<string name="power_center_scan_item_title_abnormal_apps">Aplicaciones que gastan mucha batería</string>
+	<string name="power_center_scan_item_title_auto_invoke">Arranque en cadena</string>
+	<string name="power_center_scan_item_title_auto_start">Incio automático</string>
+	<string name="power_center_scan_item_title_battery_details">Detalles de uso de batería</string>
+	<string name="power_center_scan_item_title_brightness">Brillo de pantalla</string>
+	<string name="power_center_scan_item_title_clean_memory">Limpiar memoria</string>
+	<string name="power_center_scan_item_title_hide">Administrar uso de batería</string>
+	<string name="power_center_scan_item_title_power_saver">Apagar ahorrador de bateria</string>
+	<string name="power_center_scan_item_title_running_app">Aplicaciones ejecutandose en segundo plano</string>
+	<string name="power_center_scan_result_safe">No se encontraron problemas de batería</string>
     <string name="power_center_ontime_shutdown">Programar apagado</string>
     <string name="power_center_time_to_shutdown">Hora de apagado</string>
     <string name="power_center_state_on">Activado</string>
@@ -1150,7 +1162,7 @@ tu dispositivo"</string>
     <string name="btn_text_open_now">Activar</string>
     <string name="btn_text_already_opened">Activado</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Programar hora de encendido/apagado del dispositivo</string>
-    <string name="btn_text_quick_save_power">Enfriar</string>
+    <string name="btn_text_quick_save_power">Arreglar</string>
     <string name="notification_battery_consume_abnormal_title">La batería se está descargando demasiado rápido</string>
     <string name="notification_battery_consume_abnormal_summary">%2$s de la batería consumida en los últimos %1$d minutos</string>
     <string name="app_check_no_issue">Parece que no hay problemas de batería. ¡Genial!</string>
@@ -1397,7 +1409,7 @@ tu dispositivo"</string>
     <string name="path_gamebooster">Aplicaciones del sistema/Seguridad/Acelerador de velocidad en juegos</string>
     <string name="app_name_securitycenter">Seguridad</string>
     <string name="back_description_securitycenter">Atrás</string>
-    <string name="ok">OK</string>
+    <string name="ok">Aceptar</string>
     <string name="exit">Salir</string>
     <string name="cancel">Cancelar</string>
     <string name="btn_text_quick_cleanup">Limpiar</string>
@@ -1541,7 +1553,7 @@ tu dispositivo"</string>
     <string name="activity_title_permissions_manager">Permisos</string>
     <string name="dialog_title_auto_start_declare">Acerca del inicio automático</string>
     <string name="dialog_msg_auto_start_declare">Algunas aplicaciones podrían indicar incorrectamente que MIUI ha evitado que se iniciaran. Compruebe los permisos que se le han dado a cada aplicación individual en Ajustes > Aplicaciones.</string>
-    <string name="button_text_known">OK</string>
+    <string name="button_text_known">Aceptar</string>
     <string name="empty_title_perm_apps">No hay aplicaciones con este permiso.</string>
     <string name="reject_all">Restringir todo</string>
     <string name="prompt_all">Preguntar para todos</string>
@@ -1714,13 +1726,13 @@ tu dispositivo"</string>
     <string name="antivirus_choose_engine_title">Definiciones</string>
     <string name="antivirus_choose_engine_dialog_title">Seleccionar definiciones</string>
     <string name="antivirus_monitor_clean_tips">Elementos eliminados: %s</string>
-    <string name="antivirus_none_engine_dialog_ok">OK</string>
+    <string name="antivirus_none_engine_dialog_ok">Aceptar</string>
     <string name="antivirus_privacy_dialog_title">Política de Privacidad</string>
     <string name="antivirus_privacy_dialog_summary">Esta función cifra y transfiere el ID de su dispositivo a los servidores de Avast, AVL y Tencent (%s).</string>
     <string name="antivirus_privacy_dialog_summary_link">ver Política de Privacidad</string>
     <string name="antivirus_privacy_dialog_cloudscan">Transferir nombres y detalles de aplicaciones</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Transferir y analizar nombres y detalles de aplicaciones usando definiciones de virus online.</string>
-    <string name="antivirus_privacy_dialog_ok">OK</string>
+    <string name="antivirus_privacy_dialog_ok">Aceptar</string>
     <string name="pref_title_manual_check_virus_db_update">Buscar actualizaciones</string>
     <string name="virus_update_tips_title">Atención</string>
     <string name="virus_wait_network_dialog_message">Su teléfono no está conectado a Wi-Fi ahora. ¿Usar la conexión de datos móviles?</string>
@@ -1741,7 +1753,7 @@ tu dispositivo"</string>
     <string name="handle_title_privacy">Privacidad y seguridad</string>
     <string name="risk_count_suffix" />
     <string name="virus_auto_update_engine">Actualizaciones automáticas: %s</string>
-    <string name="hints_scan_danger_result">Se encontraron riesgos, solucionar ahora</string>
+    <string name="hints_scan_danger_result">Se encontraron riesgos</string>
     <string name="ss_activity_main_support_text">Desarrollado por %s</string>
     <string name="hints_virus_app_summary">%s (aplicación)</string>
     <string name="hints_virus_apk_summary">%s (apk)</string>
@@ -1773,7 +1785,7 @@ tu dispositivo"</string>
     <string name="hot">Popular</string>
     <string name="news_change">Cambiar</string>
     <string name="app_install_tips_go_to">Abrir</string>
-    <string name="go_to">Continuar</string>
+    <string name="go_to">Abrir</string>
     <string name="start_downloading_app">Iniciando descarga: %1$s</string>
     <string name="clear_immediately">Limpiar ahora</string>
     <string name="title_of_app_manage">Aplicaciones</string>
@@ -1873,7 +1885,7 @@ tu dispositivo"</string>
     <string name="numeric_retry_button_text">Cancelar</string>
     <string name="mixed_retry_button_text">Cancelar</string>
     <string name="lockpattern_continue_button_text">Siguente</string>
-    <string name="lockpattern_confirm_button_text">OK </string>
+    <string name="lockpattern_confirm_button_text">Aceptar </string>
     <string name="modifypassword">Cambiar contraseña</string>
     <string name="back_modifypassword">Volver a cambio de contraseña</string>
     <string name="showpattern">Mostrar patrón</string>
@@ -2011,7 +2023,7 @@ tu dispositivo"</string>
     <string name="optimize_result_button_onekey_open">Activar</string>
     <string name="optimize_result_button_operators_diagnose">Diagnósticos de la operadora</string>
     <string name="optimize_result_button_correct_now">Ajustar</string>
-    <string name="optimize_result_button_cooldown_now">Enfriar</string>
+    <string name="optimize_result_button_cooldown_now">Arreglar</string>
     <string name="optimize_result_button_consume_power_analysis">Analizar batería</string>
     <string name="optimize_result_button_purchase_flow">Ver todo</string>
     <string name="optimize_result_button_purchase">Comprar</string>
@@ -2387,7 +2399,7 @@ tu dispositivo"</string>
     <string name="power_customizer_delete">Eliminar</string>
     <string name="power_customizer_save">Guardar</string>
     <string name="power_customizer_cancel">Cancelar</string>
-    <string name="power_customizer_ok">OK</string>
+    <string name="power_customizer_ok">Aceptar</string>
     <string name="power_mode_cpu_state">Uso de CPU</string>
     <string name="power_mode_cpu_state_performance">Rendimiento</string>
     <string name="power_mode_cpu_state_performance_desc">Dar prioridad al rendimiento sobre la duración de la batería</string>

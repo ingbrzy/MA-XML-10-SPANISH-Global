@@ -43,6 +43,6 @@
     <string name="unbind_device_alert_content">Conexión perdida con %1$s. Para ahorrar batería, desvincula este dispositivo ahora.</string>
     <string name="unbind_device_alert_ok">Desvincular</string>
     <string name="unbind_device_alert_cancel">Cancelar</string>
-    <string name="ok_button">OK</string>
+    <string name="ok_button">Aceptar</string>
     <string name="bluetooth_device_context_unpair">Desemparejar</string>
 </resources>

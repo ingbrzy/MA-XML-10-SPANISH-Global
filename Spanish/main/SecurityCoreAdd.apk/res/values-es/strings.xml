@@ -58,7 +58,7 @@
     <string name="exit_private_space">Cambiar</string>
     <string name="wating">Un momento…</string>
     <string name="Active">Activo</string>
-    <string name="ok_button">OK</string>
+    <string name="ok_button">Aceptar</string>
     <string name="remove_button">Eliminar y reiniciar</string>
     <string name="remove_button_time">Eliminar y reiniciar (%ds)</string>
     <string name="cancel_button">Cancelar</string>
@@ -98,7 +98,7 @@ Algunas aplicaciones duales requieren la compatibilidad con el marco de Servicio
     <string name="startSet">Establecer</string>
     <string name="needSetKeyguardFirst">Establecer contraseña del Primer espacio</string>
     <string name="needSetKeyguardFirstDes">Establezca una contraseña para el Primer espacio antes de establecer la del Segundo espacio</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">Aceptar</string>
     <string name="setSecondSpacePassword">Establecer contraseña para el Segundo espacio</string>
     <string name="setSecondSpacePasswordGuide">Establecer contraseña para el Segundo espacio</string>
     <string name="setSecondSpacePasswordGuideDes">Utiliza esta contraseña para acceder al Segundo espacio desde la Pantalla de bloqueo</string>

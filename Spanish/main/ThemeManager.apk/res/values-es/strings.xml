@@ -406,7 +406,7 @@
     <string name="resource_trial_end_time">(prueba hasta %1$s)</string>
     <string name="resource_trial_end_time_format">hh:mma MMM d</string>
     <string name="resource_trial_end_title">Versión de prueba expirada</string>
-    <string name="resource_trial_fail_cancel">OK</string>
+    <string name="resource_trial_fail_cancel">Aceptar</string>
     <string name="resource_trial_fail_go_settings">Ajustes</string>
     <string name="resource_trial_fail_message">Asegúrese que el reloj de su sistema esté configurado con la hora correcta.</string>
     <string name="resource_trial_fail_title">No se pudo configurar la sesión de prueba</string>
@@ -415,7 +415,7 @@
     <string name="resource_trial_minutes">(prueba: %1$dm)</string>
     <string name="resource_unknow_error">Ocurrió un error desconocido</string>
     <string name="resource_update">Actualizar</string>
-    <string name="resource_user_know">OK</string>
+    <string name="resource_user_know">Aceptar</string>
     <string name="resource_waiting_download">Esperando</string>
     <string name="resource_waiting_pause">Pausar</string>
     <string name="resource_wallpaper_download">Descargar fondo de pantalla</string>
