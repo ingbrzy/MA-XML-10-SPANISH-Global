@@ -914,6 +914,8 @@ Vuelve a intentarlo en %2$d segundos."</string>
     <string name="lock_screen_date">"EEEE d 'de' MMMM"</string>
     <string name="lock_screen_date_12">"EEEE d 'de' MMMM"</string>
     <string name="lock_screen_no_sim_card">No hay tarjeta SIM</string>
+	<string name="lock_screen_no_sim_card_emergency_only">Solo llamadas de emergencia</string>
+	<string name="lock_screen_no_sim_card_no_service">Sin servicio</string>
     <string name="lock_wallpaper_enter">Introducir</string>
     <string name="lock_wallpaper_learn_more">Más</string>
     <string name="lockscreen_access_pattern_area">Área del patrón.</string>

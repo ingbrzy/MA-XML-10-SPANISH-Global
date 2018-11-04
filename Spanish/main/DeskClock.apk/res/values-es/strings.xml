@@ -197,7 +197,7 @@
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
     <string name="turn_off_a_repeat_alarm">Desactivar una alarma repetida</string>
-    <string name="turn_off_this_repeat_alarm">Desactivar esta alarma repetida</string>
+    <string name="turn_off_this_repeat_alarm">Desactivar todas las alarmas</string>
     <string name="upcoming_alarm">%s Alarma siguiente</string>
     <string name="upcoming_alarm_hint">Puedes cancelar la alarma antes</string>
     <string name="vibrate_pref_summary">Vibrar cuando suene la alarma</string>

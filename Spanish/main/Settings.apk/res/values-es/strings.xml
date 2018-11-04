@@ -4420,6 +4420,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_notification_shade_shortcut">Acceso directo al Panel de notificaciones</string>
     <string name="status_bar_settings_notification_sound">Sonido</string>
 	<string name="status_bar_settings_notification_sound_custom">Sonido personalizado</string>
+	<string name="status_bar_settings_notification_style">Estilo de las notificaciones</string>
 	<string name="status_bar_settings_notification_use_app_icon">Usar iconos de aplicaciones para las notificaciones</string>
     <string name="status_bar_settings_notification_vibrate">Vibración</string>
     <string name="status_bar_settings_show_carrier">Mostrar nombre de operador</string>

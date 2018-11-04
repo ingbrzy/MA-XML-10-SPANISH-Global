@@ -1815,6 +1815,7 @@ tu dispositivo"</string>
     <string name="card_main_deepclean_summary">Eliminar archivos innecesarios</string>
     <string name="card_main_deepclean_action">Limpiar</string>
     <string name="card_main_deepclean_wechat_title">Caché de WeChat</string>
+	<string name="card_main_deepclean_whatsapp_title">Limpiador de WhatsApp</string>
     <string name="card_main_deepclean_wechat_summary">Limpiar caché de WeChat para liberar espacio de almacenamiento</string>
     <string name="card_main_deepclean_wechat_action">Limpiar</string>
     <string name="card_main_sectool_title">Herramientas</string>
