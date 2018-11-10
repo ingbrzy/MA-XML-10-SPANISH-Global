@@ -4423,6 +4423,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
 	<string name="status_bar_settings_notification_style">Estilo de las notificaciones</string>
 	<string name="status_bar_settings_notification_use_app_icon">Usar iconos de aplicaciones para las notificaciones</string>
     <string name="status_bar_settings_notification_vibrate">Vibración</string>
+	<string name="status_bar_settings_peek_notification_icon">Mostrar iconos para notificaciones entrantes</string>
     <string name="status_bar_settings_show_carrier">Mostrar nombre de operador</string>
     <string name="status_bar_settings_show_carrier_summary">El nombre del operador se sigue mostrando en la pantalla de bloqueo y en el panel de notificaciones cuando esta función está desactivada</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Mostrar nombre del operador cuando el dispositivo esté bloqueado</string>
