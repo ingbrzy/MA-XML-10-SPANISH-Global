@@ -467,7 +467,7 @@
     <string name="private_settings">Ajustes de mensajes privados</string>
     <string name="processing">Procesando…</string>
     <string name="prvate_contact">Contactos privados</string>
-    <string name="quick_reply">Contestar</string>
+    <string name="quick_reply">Responder</string>
     <string name="rate_limit_surpassed">Aceptar</string>
     <string name="received_at_time">Recibido a las: %1s</string>
     <string name="received_label">"Recibido: "</string>
@@ -486,7 +486,7 @@
     <string name="remove_video">Eliminar vídeo</string>
     <string name="replace">Reemplazar</string>
     <string name="replace_image">Sustituir imagen</string>
-    <string name="reply_button_msg">Contestar</string>
+    <string name="reply_button_msg">Responder</string>
     <string name="resent_message">Reenviar</string>
     <string name="resize_image_error_information">Esta imagen es demasiado grande para enviarse, incluso reajustando su tamaño.</string>
     <string name="resource_price_free">Gratis</string>
