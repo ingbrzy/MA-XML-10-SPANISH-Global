@@ -227,6 +227,14 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="always_running">Siempre en ejecución (%s)</string>
     <string name="amber_alerts_summary">Recibir boletines sobre secuestros de menores</string>
     <string name="amber_alerts_title">Alertas AMBER</string>
+	<string name="ambient_display_category_triggers">Cuando mostrar</string>
+	<string name="ambient_display_pickup_summary">Para ver la hora, los iconos de notificación y otra información, levante su teléfono.</string>
+	<string name="ambient_display_pickup_title">Levante para ver</string>
+	<string name="ambient_display_screen_summary_always_on">Siempre encendido/Incrementa el uso de la batería</string>
+	<string name="ambient_display_screen_summary_notifications">Nuevas notificaciones</string>
+	<string name="ambient_display_screen_title">Pantalla ambiente</string>
+	<string name="ambient_display_summary">To check time, notification icons, and other info, double-tap your screen.</string>
+	<string name="ambient_display_title">Double-tap to check phone</string>
     <string name="ambient_display_pickup_summary">Coge el teléfono para consultar las notificaciones rápidamente.</string>
     <string name="ambient_display_pickup_title">Levantar el teléfono para comprobarlo</string>
     <string name="ambient_display_summary">Toca dos veces la pantalla para consultar las notificaciones rápidamente.</string>
@@ -1356,6 +1364,8 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="date_picker_title">Fecha</string>
     <string name="date_time_24hour">Usar formato de 24 horas</string>
     <string name="date_time_24hour_title">Formato de 24 horas</string>
+	<string name="date_time_24hour_auto">Formato 24 horas automatico</string>
+	<string name="date_time_24hour_auto_summary">Usar el predeterminado del idioma</string>
     <string name="date_time_auto">Fecha y hora automáticas</string>
     <string name="date_time_auto_summaryOff">Usar los datos proporcionados por la red</string>
     <string name="date_time_auto_summaryOn">Usar los datos proporcionados por la red</string>
@@ -2857,6 +2867,8 @@ Selecciona tu sistema operativo:"</string>
     <string name="nature_color">Predeterminado</string>
     <string name="navigation_guide_app_summary">Desliza a la izquierda o derecha desde el borde de la pantalla en la parte superior</string>
     <string name="navigation_guide_app_title">Activar la acción de la aplicación</string>
+	<string name="navigation_guide_appswitch_anim_summary">Deslice el dedo por la pantalla desde el borde para volver a la aplicación anterior</string>
+	<string name="navigation_guide_appswitch_anim_title">Volver a la aplicación anterior</string>
     <string name="navigation_guide_appswitch_summary">Desliza a izquierda o derecha desde el borde de la pantalla y mantén presionado por un momento</string>
     <string name="navigation_guide_appswitch_title">Cambiar a la aplicación previa</string>
     <string name="navigation_guide_back_anim_summary">Mostrar animación mientras desliza el dedo desde el borde de la pantalla</string>
