@@ -233,8 +233,8 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
 	<string name="ambient_display_screen_summary_always_on">Siempre encendido/Incrementa el uso de la batería</string>
 	<string name="ambient_display_screen_summary_notifications">Nuevas notificaciones</string>
 	<string name="ambient_display_screen_title">Pantalla ambiente</string>
-	<string name="ambient_display_summary">To check time, notification icons, and other info, double-tap your screen.</string>
-	<string name="ambient_display_title">Double-tap to check phone</string>
+	<string name="ambient_display_summary">Para consultar la hora, los íconos de notificación y otra información, toque dos veces la pantalla.</string>
+	<string name="ambient_display_title">Pulse dos veces para comprobar el teléfono</string>
     <string name="android_beam_disabled_summary">Para usar esta función, activa el NFC</string>
     <string name="android_beam_explained">Puedes compartir una página web, vídeo u otro contenido desde tu pantalla a otro dispositivo, toca los dispositivos a la vez (normalmente en la parte trasera).</string>
     <string name="android_beam_label">Android Beam</string>
