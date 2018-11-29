@@ -1600,6 +1600,8 @@ Tu teléfono podría calentarse de más si:
     <string name="tts_status_title">Estado del idioma por defecto</string>
     <string name="tuner_app">%1$s aplicación</string>
     <string name="tuner_circle">Círculo</string>
+	<string name="tuner_doze">Pnatalla ambiente</string>
+	<string name="tuner_doze_always_on">Siempre encendido</string>
     <string name="tuner_full_importance_settings">Controles de notificaciones de energía</string>
     <string name="tuner_full_importance_settings_off">Desactivado</string>
     <string name="tuner_full_importance_settings_on">Activado</string>

@@ -297,6 +297,7 @@
     <string name="share">Compartir</string>
     <string name="show_all">Mostrar todo</string>
     <string name="show_mem_info_title">Mostrar estado de la memoria</string>
+	<string name="show_recents_recommend_title">Mostrar sugerencias</string>
     <string name="sort_by_abc">Ordenar por nombre</string>
     <string name="sort_by_frequency">Ordenar por uso</string>
     <string name="sort_by_not_defined">Ordenar automáticamente</string>

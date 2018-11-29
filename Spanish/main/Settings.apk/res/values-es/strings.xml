@@ -1633,6 +1633,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="double_twist_for_camera_mode_title">Cambiar de cámara</string>
     <string name="download_current_rom">Obtener la última versión de MIUI</string>
     <string name="downloading_description">Descargando…</string>
+	<string name="doze_always_on_summary">Mostrar hora, iconos de notificación, y otra información. Incrementa el uso de la batería.</string>
     <string name="doze_summary">Activar pantalla al recibir notificaciones</string>
     <string name="doze_title">Pantalla ambiente</string>
     <string name="draw_overlay">Mostrar sobre otras apps</string>
@@ -4441,6 +4442,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_show_home_message">Contador en el icono</string>
     <string name="status_bar_settings_show_keyguard_notification">Notificaciones en la Pantalla de bloqueo</string>
     <string name="status_bar_settings_show_keyguard_notification_summary">Permitir que las notificaciones importantes aparezcan en la pantalla de bloqueo</string>
+	<string name="status_bar_settings_show_lte_for_4g">Mostrar icono LTE para 4G</string>
     <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
     <string name="status_bar_settings_show_notification_icon">Mostrar iconos de notificación</string>
     <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>
@@ -4654,6 +4656,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="suggestions_summary">Más de %1$d</string>
     <string name="suggestions_title">Sugerencias</string>
     <string name="sum_carrier_select">Selecciona un operador de red</string>
+	<string name="summary_font_size_v2">Ajustar tamaño del texto, imágenes, y iconos</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
     <string name="super_resolution_access_title">Aplicaciones accesibles</string>
@@ -4798,6 +4801,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="title_hdmi_color_calibration">Corrección de color preestablecido</string>
     <string name="title_layout_current">Tamaño del texto</string>
     <string name="title_layout_current2">Tamaño del texto</string>
+	<string name="title_layout_v2">Tamaño de texto y escala</string>
 	<string name="to_close">Apagar</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduce la contraseña</string>
     <string name="toast_need_login">Iniciar sesión en Mi Cuenta</string>
