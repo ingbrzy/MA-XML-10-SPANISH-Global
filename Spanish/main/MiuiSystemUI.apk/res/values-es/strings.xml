@@ -1333,7 +1333,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
 	<string name="recents_title_garbage_deepclean">Limpieza profunda</string>
 	<string name="recents_title_market">Buscar aplicaciones</string>
 	<string name="recents_title_security_scan">Escaneo de seguridad</string>
-    <string name="recents_stack_action_button_label">Borrar todo</string>
     <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
     <string name="reject_call">Rechazando llamada</string>
     <string name="remaining_length_format">%1$s restante</string>
