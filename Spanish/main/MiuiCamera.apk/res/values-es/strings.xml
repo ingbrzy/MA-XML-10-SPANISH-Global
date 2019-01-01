@@ -338,6 +338,14 @@
     <string name="pref_advance_settings">Ajustes adicionales</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
     <string name="pref_camera_ubifocus_title">Reenfocar</string>
+	<string name="pref_camera_video_duration_entry_10">10 minutos</string>
+	<string name="pref_camera_video_duration_entry_120">Sin límite</string>
+	<string name="pref_camera_video_duration_entry_30">30 minutos</string>
+	<string name="pref_camera_video_duration_entry_mms">30 segundos (MMS)</string>
+	<string name="pref_camera_volumekey_function_entry_shutter">Obturador</string>
+	<string name="pref_camera_volumekey_function_entry_timer">Cuenta atrás</string>
+	<string name="pref_camera_volumekey_function_entry_volume">Volumen</string>
+	<string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="simple_mode_button_text_ubifocus">Desactivar Reenfocar</string>
     <string name="cannot_move_warning_message">Al hacer fotos, no muevas el dispositivo</string>
     <string name="ubifocus_capture_warning_message">Para obtener mejores resultados, tu foto debería contener objetos cercanos (a menos de 1 metro de la lente) y lejanos</string>

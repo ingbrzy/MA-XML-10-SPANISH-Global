@@ -18,6 +18,13 @@
     <string name="blacklist_prefix_add_hint">Bloquear todos los números que comiencen con este prefijo</string>
     <string name="whitelist_prefix_add_hint">Añadir todos los números con este prefijo a la lista de excepciones</string>
     <string name="customizer_mode_user_define_name">Mis normas</string>
+	<string name="daily_card_setting_fragment_daily_card_brand">Operador</string>
+	<string name="daily_card_setting_fragment_daily_card_brand_value">Seleccionar operador</string>
+	<string name="daily_card_setting_fragment_daily_card_setting">Configuración del plan diario de datos.</string>
+	<string name="daily_card_setting_fragment_daily_card_summary">"stablecerá límites de datos y aplicaciones con datos ilimitados de acuerdo con el operador que seleccione. Si su operador no está en la lista, seleccione \"Otro\" y configure su plan diario de datos manualmente."</string>
+	<string name="daily_card_setting_fragment_daily_package">Límite de datos diario</string>
+	<string name="daily_card_setting_fragment_month_package">Paquete de datos mensual</string>
+	<string name="daily_card_setting_fragment_package_summary">Si su plan de datos diario contiene un paquete de datos mensual, se utilizará antes del paquete diario.</string>
     <string name="all_address_choose_hint">Todos los números de esta provincia</string>
     <string name="address_choose_hint">%1$s, %2$s y %3$d otras ubicaciones</string>
     <string name="two_address_choose_hint">%1$s y %2$s</string>
@@ -429,6 +436,8 @@ responda"</string>
     <string name="managed_user_title">Todas las aplicaciones de trabajo</string>
     <string name="pref_about_traffic_title">Configuración de uso de datos</string>
     <string name="pref_traffic_manage_title">Uso de datos</string>
+	<string name="pref_traffic_monthly_package">Plan de datos mensual</string>
+	<string name="pref_traffic_package_type_summary">Mensual/Diario/Ilimitado</string>
     <string name="pref_package_traffic_settings">Plan de datos</string>
     <string name="pref_adjust_traffic_data">Establecer uso de datos</string>
     <string name="pref_category_title_other">Ajustes adicionales</string>
@@ -438,6 +447,7 @@ responda"</string>
     <string name="pref_title_declaration">Aviso legal</string>
     <string name="pref_new_installed_preconfig_title">Ajustes por defecto para nuevas aplicaciones</string>
     <string name="pref_bg_network_title">Datos en segundo plano</string>
+	<string name="pref_category_daily_package_tile">Plan de datos diario</string>
     <string name="pref_mi_sim_settings">Ajustes Mi SIM</string>
     <string name="pref_title_upload_data_usage">Notificar estadísticas de uso de datos</string>
     <string name="pref_summary_upload_data_usage">Las estadísticas de tu uso de datos nos ayudan a mejorar MIUI. Los informes se llevan a cabo de acuerdo con nuestra Política de Privacidad.</string>
@@ -511,6 +521,7 @@ responda"</string>
     <string name="traffic_setting_fragment_province">Provincia</string>
     <string name="traffic_setting_fragment_city">Ciudad</string>
     <string name="traffic_setting_fragment_operator_setting">Ajustes del operador</string>
+	<string name="traffic_setting_fragment_packege_type">Ajustes del plan de datos</string>
     <string name="traffic_setting_fragment_operator">Operadora</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_default">Seleccionar</string>
@@ -519,6 +530,11 @@ responda"</string>
     <string name="traffic_setting_fragment_send_num_tips">Introduce el número de teléfono</string>
     <string name="traffic_setting_fragment_sms_content_tips">Escriba aquí su mensaje</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">No mostrar de nuevo</string>
+	<string name="traffic_setting_fragment_month_summary">Los datos móviles y minutos de llamadas se actualizan mensualmente</string>
+	<string name="traffic_setting_fragment_month_title">Plan de datos mensual</string>
+	<string name="traffic_setting_fragment_next">Siguiente</string>
+	<string name="traffic_setting_fragment_not_limited_summary">Opciones del plan de datos ilimitado</string>
+	<string name="traffic_setting_fragment_not_limited_title">Plan de datos ilimitado</string>
     <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>¿No está seguro sobre su operador?&lt;/U>&lt;/font>"</string>
     <string name="data_usage_warning_body">Toque para ver detalles del uso de datos.</string>
     <string name="data_usage_mobile_limit_title">Límite de datos móviles alcanzados</string>
@@ -658,6 +674,8 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="roaming_start_title">Itinerancia de datos</string>
     <string name="roaming_start_body">Toque para ver las excepciones de itinerancia de datos.</string>
     <string name="dialog_app_roaming_title">%1$s no puede utilizar la itinerancia de datos</string>
+	<string name="dialog_change_package_type_summary">Cambiar el tipo de plan de datos restablecerá todas las configuraciones de uso de datos (por ejemplo, límites de datos) a sus valores predeterminados. ¿Estás seguro?</string>
+	<string name="dialog_change_package_type_title">Cambiar tipo de plan de datos</string>
     <string name="dialog_app_roaming_message">%1$s no puede utilizar datos móviles en itinerancia. Cuando esté en itinerancia, sólo aquellas aplicaciones que ha añadido a la lista de excepciones podrán utilizar datos móviles.</string>
     <string name="add_miservice_dialog_title">Estructura de servicios MIUI</string>
     <string name="add_miservice_dialog_content">%s requiere que agregues la estructura de servicios de MIUI a la lista de excepciones. Puedes recibir notificaciones de aplicaciones incorporadas de MIUI y otras aplicaciones de terceros.</string>
@@ -2228,6 +2246,7 @@ tu dispositivo"</string>
     <string name="boost_stop">Desactivar aumento de velocidad</string>
     <string name="already_close_gamebooster">Acelerador de velocidad de juegos deshabilitado</string>
     <string name="no_game">No se encontraron juegos</string>
+	<string name="not_limited_brand">Ilimitado</string>
     <string name="gamebooster_network_dialog_title">Algunas funciones no están disponibles</string>
     <string name="gamebooster_network_dialog_message">¿Permitir a la Seguridad conectarse a la red para poder usar todas las características del acelerador de velocidad en los juegos?</string>
     <string name="ask_create_shortcut">¿Crear acceso directo en la Pantalla Inicio?</string>
