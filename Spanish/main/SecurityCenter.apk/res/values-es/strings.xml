@@ -447,7 +447,6 @@ responda"</string>
     <string name="pref_title_declaration">Aviso legal</string>
     <string name="pref_new_installed_preconfig_title">Ajustes por defecto para nuevas aplicaciones</string>
     <string name="pref_bg_network_title">Datos en segundo plano</string>
-	<string name="pref_category_daily_package_tile">Plan de datos diario</string>
     <string name="pref_mi_sim_settings">Ajustes Mi SIM</string>
     <string name="pref_title_upload_data_usage">Notificar estadísticas de uso de datos</string>
     <string name="pref_summary_upload_data_usage">Las estadísticas de tu uso de datos nos ayudan a mejorar MIUI. Los informes se llevan a cabo de acuerdo con nuestra Política de Privacidad.</string>
