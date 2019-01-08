@@ -56,7 +56,6 @@
     <string name="exo_controls_rewind_description">Rebobinar</string>
     <string name="exo_controls_shuffle_description">Reproducción aleatoria</string>
     <string name="exo_controls_stop_description">Detener</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="store_picture_message">¿Permitir que el anuncio almacene imágenes en la galería de imágenes?</string>
     <string name="store_picture_title">Guardar imagen</string>
     <string name="abc_action_mode_select_all">Seleccionar todo</string>
@@ -762,8 +761,6 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="mw_snippets_disabled_generic_prompt">Obtén contenido personalizado</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Para recibir contenido personalizado sugerido por Google, inicia sesión en Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Establecer hora</string>

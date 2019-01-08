@@ -35,7 +35,6 @@
     <string name="cast_forward">Avanzar</string>
     <string name="cast_forward_10">Avanzar 10 segundos</string>
     <string name="cast_forward_30">Avanzar 30 segundos</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Silenciar</string>
     <string name="cast_notification_connected_message">Conectado a %1$s</string>
     <string name="cast_notification_connecting_message">Conectando a %1$s</string>
@@ -113,7 +112,6 @@
     <string name="s6">¿Permitir que el anuncio cree un evento de calendario?</string>
     <string name="s7">Anuncio de prueba</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="agree">Aceptar</string>
     <string name="alert_dialog_download">Ya has descargado esta aplicación.</string>
     <string name="alert_dialog_download_btn_hide">Ocultar</string>
