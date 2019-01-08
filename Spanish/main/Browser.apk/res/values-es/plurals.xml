@@ -9,8 +9,12 @@
         <item quantity="one">%d elemento bloqueado</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">%1$d artículos actualizados por ti</item>
-        <item quantity="one">%1$d artículo actualizado por ti</item>
+        <item quantity="other">Comprobar %1$d artículos nuevos</item>
+        <item quantity="one">Comprobar %1$d artículo nuevo</item>
+    </plurals>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">Reproduciendo el siguiente vídeo en %d segundos</item>
+        <item quantity="one">Reproduciendo el siguiente vídeo en %d segundo</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">¿Eliminar tareas %d?</item>
@@ -25,8 +29,8 @@
         <item quantity="one">Último %d día</item>
     </plurals>
     <plurals name="mw_matches_found">
-        <item quantity="other">%1$d of %2$d</item>
-        <item quantity="one">1 match</item>
+        <item quantity="other">%1$d de %2$d</item>
+        <item quantity="one">1 resultado</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">Después de %d segundos creará automáticamente una página nueva</item>
@@ -81,12 +85,20 @@
         <item quantity="one">%d minuto restante</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">%1$d vídeos actualizados por ti</item>
-        <item quantity="one">%1$d vídeo actualizado por ti</item>
+        <item quantity="other">Comprobar %1$d vídeos nuevos</item>
+        <item quantity="one">Comprobar %1$d vídeo nuevo</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d visualizaciones</item>
+        <item quantity="one">%1$d visualización</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Despejado</item>
         <item quantity="one">Despejado</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d personas han votado</item>
+        <item quantity="one">%d persona ha votado</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">%d últimos días</item>

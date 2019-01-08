@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
     <string-array name="aqi_title_prefix">
         <item>ICA %1$s</item>
         <item>AQI %1$s</item>
@@ -18,7 +36,7 @@
         <item>Azul</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Volver o pasar la página</item>
+        <item>Ir atrás/adelante</item>
         <item>Cambiar pestaña</item>
         <item>Ninguno</item>
     </string-array>

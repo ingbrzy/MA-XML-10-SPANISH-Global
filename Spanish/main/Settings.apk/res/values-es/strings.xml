@@ -1661,6 +1661,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="emergency_address_title">Actualizar dirección de emergencia</string>
     <string name="emergency_info_summary">Información y contactos de %1$s</string>
     <string name="emergency_info_title">Información de emergencia</string>
+	<string name="emergency_sos_title">SOS de Emergencia</string>
     <string name="emergency_tone_alert">Alerta</string>
     <string name="emergency_tone_silent">Silencio</string>
     <string name="emergency_tone_summary">Establecer comportamiento al realizar una llamada de emergencia</string>
@@ -4410,7 +4411,13 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sort_max_use">Ordenar por uso máximo</string>
     <string name="sort_order_alpha">Ordenar por nombre</string>
     <string name="sort_order_size">Ordenar por tamaño</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Tono de llamada y notificaciones</string>
+	<string name="sos_privacy_and_content_policy">Acuerdo de usuario y política de privacidad</string>
+	<string name="sos_privacy_dialog_button_cancel">Cancelar</string>
+	<string name="sos_privacy_dialog_button_ok">Aceptar</string>
+	<string name="sos_privacy_dialog_message">"Lea y acepte nuestro %s antes de usar esta función.
+	Esta función necesita permisos para acceder a su ubicación, usar redes móviles y leer sus contactos. ¿Está de acuerdo?"</string>
+	<string name="sos_privacy_dialog_title">Términos y condiciones</string>
+	<string name="sound_category_call_ringtone_vibrate_title">Tono de llamada y notificaciones</string>
     <string name="sound_category_sound_title">General</string>
     <string name="sound_category_system_title">Sistema</string>
     <string name="sound_dashboard_summary">Volumen, vibración y No molestar</string>

@@ -54,7 +54,7 @@
 	<string name="dialog_content_limit0">Restringir descargas</string>
 	<string name="dialog_content_limit_max">Ilimitado</string>
 	<string name="dialog_data_limit_button1">Esperar a Wi-Fi</string>
-	<string name="dialog_data_limit_button2">Descargar ahora now</string>
+	<string name="dialog_data_limit_button2">Descargar ahora</string>
 	<string name="dialog_data_limit_msg1">%s de datos móviles se utilizará para descargar este archivo. ¿Descargar ahora?</string>
 	<string name="dialog_data_limit_msg3">Cambiar límite</string>
 	<string name="dialog_data_limit_title">Advertencia de uso de datos</string>
