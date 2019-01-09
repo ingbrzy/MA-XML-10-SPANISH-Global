@@ -693,6 +693,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="title_limit_traffic_per_day">Límite de uso diario de datos</string>
     <string name="daily_limit_and_lock_screen">Aviso de consumo de datos</string>
     <string name="pref_title_traffic_limit_number">Tamaño</string>
+	<string name="pref_title_traffic_package_type">Tipo de plan de datos</string>
     <string name="pref_title_over_traffic_limit_warning">Cuando se exceda</string>
     <string name="reach_daily_limit_value_title">Límite diario de datos alcanzado</string>
     <string name="reach_daily_limit_value_body">Reduzca el uso de datos móviles.</string>

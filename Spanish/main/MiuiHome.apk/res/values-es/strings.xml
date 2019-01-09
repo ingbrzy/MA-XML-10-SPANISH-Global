@@ -102,6 +102,7 @@
     <string name="delete_wallpaper_message">¿Eliminar %1$d fondo de pantalla?</string>
     <string name="deselect_all">Deseleccionar todo</string>
     <string name="disable_wallpaper_scroll">Desactivar desplazamiento entre pantallas</string>
+	<string name="double_tap_to_lock_title">Pulsar dos veces para bloquear pantalla</string>
     <string name="download_action">Descargar</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
