@@ -47,8 +47,8 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="settings_summary">Ajustes de mensajes y teléfono</string>
     <string name="camera_summary">Ajustes de cámara (sin incluir fotos)</string>
     <string name="account_summary">Hacer copia de seguridad de tu cuenta de Google, Mi Cuenta y otros datos de usuario</string>
-    <string name="cloud_app_name">Copia de seguridad Mi Nube</string>
-    <string name="cloud_home_title">Mi Nube</string>
+    <string name="cloud_app_name">Copia de seguridad Mi Cloud</string>
+    <string name="cloud_home_title">Mi Cloud</string>
     <string name="prompt_reading">Leyendo…</string>
     <string name="prompt_sending">Cargando…</string>
     <string name="prompt_writing">Guardando…</string>
@@ -56,17 +56,17 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="backup_update">Actualizar</string>
     <string name="backup_delete">Eliminar:</string>
     <string name="findlost_contact">Restaurar contactos</string>
-    <string name="findlost_contact_online">Restaurar contactos desde Mi Nube</string>
+    <string name="findlost_contact_online">Restaurar contactos desde Mi Cloud</string>
     <string name="cloud_backup_login">Iniciar sesión en Mi Cuenta</string>
     <string name="cloud_backup_hint">Iniciar sesión para acceder a tus copias de seguridad</string>
-    <string name="cloud_backup_window_title">Copia de seguridad Mi Nube</string>
-    <string name="cloud_restore_window_title">Recuperación de Mi Nube</string>
+    <string name="cloud_backup_window_title">Copia de seguridad Mi Cloud</string>
+    <string name="cloud_restore_window_title">Recuperación de Mi Cloud</string>
     <string name="cloud_restore_title">Restaurar datos de la Copia de seguridad</string>
     <string name="local_backup_window_title">Datos de copia de seguridad local</string>
     <string name="local_restore_window_title">Restauración local</string>
     <string name="account_login">Iniciar sesión</string>
     <string name="miliao_account_login">Iniciar sesión con Mi Talk</string>
-    <string name="miliao_account_guide">Usar tu Mi Cuenta para iniciar sesión en Mi Nube, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
+    <string name="miliao_account_guide">Usar tu Mi Cuenta para iniciar sesión en Mi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
     <string name="auto_backup">Programar copia de seguridad</string>
     <string name="contact_title">Contactos</string>
     <string name="call_title">Historial de llamadas</string>
@@ -113,7 +113,7 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="sc_network_unavailable">Comprueba la conexión e inténtalo de nuevo.</string>
     <string name="sc_bad_request">Solicitud inválida</string>
     <string name="sc_unaccess_password_file">No se puede encontrar la contraseña de la red Wi-Fi</string>
-    <string name="sc_service_unavailable">Mi Nube no está disponible</string>
+    <string name="sc_service_unavailable">Mi Cloud no está disponible</string>
     <string name="sc_unauthorized">Iniciar sesión de nuevo</string>
     <string name="sc_request_timeout">Tiempo de espera agotado</string>
     <string name="sc_precondition_failed">Primero debes añadir un correo electrónico a Mi Cuenta.</string>
@@ -171,7 +171,7 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="deselect_all">Deseleccionar todo</string>
     <string name="reverse_all">Borrar todo</string>
     <string name="refresh">Actualizar</string>
-    <string name="cloud_item_info_summary">" (Local: %1$s | Mi Nube: %2$s)"</string>
+    <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
     <string name="cloud_restore_guide">Para restaurar los datos de usuario de %s, pulsa Restaurar</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga la app de Mi Talk e inicia sesión.
 \u0009http://www.miliao.com
@@ -434,7 +434,7 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_title_account">Cuentas y contraseñas:</string>
     <string name="trans_intro_desc_account">Tienes que iniciar sesión otra vez en tus cuentas (p. ej. Mi Cuenta, Exchange, Google, etc) en un nuevo dispositivo por razones de seguridad.</string>
     <string name="trans_intro_title_private">Álbum oculto:</string>
-    <string name="trans_intro_desc_private">Mi Mover no puede acceder a las fotos del álbum oculto porque están cifradas. Puedes restaurar estas fotos desde Mi Nube en un nuevo dispositivo.</string>
+    <string name="trans_intro_desc_private">Mi Mover no puede acceder a las fotos del álbum oculto porque están cifradas. Puedes restaurar estas fotos desde Mi Cloud en un nuevo dispositivo.</string>
     <string name="trans_intro_title_multiuser">Datos del Segundo espacio:</string>
     <string name="trans_intro_desc_multiuser">Mi Mover no puede acceder a los elementos del Segundo espacio. Muévelos al Primer espacio y lanza Mi Mover allí.</string>
     <string name="trans_intro_title_multiapp">Datos de aplicaciones duales:</string>

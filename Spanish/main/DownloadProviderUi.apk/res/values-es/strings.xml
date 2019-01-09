@@ -150,7 +150,7 @@
     <string name="paused_unknown">En pausa</string>
     <string name="paused_waiting_for_network">Esperando red</string>
     <string name="paused_waiting_to_retry">Esperando para reintentar</string>
-    <string name="pref_download_settings_title">Las descargas usando datos móviles están restringidas</string>
+    <string name="pref_download_settings_title">Máximo descarga con datos</string>
     <string name="pref_summary_any_bytes_popup">Esperar siempre a una conexión Wi-Fi para descargar archivos</string>
     <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se utilice la conexión de datos móviles para descargar el contenido</string>
     <string name="pref_summary_max_bytes_limit_format">Esperar a conexión Wi-Fi si el tamaño del archivo excede %s</string>

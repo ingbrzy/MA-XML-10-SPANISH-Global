@@ -97,9 +97,9 @@
     <string name="winter_solstice">冬至</string>
     <string name="no_notification_tips">Sin notificaciones.</string>
     <string name="android_ringtone_default_with_actual">Tono de llamada predeterminado (%1$s)</string>
-    <string name="cloud_state_disabled">Sincronización con Mi Nube desactivada</string>
-    <string name="cloud_state_finished">Sincronizado con Mi Nube</string>
-    <string name="cloud_state_syncing">Sincronizado con Mi Nube</string>
+    <string name="cloud_state_disabled">Sincronización con Mi Cloud desactivada</string>
+    <string name="cloud_state_finished">Sincronizado con Mi Cloud</string>
+    <string name="cloud_state_syncing">Sincronizado con Mi Cloud</string>
     <string name="vip_achievements">Logros</string>
     <string name="vip_sign">Firma:</string>
     <string name="vip_not_login">Sesión no iniciada</string>

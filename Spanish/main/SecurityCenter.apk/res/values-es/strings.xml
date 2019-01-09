@@ -1646,7 +1646,7 @@ tu dispositivo"</string>
     <string name="empty_title_manual_item_white_list">Sin excepciones.</string>
     <string name="title_cloud_account">Mi Cuenta</string>
     <string name="summary_cloud_account">Saque el máximo partido a Mi dispositivo</string>
-    <string name="title_cloud_service">Mi Nube</string>
+    <string name="title_cloud_service">Mi Cloud</string>
     <string name="summary_cloud_service">Sincronice sus fotos, contactos y otros elementos en todos sus dispositivos</string>
     <string name="title_network_switch">Conexión de red</string>
     <string name="summary_network_switch">Permitir que la aplicación de Seguridad se conecte a internet</string>

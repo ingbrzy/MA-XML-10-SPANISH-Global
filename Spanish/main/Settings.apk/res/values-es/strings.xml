@@ -1079,10 +1079,10 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="close_miui_optimization_title">Desactivar optimización MIUI</string>
     <string name="close_optimization_message">El formato de texto, cuentas y otras partes de MIUI podrían verse afectadas después de desactivar esta función.</string>
     <string name="close_optimization_option">Desactivar</string>
-    <string name="cloud_backup_section_title">Copia de seguridad Mi Nube</string>
+    <string name="cloud_backup_section_title">Copia de seguridad Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Ajustes de copia de seguridad</string>
     <string name="cloud_restore_section_summary">Restaurar la configuración del sistema, el diseño de la pantalla de inicio y las aplicaciones</string>
-    <string name="cloud_restore_section_title">Restaurar desde Mi Nube</string>
+    <string name="cloud_restore_section_title">Restaurar desde Mi Cloud</string>
     <string name="cmcc_hardware_version">Versión del hardware</string>
     <string name="color_black">Negro</string>
     <string name="color_blue">Azul</string>
@@ -2547,7 +2547,7 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="lockscreen_magazine_title">Fondo de pantalla Carrusel</string>
     <string name="lockscreen_remote_input">Si el dispositivo está bloqueado, evitar que se escriban respuestas u otros textos en las notificaciones</string>
     <string name="lockscreen_settings_title">Ajustes de la pantalla de bloqueo</string>
-    <string name="login_account_dialog_message">Inicia sesión en Mi Cuenta y activa la sincronización con Mi Nube.</string>
+    <string name="login_account_dialog_message">Inicia sesión en Mi Cuenta y activa la sincronización con Mi Cloud.</string>
     <string name="login_account_dialog_title">Iniciar sesión en Mi Cuenta</string>
     <string name="login_action">Iniciar sesión</string>
     <string name="long_press_back_key">Pulsa y mantén el botón Atrás</string>
@@ -3950,7 +3950,7 @@ Para ello, sigue estos pasos:
     <string name="search_children_mode_title">Modo niño;Bloquear SMS;Control parental;Parental;Restringir SMS</string>
     <string name="search_choose_timezone">Seleccionar zona horaria;Zona horaria;Zonas horarias</string>
     <string name="search_cloud_backup_settings_section_title">Ajustes de copias de respaldo;Hacer copia de respaldo;Hacer copia de respaldo;Copias de respaldo</string>
-    <string name="search_cloud_restore_section_title">Restaurar de Mi Nube;Mi Nube;Copias de seguridad de Mi Nube</string>
+    <string name="search_cloud_restore_section_title">Restaurar de Mi Cloud;Mi Cloud;Copias de seguridad de Mi Cloud</string>
     <string name="search_copyright_title">Derechos de autor</string>
     <string name="search_credentials_install">Instalar desde el almacenamiento;Instalación directa;Instalar APK</string>
     <string name="search_date_and_time_settings_title">Fecha y hora;Fecha y hora;Fecha;Hora</string>
@@ -3996,7 +3996,7 @@ Para ello, sigue estos pasos:
     <string name="search_master_clear_title">Restablecer datos de fábrica</string>
     <string name="search_menu">Busca en los ajustes</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="search_micloud">Sincronizar;Mi Nube;Sincronizar Nube;Sincronizar con Mi Nube</string>
+    <string name="search_micloud">Sincronizar;Mi Cloud;Sincronizar Nube;Sincronizar con Mi Cloud</string>
     <string name="search_music_audio_effect_optimize">Ajustes de audio;Ajustes de sonido</string>
     <string name="search_music_equalizer">Ecualizador</string>
     <string name="search_music_headset_calibrate">Asignar botones;Botones</string>
@@ -5920,8 +5920,8 @@ Toca"<b> Atrás</b> para conectarte a otra red Wi-Fi.</string>
     <string name="write_tag">Editar</string>
     <string name="wrong_pin_code_pukked">Código PIN de la tarjeta SIM incorrecto. Debes ponerte en contacto con tu operador para desbloquear el dispositivo.</string>
     <string name="xiaomi_account">Mi Cuenta</string>
-    <string name="xiaomi_cloud_service">Mi Nube</string>
-    <string name="xiaomi_cloud_service_description">Mi Nube sincroniza tus contactos y fotos, hace copia de seguridad de tus aplicaciones y ajustes y te ayuda a encontrar tu teléfono usando Encontrar dispositivo.</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_cloud_service_description">Mi Cloud sincroniza tus contactos y fotos, hace copia de seguridad de tus aplicaciones y ajustes y te ayuda a encontrar tu teléfono usando Encontrar dispositivo.</string>
     <string name="xiaomi_cloud_service_disabled">Desactivado</string>
     <string name="xiaomi_cloud_service_unknown">Desconocido</string>
     <string name="xiaomi_money_service">Mi Crédito</string>

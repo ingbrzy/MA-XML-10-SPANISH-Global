@@ -129,6 +129,7 @@
     <string name="never">Una vez</string>
     <string name="oneshot_alarm">Eliminar cuando suene la alarma</string>
     <string name="open_keep_screen">La pantalla se mantendrá encendida</string>
+	<string name="other_category_title">Otros</string>
     <string name="pause">Pausar</string>
     <string name="percentage_sign">%</string>
     <string name="privacy_policy">Política de Privacidad</string>
@@ -151,6 +152,8 @@
     <string name="silent_alarm_summary">Silencio</string>
     <string name="skip_alarm_once_hint">Desactivar una vez el %s</string>
     <string name="slider_text">Desliza hacia arriba para desactivar</string>
+	<string name="snooze_duration">Repetición</string>
+	<string name="snooze_duration_value">Intervalo (minutos)</string>
     <string name="snooze_confirm_cancel">Descartar alarma</string>
     <string name="snooze_duration_title">Duración de la repetición</string>
     <string name="start">Iniciar</string>

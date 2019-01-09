@@ -4,6 +4,10 @@
         <item quantity="other">Pospuesta %d minutos.</item>
         <item quantity="one">Pospuesta %d minuto.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">¿Eliminar alarmas seleccionadas?</item>
         <item quantity="one">¿Eliminar esta alarma?</item>
@@ -12,9 +16,25 @@
         <item quantity="other">¿Eliminar las zonas horarias seleccionadas?</item>
         <item quantity="one">¿Eliminar esta zona horaria?</item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d días</item>
+        <item quantity="one">%1$d día</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d segundos</item>
         <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">La alarma se apagará %2$s veces (%1$s min. cada una)</item>
+        <item quantity="one">La alarma se apagará %2$s vez (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Posponer %d minutos</item>

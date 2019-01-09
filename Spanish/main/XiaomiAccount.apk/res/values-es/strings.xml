@@ -218,7 +218,7 @@ Para activar su cuenta, siga el
     <string name="passport_license_info_collapse">Cerrar</string>
     <string name="search_app_name">Mi Cuenta</string>
     <string name="search_mi_account">Mi Cuenta</string>
-    <string name="search_mi_account_key_words">Mi Nube,Ajustes de Cuenta,Información Mi Pago,Cerrar sesión</string>
+    <string name="search_mi_account_key_words">Mi Cloud,Ajustes de Cuenta,Información Mi Pago,Cerrar sesión</string>
     <string name="search_mi_account_desc">Mi Cuenta</string>
     <string name="search_mi_account_path">Ajustes/Mi Cuenta</string>
     <string name="search_user_detail">Información personal</string>
@@ -350,7 +350,7 @@ Para activar su cuenta, siga el
     <string name="account_mibi_charge">Recarga</string>
     <string name="account_mipay_info">Mi Pago</string>
     <string name="account_xiaomi_service">Servicios</string>
-    <string name="cloud_service">Mi Nube</string>
+    <string name="cloud_service">Mi Cloud</string>
     <string name="vip_account_settings">Ajustes VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="mi_vip_info">Ver privilegios</string>
@@ -384,9 +384,9 @@ Para activar su cuenta, siga el
     <string name="delete_device_failed">No es posible desvincular el dispositivo</string>
     <string name="empty_device_list_notice">No hay dispositivos</string>
     <string name="device_name">Nombre del dispositivo</string>
-    <string name="multi_user_not_show_sync_activity_title">No activar la sincronización con Mi Nube</string>
+    <string name="multi_user_not_show_sync_activity_title">No activar la sincronización con Mi Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">Parece que estás usando Mi Cuenta de tu Primer espacio.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">En ese caso, todos tus datos se sincronizarán en el Segundo espacio. Para evitar esto, no actives la sincronización con Mi Nube.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">En ese caso, todos tus datos se sincronizarán en el Segundo espacio. Para evitar esto, no actives la sincronización con Mi Cloud.</string>
     <string name="find_device_access_denied">No se pudo obtener el estado, acceso negado</string>
     <string name="find_device_account_error">No se pudo obtener el estado debido a un error de cuenta</string>
     <string name="find_device_null_credential_error">No se pudo obtener la información del dispositivo, contacta con el Servicio al cliente de Xiaomi</string>

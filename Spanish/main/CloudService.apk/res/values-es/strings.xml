@@ -3,12 +3,12 @@
     <string name="search_finddevice_pref">Localizar Dispositivo</string>
     <string name="search_finddevice_pref_key_words">localizardispositivo, localizar dispositivo</string>
     <string name="search_finddevice_pref_desc">Activar/Desactivar Localizar Dispositivo</string>
-    <string name="search_finddevice_pref_path">Mi Cuenta/Mi Nube/Localizar dispositivo</string>
+    <string name="search_finddevice_pref_path">Mi Cuenta/Mi Cloud/Localizar dispositivo</string>
     <string name="search_cloudbackup_pref">Copia de seguridad en la Nube</string>
     <string name="search_cloudbackup_pref_key_words">copiaenlanube, copia en la nube</string>
     <string name="search_cloudbackup_pref_desc">Activar/Desactivar Copia en la Nube</string>
-    <string name="search_cloudbackup_pref_path">Mi Cuenta/Mi Nube/Copia de seguridad del dispositivo</string>
-    <string name="app_name">Mi Nube</string>
+    <string name="search_cloudbackup_pref_path">Mi Cuenta/Mi Cloud/Copia de seguridad del dispositivo</string>
+    <string name="app_name">Mi Cloud</string>
     <string name="sync_item_sms_title">Sincronizar mensajes</string>
     <string name="sync_item_sms_summary">Sincronizar los SMS enviados y recibidos en este teléfono</string>
     <string name="sub_sync_item_sms_title_wifi_only">Solo sincronizar MMS con Wi-Fi</string>
@@ -16,7 +16,7 @@
     <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Solo sincronizar fotos con Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Solo sincronizar las imágenes de perfil de los contactos cuando esté conectado por Wi-Fi</string>
-    <string name="error_data_in_transfer_title">Mi Nube no disponible</string>
+    <string name="error_data_in_transfer_title">Mi Cloud no disponible</string>
     <string name="error_data_in_transfer">La sincronización finalizará en %s horas.</string>
     <string name="no_sim">Tarjeta SIM no detectada</string>
     <string name="bad_authentication">Cuenta o contraseña no válidas</string>
@@ -39,9 +39,9 @@
 "</string>
     <string name="sync_dspt_entrance_provision">"Sincronice sus fotos, contactos, historial de llamadas y mensajes en todos sus dispositivos. Acceda a las cosas que sincronice desde cualquier navegador en %s. "</string>
     <string name="sync_dspt_entrance_provision_confirm_close">No usar</string>
-    <string name="sync_dspt_entrance_provision_confirm_open">Usar Mi Nube</string>
-    <string name="sync_dspt_entrance_provision_confirm_title">¿No usar Mi Nube?</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">Las aplicaciones del sistema de MIUI necesitan Mi Nube para realizar una copia de tus fotos, contactos, notas y otros elementos. Mi Nube es gratuita y está siempre lista para utilizarse.</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Usar Mi Cloud</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">¿No usar Mi Cloud?</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Las aplicaciones del sistema de MIUI necesitan Mi Cloud para realizar una copia de tus fotos, contactos, notas y otros elementos. Mi Cloud es gratuita y está siempre lista para utilizarse.</string>
     <string name="sync_dspt_entrance_provision_skip">Omitir este paso</string>
     <string name="sync_dspt_entrance_provision_network">Esta aplicación necesita conectarse a Internet para funcionar correctamente. La sincronización puede requerir conexión a datos móbiles y activar el Wi-Fi.</string>
     <string name="find_device_dspt_provision">Si pierdes tu dispositivo, puedes entrar en %s para localizarlo, bloquearlo o restablecerlo. Puedes activar o desactivar esta función en cualquier momento desde Ajustes.</string>
@@ -62,9 +62,9 @@ Esta característica cifra y envía el ID de tu dispositivo a los servidores Mi.
 Esta característica cifra y envía el ID de su dispositivo a los servidores Mi."</string>
     <string name="user_agreement_p5">"
 "</string>
-    <string name="user_agreement_link">Términos de Servicio de Mi Nube</string>
+    <string name="user_agreement_link">Términos de Servicio de Mi Cloud</string>
     <string name="user_agreement_content">Al utilizar este servicio, aceptas %s.</string>
-    <string name="user_agreement_title">Términos de Servicio de Mi Nube</string>
+    <string name="user_agreement_title">Términos de Servicio de Mi Cloud</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="loading">Un momento…</string>
     <string name="license_host_unreachable">No se puede conectar a la red. Para ver esta información ahora, ve a %s.</string>
@@ -80,17 +80,17 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="i_know">Aceptar</string>
     <string name="button_cancel">Cancelar</string>
     <string name="enable_micloud">Inicia sesión para usar Mi Cloud</string>
-    <string name="xiaomi_cloud_service">Mi Nube</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Todos los elementos importantes en un solo lugar</string>
-    <string name="micloud_dspt">Usa Mi Nube para sincronizar datos, localizar tu dispositivo,</string>
+    <string name="micloud_dspt">Usa Mi Cloud para sincronizar datos, localizar tu dispositivo,</string>
     <string name="micloud_sec_dspt">y compartir cosas con sus amigos.</string>
-    <string name="micloud_dspt_provision">Usa Mi Nube para sincronizar datos, localizar tu dispositivo y compartir cosas con tus amigos.</string>
+    <string name="micloud_dspt_provision">Usa Mi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con tus amigos.</string>
     <string name="micloud_proceed">Continuar</string>
-    <string name="master_alert_notif_title">Activar la sincronización con Mi Nube</string>
+    <string name="master_alert_notif_title">Activar la sincronización con Mi Cloud</string>
     <string name="master_alert_notif_content">No se pudo sincronizar</string>
-    <string name="sub_alert_notif_title">Sincronizar con Mi Nube</string>
-    <string name="sub_alert_notif_content">Activar la sincronización con Mi Nube para hacer una copia de seguridad de tus datos</string>
-    <string name="cloudservice_new_sync">Sincronizar %s con Mi Nube</string>
+    <string name="sub_alert_notif_title">Sincronizar con Mi Cloud</string>
+    <string name="sub_alert_notif_content">Activar la sincronización con Mi Cloud para hacer una copia de seguridad de tus datos</string>
+    <string name="cloudservice_new_sync">Sincronizar %s con Mi Cloud</string>
     <string name="click_to_enabled">Pulsa para sincronizar.</string>
     <string name="calendar_sync">Calendario</string>
     <string name="antispam_sync">Ajustes del Modo No molestar</string>
@@ -104,11 +104,11 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="micloud_storage_full">La nube está llena</string>
     <string name="micloud_web_discription_place_holder">Visita %1$s en tu ordenador para gestionar tus datos.</string>
     <string name="micloud_warn_low_title">Casi no queda espacio</string>
-    <string name="micloud_warn_low_sum">Mi Nube está al 90% de su capacidad.</string>
+    <string name="micloud_warn_low_sum">Mi Cloud está al 90% de su capacidad.</string>
     <string name="micloud_warn_full_title">No queda espacio</string>
-    <string name="micloud_warn_full_sum">No se sincronizarán los nuevos elementos con Mi Nube.</string>
-    <string name="micloud_storage_expires_soon_title">El almacenamiento de Mi Nube caducará pronto</string>
-    <string name="micloud_storage_expires_very_soon_title">El almacenamiento de Mi Nube caducará pronto</string>
+    <string name="micloud_warn_full_sum">No se sincronizarán los nuevos elementos con Mi Cloud.</string>
+    <string name="micloud_storage_expires_soon_title">El almacenamiento de Mi Cloud caducará pronto</string>
+    <string name="micloud_storage_expires_very_soon_title">El almacenamiento de Mi Cloud caducará pronto</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Necesitas renovar tu suscripción.</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Necesitas renovar tu suscripción.</string>
     <string name="cloud_find_device">Localizar dispositivo</string>
@@ -127,7 +127,7 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="micloud_all_sub_2_intl_sms">2 mensajes de texto internacionales se enviarán para activar tu tarjeta SIM. Tu operador te cobrará.</string>
     <string name="micloud_all_sub_1_sms_1_intl_sms">2 mensajes de texto (uno convencional y otro internacional) se enviarán para activar tu tarjeta SIM. Tu operador te cobrará.</string>
     <string name="micloud_all_sub_resend_sms">"Al activar 'Localizar el dispositivo', un SMS de activación puede ser enviado después de cambiar las tarjetas SIM."</string>
-    <string name="micloud_sync_prompt_for_no_gallery_sync">Contactos, Calendario y Notas se sincronizan automáticamente. Ve a ajustes de Mi Nube para sincronizar más elementos.</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync">Contactos, Calendario y Notas se sincronizan automáticamente. Ve a ajustes de Mi Cloud para sincronizar más elementos.</string>
     <string name="sync_item_calllog_title">Sincronizar historial de llamadas</string>
     <string name="sync_item_calllog_summary">Sincronizar grabaciones de llamadas realizadas y recibidas en este dispositivo</string>
     <string name="micloud_main_set_internet">Redes</string>
@@ -145,13 +145,13 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="micloud_main_space_low">Casi no queda espacio</string>
     <string name="micloud_main_update_space">Conseguir más espacio de almacenamiento.</string>
     <string name="micloud_main_space_full_title">No hay suficiente espacio de almacenamiento, sincronización pausada</string>
-    <string name="micloud_main_space_full_message">Comprar más espacio de almacenamiento en Mi Nube</string>
+    <string name="micloud_main_space_full_message">Comprar más espacio de almacenamiento en Mi Cloud</string>
     <string name="micloud_main_memory_low_message">Para sincronizar, elimina algunos elementos que hayas almacenado en la nube.</string>
     <string name="micloud_main_clear_now">Borrar</string>
     <string name="micloud_main_query_error_title">No se pudo obtener información sobre el progreso de sincronización</string>
     <string name="micloud_main_query_error_message">No se puede confirmar si la sincronización se ha completado para algunos servicios</string>
-    <string name="micloud_main_multi_user_error_title">Error de Mi Nube</string>
-    <string name="micloud_main_multi_user_error_message">"Has iniciado sesión con la misma cuenta que en el Primer espacio causando un error en Mi Nube.
+    <string name="micloud_main_multi_user_error_title">Error de Mi Cloud</string>
+    <string name="micloud_main_multi_user_error_message">"Has iniciado sesión con la misma cuenta que en el Primer espacio causando un error en Mi Cloud.
 Usa una cuenta diferente."</string>
     <string name="micloud_main_cancel_sync">Cancelar sincronización</string>
     <string name="micloud_main_query_again">Enviar otra solicitud</string>
@@ -185,10 +185,10 @@ Usa una cuenta diferente."</string>
     <string name="micloud_privacy_warning_button">Atrás</string>
     <string name="micloud_privacy_progress_content">Concediendo autorización…</string>
     <string name="micloud_check_sim_title">"Parece que has cambiado las tarjetas SIM. Inicia sesión
- en Mi Cuenta para reactivar Mi Nube."</string>
-    <string name="micloud_check_sim_notify_title">Reactivar Mi Nube</string>
+ en Mi Cuenta para reactivar Mi Cloud."</string>
+    <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Parece que has cambiado las tarjetas SIM. Inicia sesión
- en Mi Cuenta para reactivar Mi Nube."</string>
+ en Mi Cuenta para reactivar Mi Cloud."</string>
     <string name="micloud_setting_contact_summary">Información de contactos y fotos de perfil</string>
     <string name="micloud_setting_sms_summary">Mensajes SMS y MMS</string>
     <string name="micloud_setting_gallery_summary">Fotos y vídeos</string>
@@ -213,7 +213,7 @@ Usa una cuenta diferente."</string>
     <string name="micloud_main_message_master_sync_off">Has desactivado la sincronización en el panel de notificaciones.</string>
     <string name="micloud_main_error_network_disallowed">Asegúrate de que permites el acceso a internet.</string>
     <string name="micloud_main_error_activated_fail">Activar tu tarjeta SIM.</string>
-    <string name="micloud_main_error_permission_limit">Permitir a Mi Nube el acceso al almacenamiento.</string>
+    <string name="micloud_main_error_permission_limit">Permitir a Mi Cloud el acceso al almacenamiento.</string>
     <string name="micloud_manage_space_data">Administrar almacenamiento de Mi Cloud</string>
     <string name="micloud_confusion_no">No</string>
     <string name="micloud_confusion_yes">Sí</string>
@@ -243,11 +243,11 @@ Usa una cuenta diferente."</string>
     <string name="micloud_confusion_alert_message">%s está modificando la información de Mi Cuenta.</string>
     <string name="micloud_confusion_alert_negative">Más tarde</string>
     <string name="micloud_confusion_alert_positive">Detalles</string>
-    <string name="micloud_confusion_check_account_title">Inicia sesión en Mi Cuenta para reactivar Mi Nube.</string>
+    <string name="micloud_confusion_check_account_title">Inicia sesión en Mi Cuenta para reactivar Mi Cloud.</string>
     <string name="micloud_confusion_account_name">Cuenta:</string>
     <string name="input_password_hint">Introducir contraseña</string>
     <string name="forget_password"><u>Contraseña olvidada</u></string>
-    <string name="micloud_sync_alert_dialog_title">Usar Mi Nube</string>
+    <string name="micloud_sync_alert_dialog_title">Usar Mi Cloud</string>
     <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas y otros elementos en todos tus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
     <string name="micloud_sync_alert_dialog_positive">Aceptar</string>
@@ -255,14 +255,14 @@ Usa una cuenta diferente."</string>
     <string name="micloud_battery_low_notification_message">Conecta el cargador para sincronizar</string>
     <string name="micloud_upgrade_member">Obtener almacenamiento</string>
     <string name="micloud_notif_content_depend_wifi">Conectar a Wi-Fi para sincronizar.</string>
-    <string name="micloud_notif_title_master_depend_wifi">No se puede sincronizar con Mi Nube</string>
+    <string name="micloud_notif_title_master_depend_wifi">No se puede sincronizar con Mi Cloud</string>
     <string name="micloud_notif_content_master_depend_wifi">Primero conéctate a una red Wi-Fi.</string>
     <string name="micloud_notif_content_memory_low">No hay suficiente espacio de almacenamiento.</string>
-    <string name="micloud_notif_title_battery_low">No se puede sincronizar con Mi Nube</string>
+    <string name="micloud_notif_title_battery_low">No se puede sincronizar con Mi Cloud</string>
     <string name="micloud_notif_content_battery_low">Batería demasiado baja.</string>
-    <string name="micloud_notif_title_sync_with_off">Sincronizar con Mi Nube</string>
+    <string name="micloud_notif_title_sync_with_off">Sincronizar con Mi Cloud</string>
     <string name="micloud_notif_content_sync_with_off">Toca para sincronizar tu dispositivo ahora.</string>
-    <string name="micloud_notif_title_multi_user_error">No se puede sincronizar con Mi Nube</string>
+    <string name="micloud_notif_title_multi_user_error">No se puede sincronizar con Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">Has iniciado sesión con la misma cuenta que usas en el Primer espacio.</string>
     <string name="micloud_notif_title_dirty_data">Tienes elementos no sincronizados</string>
     <string name="micloud_notif_content_dirty_data">Detalles</string>
@@ -282,8 +282,8 @@ Usa una cuenta diferente."</string>
     <string name="micloud_find_device_verify_fail">No se pudo reactivar Localizar dispositivo</string>
     <string name="micloud_find_device_close_fail">No se pudo desactivar Localizar dispositivo</string>
     <string name="micloud_find_device_finish">Hecho</string>
-    <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Mi Nube</string>
-    <string name="micloud_find_device_guide_fail_reopen">Puedes activar Localizar dispositivo en Mi Cuenta - Mi Nube</string>
+    <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Mi Cloud</string>
+    <string name="micloud_find_device_guide_fail_reopen">Puedes activar Localizar dispositivo en Mi Cuenta - Mi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Comprueba tu conexión de red e inténtalo de nuevo.</string>
     <string name="micloud_find_device_guide_noti_title">Activar Localizar dispositivo</string>
     <string name="micloud_find_device_guide_noti_content">Protege tus datos incluso cuando se pierda el dispositivo</string>
@@ -310,10 +310,10 @@ Usa una cuenta diferente."</string>
     <string name="trying_to_connect_to_network">Conectándose a la red…</string>
     <string name="detect_sim_card">Buscar tarjeta SIM</string>
     <string name="connect_wlan">Conectar a red Wi-Fi</string>
-    <string name="soundrecorder_sync_records">Sincronizar con Mi Nube</string>
+    <string name="soundrecorder_sync_records">Sincronizar con Mi Cloud</string>
     <string name="soundrecorder_sync_only_in_wifi">Solo usar Wi-Fi para sincronizar</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">La grabadora no usará datos móviles para descargar o subir grabaciones</string>
-    <string name="micloud_wipe_data_confirm_label">Eliminar los datos de Mi Nube</string>
+    <string name="micloud_wipe_data_confirm_label">Eliminar los datos de Mi Cloud</string>
     <string name="micloud_wipe_data_retain">Mantener</string>
     <string name="micloud_wipe_data_remove">Eliminar</string>
     <string name="wipe_data_dialog_title">Los elementos no están sincronizados</string>
@@ -322,10 +322,10 @@ Usa una cuenta diferente."</string>
     <string name="wipe_secret_photo_dialog_title">Las fotos ocultas no están sincronizadas</string>
     <string name="confirm_delete">Eliminar</string>
     <string name="confirm_save">Mantener</string>
-    <string name="micloud_request_permission_title">Se necesitan permisos para Mi Nube</string>
-    <string name="micloud_request_permission_content">Se necesitan permisos para sincronizar datos a Mi Nube. Permite a Mi Nube acceder al Calendario, a los Contactos, a Mi Cuenta, al estado de la tarjeta SIM, al historial de llamadas y a los mensajes.</string>
+    <string name="micloud_request_permission_title">Se necesitan permisos para Mi Cloud</string>
+    <string name="micloud_request_permission_content">Se necesitan permisos para sincronizar datos a Mi Cloud. Permite a Mi Cloud acceder al Calendario, a los Contactos, a Mi Cuenta, al estado de la tarjeta SIM, al historial de llamadas y a los mensajes.</string>
     <string name="micloud_request_permission_confirm">De acuerdo</string>
-    <string name="short_cut_desc">¿Añadir icono de Mi Nube a la Pantalla de inicio?</string>
+    <string name="short_cut_desc">¿Añadir icono de Mi Cloud a la Pantalla de inicio?</string>
     <string name="add_short_cut">Añadir</string>
     <string name="close_shortcut">Cerrar</string>
     <string name="added_successfully">Añadido correctamente</string>
