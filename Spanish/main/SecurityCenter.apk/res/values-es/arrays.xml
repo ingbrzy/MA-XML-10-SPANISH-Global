@@ -82,6 +82,11 @@
         <item>Desactivar y notificar</item>
         <item>Sólo notificar</item>
     </string-array>
+	<string-array name="traffic_package_type">
+		<item>Plan de datos mensual</item>
+		<item>Plan de datos diario</item>
+		<item>Plan de datos ilimitado</item>
+	</string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vez</item>
         <item>Cada día</item>

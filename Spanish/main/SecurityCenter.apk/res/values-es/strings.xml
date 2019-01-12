@@ -2097,6 +2097,8 @@ tu dispositivo"</string>
     <string name="app_manager_app_version_name">Versión:</string>
     <string name="app_manager_unstall_application">Desinstalar</string>
     <string name="app_manager_force_stop_dlg_title">¿Forzar detención?</string>
+	<string name="app_manager_full_screen_summary">Permite a la aplicación ejecutarse en pantalla completa</string>
+	<string name="app_manager_full_screen_title">Modo pantalla completa</string>
     <string name="app_manager_force_stop_dlg_text">Si fuerza el cierre de una aplicación, esta puede volverse inestable.</string>
     <string name="app_manager_dlg_ok">Aceptar</string>
     <string name="app_manager_dlg_cancel">Cancelar</string>
