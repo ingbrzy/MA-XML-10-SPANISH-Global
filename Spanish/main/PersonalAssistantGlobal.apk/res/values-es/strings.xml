@@ -28,7 +28,7 @@
     <string name="Paytm_parent">Paytm</string>
     <string name="Whatsapp_main">Fotos</string>
     <string name="Whatsapp_parent">WhatsApp</string>
-    <string name="accessibility_title">Bóveda de aplicaciones</string>
+    <string name="accessibility_title">Asistente</string>
     <string name="accordingto_position">Reconocer lugares frecuentes usando GPS</string>
     <string name="add_home_and_work">Agrega casa y trabajo</string>
     <string name="add_stock">Añadir</string>
@@ -44,7 +44,7 @@
     <string name="agenda_setting_brief_detail">Ver eventos planeados y recordatorios de cumpleaños.</string>
     <string name="agenda_settings_account">Gestionar cuentas del calendario</string>
     <string name="agenda_settings_birthday">Mostrar recordatorios de cumpleaños</string>
-    <string name="app_label">Bóveda de aplicaciones</string>
+    <string name="app_label">Asistente</string>
     <string name="apps_label">Aplicaciones</string>
     <string name="assistant_place">Reconocer lugares frecuentes</string>
     <string name="ball_CricketMatch_title">Criquet</string>

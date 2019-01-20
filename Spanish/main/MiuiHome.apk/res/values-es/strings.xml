@@ -236,10 +236,10 @@
     <string name="online_wallpaper">Online</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desactivar</string>
-    <string name="open_personal_assistant_dialog_desc">No podrás usar la Bóveda de apliaciones ni recibir sus actualizaciones. ¿Desactivar ahora?</string>
-    <string name="open_personal_assistant_dialog_desc_international">No podrás usar las tarjetas de la Bóveda de aplicaciones (valores, atajos, etc.) ni recibir actualizaciones después de desactivar esta función.</string>
-    <string name="open_personal_assistant_dialog_title">Desactivar Bóveda de aplicaciones</string>
-    <string name="open_personal_assistant_title">Bóveda de aplicaciones</string>
+    <string name="open_personal_assistant_dialog_desc">No podrás usar el Asistente ni recibir sus actualizaciones. ¿Desactivar ahora?</string>
+    <string name="open_personal_assistant_dialog_desc_international">No podrás usar las tarjetas del Asistente (valores, atajos, etc.) ni recibir actualizaciones después de desactivar esta función.</string>
+    <string name="open_personal_assistant_dialog_title">Desactivar Asistente</string>
+    <string name="open_personal_assistant_title">Asistente</string>
     <string name="out_of_space">No queda más espacio en esta Pantalla de inicio</string>
     <string name="permdesc_install_shortcut">Permitir que una aplicación añada accesos directos sin intervención del usuario.</string>
     <string name="permdesc_install_widget">Permitir que una aplicación añada widgets sin la intervención del usuario.</string>
