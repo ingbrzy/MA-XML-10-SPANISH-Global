@@ -1,11 +1,26 @@
 # SPANISH MIUI 10 TRANSLATION FOR XIAOMI.EU
-
+REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
 ![MIUI10](https://i.imgur.com/s5PsCYM.png)
 
-REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
-## Qué hacer si encuentro algo sin traducir?
-Crea una issue en el repositorio, indicando la aplicación que está la frase sin traducir, una captura y el modelo de tú dispositivo. 
+## ¿Qué hacer si encuentro algo sin traducir?
+¡Importante leer!
+
+Crea una issue en el repositorio, indicando:
+* La aplicación
+* La frase que está la frase sin traducir o está mal escrita
+* Una captura de pantalla
+* El modelo de tú dispositivo y la versión de la ROMs
+
 Todas la issues que no tengan estos datos serán rechazadas
+
+## Voluntarios que ayudaron a la traducción:
+
+* @Infante007
+* @danielchc
+* @rdgi
+* @Muchachito
+
+## Misc
 
 XML checking script | Validador XML:
 
@@ -19,12 +34,6 @@ What's new in our repository?  | Últimas actualizaciones al repositorio en Espa
 
 https://github.com/ingbrzy/MA-XML-10-SPANISH-Global/commits
 
-Special thanks to the translators volunteers:
-
-* @Infante007
-* @danielchc
-* @rdgi
-* @Muchachito
 
 # If you want to help in translations, please create a issue in this repository for further details.
 
