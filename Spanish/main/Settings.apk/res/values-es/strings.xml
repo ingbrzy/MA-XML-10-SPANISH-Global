@@ -217,6 +217,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="allow_bind_app_widget_activity_allow_bind_title">¿Crear widget y permitir acceso?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir que %1$s pueda crear widgets y acceder a sus datos siempre</string>
     <string name="allow_data_usage_title">Permitir uso datos itinerancia</string>
+	<string name="allow_device_id_access">Aplicaciones con acceso al ID del Dispositivo</string>
     <string name="allow_mock_location">Permitir localizaciones ficticias</string>
     <string name="allow_mock_location_summary">Permitir localizaciones ficticias</string>
     <string name="allow_overlay_description">Permite que esta aplicación se muestre sobre otras aplicaciones que estés utilizando. Esto puede interferir en el uso de dichas aplicaciones o cambiar el modo en que se muestran o se comportan.</string>
@@ -1460,6 +1461,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="device_display_layout_title">Características de Mi 5</string>
     <string name="device_edit_title">Renombrar teléfono</string>
     <string name="device_feedback">Enviar sugerencias sobre el dispositivo</string>
+	<string name="device_id">ID del Dispositivo</string>
     <string name="device_info_default">Desconocido</string>
     <string name="device_info_label">Información del dispositivo</string>
     <string name="device_info_not_available">No disponible</string>
@@ -2220,6 +2222,7 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="keyboard_shortcuts_helper">Ayuda de accesos directos de teclado</string>
     <string name="keyboard_shortcuts_helper_summary">Mostrar accesos directos de teclado disponibles</string>
     <string name="keyguard_advance_setting_title">Ajustes avanzados</string>
+	<string name="keyguard_double_tap_to_sleep_title">Doble toque para bloquear</string>
 	<string name="keyguard_security_setting_others">Otros</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
 	<string name="keyguard_vertical_clock_title">Reloj vertical</string>
@@ -3692,6 +3695,9 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restore_default_apn">Restaurando la configuración de APN predeterminada</string>
     <string name="restore_default_apn_completed">Se ha restablecido la configuración predeterminada de APN.</string>
+	<string name="restore_device_id_content">Reiniciar las recomendaciones personalizadas</string>
+	<string name="restore_device_id_title">Restaurar ID del Dispositivo</string>
+	<string name="restore_dialog_content">Restaurar ID del Dispositivo reiniciará las recomendaciones personalizadas.</string>
     <string name="restr_pin_enter_admin_pin">Introducir el PIN del administrador</string>
     <string name="restrict_background_blacklisted">Las conexiones automáticas están desactivadas</string>
     <string name="restrict_bg_app">Restringir</string>
@@ -4490,6 +4496,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
 	<string name="status_bar_settings_notification_use_app_icon">Usar iconos de aplicaciones para las notificaciones</string>
     <string name="status_bar_settings_notification_vibrate">Vibración</string>
 	<string name="status_bar_settings_peek_notification_icon">Mostrar iconos para notificaciones entrantes</string>
+	<string name="status_bar_settings_qs_layout">Diseño de Ajustes rápidos</string>
     <string name="status_bar_settings_show_carrier">Mostrar nombre de operador</string>
     <string name="status_bar_settings_show_carrier_summary">El nombre del operador se sigue mostrando en la pantalla de bloqueo y en el panel de notificaciones cuando esta función está desactivada</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Mostrar nombre del operador cuando el dispositivo esté bloqueado</string>
@@ -5403,8 +5410,8 @@ Toca en más para añadir palabras."</string>
     <string name="vpn_username">Nombre de usuario</string>
     <string name="vpn_version">Versión %s</string>
     <string name="vr_listener_security_warning_summary">%1$s podrá ejecutarse cuando utilices aplicaciones en el modo de realidad virtual.</string>
-    <string name="vr_listener_security_warning_title">¿Permitir que el servicio de RV acceda a %1$s?</string>
-    <string name="vr_listeners_title">Servicios de ayuda de RV</string>
+    <string name="vr_listener_security_warning_title">¿Permitir que el servicio de VR acceda a %1$s?</string>
+    <string name="vr_listeners_title">Servicios de ayuda VR</string>
     <string name="vt_provisioned_switch_string">Videollamada preparada</string>
     <string name="wait_for_debugger">Esperando al depurador</string>
     <string name="wait_for_debugger_summary">La aplicación de depuración espera conexión con el depurador antes de ejecutarse</string>

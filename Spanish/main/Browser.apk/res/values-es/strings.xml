@@ -67,6 +67,10 @@
     <string name="action_menu_account_not_login_hint">Iniciar sesión para sincronizar con Mi Cloud</string>
     <string name="action_menu_bookshelf">Biblioteca</string>
     <string name="action_menu_current_version">Versión actual</string>
+	<string name="action_menu_download">Descargar</string>
+	<string name="action_menu_request_desktop_site">Modo escritorio</string>
+	<string name="action_menu_request_desktop_site_off">Modo escritorio desactivado</string>
+	<string name="action_menu_request_desktop_site_on">Modo escritorio activado</string>
     <string name="action_menu_text_add_bookmark">Añadir marcador</string>
     <string name="action_menu_text_bandwidth">Ahorro de datos</string>
     <string name="action_menu_text_bandwidth_off">Ahorro de datos</string>
@@ -76,7 +80,7 @@
     <string name="action_menu_text_create_qr_code">"   Código QR"</string>
     <string name="action_menu_text_download">Administrar descargas</string>
     <string name="action_menu_text_exit">Salir</string>
-    <string name="action_menu_text_find_in_page">Buscar en la página</string>
+    <string name="action_menu_text_find_in_page">Buscar</string>
     <string name="action_menu_text_fullscreen">Pantalla completa</string>
     <string name="action_menu_text_history">Marcadores e Historial</string>
     <string name="action_menu_text_nightmode">Modo nocturno</string>
@@ -87,6 +91,8 @@
     <string name="action_menu_text_share">Compartir</string>
     <string name="action_menu_text_snapshot">Guardar página</string>
     <string name="action_menu_text_video">Vídeo</string>
+	<string name="action_menu_toast_incognito_off">Desactivar modo incognito</string>
+	<string name="action_menu_toast_incognito_on">Activar modo incognito</string>
     <string name="action_menu_toolbox">Herramientas</string>
     <string name="action_menu_useful_page">Añadir acceso directo</string>
     <string name="action_menu_useful_page_added">Añadido a la página de inicio</string>
@@ -211,6 +217,7 @@
     <string name="contextmenu_dial_dot">Marcar…</string>
     <string name="contextmenu_download_image">Guardar imagen</string>
     <string name="contextmenu_download_image_as">Guardar imagen</string>
+	<string name="contextmenu_incognito">Modo Incógnito</string>
     <string name="contextmenu_manually_block_ad">Marcar como anuncio</string>
     <string name="contextmenu_map">Mapa</string>
     <string name="contextmenu_openlink">Abrir</string>
@@ -224,7 +231,7 @@
     <string name="contextmenu_share_image">Compartir imagen</string>
     <string name="contextmenu_sharelink">Compartir enlace</string>
     <string name="contextmenu_view_image">Ver imagen</string>
-    <string name="contextmenu_webpage_capture">Guardar como captura de pantalla</string>
+    <string name="contextmenu_webpage_capture">Captura</string>
     <string name="contextmenu_webpage_html">Guardar como archivo HTML</string>
     <string name="contextmenu_webpage_snapshot">Guardar página</string>
     <string name="copy_url">Copiar URL</string>
@@ -237,7 +244,16 @@
     <string name="custom_head_card_text_incognito">"¡Estás en modo incógnito!
 Las páginas que visites no aparecerán en el historial."</string>
     <string name="data_error">Error de datos</string>
-    <string name="data_traffic_prompt_message">"Usar tu conexión de datos móviles para buscar vídeos aumentará el consumo de datos. Si superas tu plan de datos establecido,     tu operador podría cobrar gastos adicionales."</string>
+	<string name="data_monitor">Monitor de tráfico</string>
+	<string name="data_monitor_dialog_message">Parece que algo está gastando tus datos móviles. Abre la página de inicio para detener esto.</string>
+	<string name="data_traffic_continue">Continuar</string>
+	<string name="data_traffic_download_cancel">Cancelar</string>
+	<string name="data_traffic_download_prompt">El video actual solo se puede descargar en un entorno wifi</string>
+	<string name="data_traffic_download_setting">Configuración</string>
+	<string name="data_traffic_goto">Tráfico de datos libre</string>
+	<string name="data_traffic_prompt_free_data">El uso de su conexión de datos móviles para explorar videos aumentará su uso de datos.</string>
+	<string name="data_traffic_stop">Detener</string>
+    <string name="data_traffic_prompt_message">"Usar tu conexión de datos móviles para buscar vídeos aumentará el consumo de datos. Si superas tu plan de datos establecido, tu operador podría cobrar gastos adicionales."</string>
     <string name="data_traffic_prompt_title">Aviso de consumo de datos</string>
     <string name="delete">Eliminar</string>
     <string name="delete_bookmark">Eliminar</string>
@@ -863,6 +879,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="pref_content_night_read_mode">Modo nocturno</string>
     <string name="pref_content_search_engine">Motor de búsqueda de la barra de direcciones</string>
     <string name="pref_content_search_engine_summary">Seleccionar motor de búsqueda</string>
+	<string name="pref_download_setting">Configuración de descarga</string>
     <string name="pref_develop_mode">Modo desarrollador</string>
     <string name="pref_enable_adblock_notification">Mostrar notificaciones del bloqueador de anuncios</string>
     <string name="pref_extras_reset_default">Restaurar valores predeterminados</string>
@@ -905,7 +922,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="pref_privacy_clear_geolocation_access_summary">Eliminar acceso a la ubicación para todos los sitios web</string>
     <string name="pref_privacy_clear_history">Borrar historial</string>
     <string name="pref_privacy_clear_history_by_group_dlg">¿Borrar historial de navegación?</string>
-    <string name="pref_privacy_clear_history_dlg">¿Borrar historial?</string>
+    <string name="pref_privacy_clear_history_dlg">¿Borrar historial?</current_version_phone>
     <string name="pref_privacy_clear_history_summary">Borrar historial de navegación</string>
     <string name="pref_privacy_clear_passwords">Borrar contraseñas guardadas</string>
     <string name="pref_privacy_clear_passwords_dlg">¿Borrar todas las contraseñas guardadas?</string>
@@ -915,6 +932,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="pref_privacy_enable_geolocation_summary">Permitir al navegador pedir acceso a tu ubicación</string>
     <string name="pref_privacy_formdata_title">Datos del formulario</string>
     <string name="pref_privacy_location_title">Acceso a ubicación</string>
+	<string name="pref_privacy_policy">Política de privacidad</string>
     <string name="pref_privacy_security_title">Privacidad y seguridad</string>
     <string name="pref_save_bandwidth_mode_title">Reducir el consumo de datos</string>
     <string name="pref_security_accept_cookies">Aceptar cookies</string>

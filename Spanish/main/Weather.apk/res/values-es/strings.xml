@@ -180,6 +180,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="search_weather">El tiempo</string>
     <string name="search_weather_keywords">Temperatura;Previsión meteorológica;El tiempo;Calidad del aire;Grado de contaminación;Humedad</string>
     <string name="set">Ajustes</string>
+	<string name="settings">Ajustes</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
     <string name="share">Compartir</string>
