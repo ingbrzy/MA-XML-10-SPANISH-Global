@@ -922,7 +922,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="pref_privacy_clear_geolocation_access_summary">Eliminar acceso a la ubicación para todos los sitios web</string>
     <string name="pref_privacy_clear_history">Borrar historial</string>
     <string name="pref_privacy_clear_history_by_group_dlg">¿Borrar historial de navegación?</string>
-    <string name="pref_privacy_clear_history_dlg">¿Borrar historial?</current_version_phone>
+    <string name="pref_privacy_clear_history_dlg">¿Borrar historial?</string>
     <string name="pref_privacy_clear_history_summary">Borrar historial de navegación</string>
     <string name="pref_privacy_clear_passwords">Borrar contraseñas guardadas</string>
     <string name="pref_privacy_clear_passwords_dlg">¿Borrar todas las contraseñas guardadas?</string>
