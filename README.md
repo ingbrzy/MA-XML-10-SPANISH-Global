@@ -3,9 +3,9 @@
 ![MIUI10](https://i.imgur.com/s5PsCYM.png)
 
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
-
-*Español(América)* No se actualiza (si alguien si quiere hacer cargo que cree una issue)
-
+## Qué hacer si encuentro algo sin traducir?
+Crea una issue en el repositorio, indicando la aplicación que está la frase sin traducir, una captura y el modelo de tú dispositivo. 
+Todas la issues que no tengan estos datos serán rechazadas
 
 XML checking script | Validador XML:
 
@@ -25,10 +25,8 @@ Special thanks to the translators volunteers:
 * @danielchc
 * @rdgi
 * @Muchachito
-* @BadWolf
-* @Modder_Ps4
-* @Irp149
 
 # If you want to help in translations, please create a issue in this repository for further details.
 
 Si quieres ayudar a traducir, por favor crea una issue en el repositorio para más información.
+*Español(América)* No se actualiza (si alguien si quiere hacer cargo que cree una issue)
