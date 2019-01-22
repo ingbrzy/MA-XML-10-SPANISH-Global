@@ -22,20 +22,13 @@ Todas la issues que no tengan estos datos serán rechazadas
 
 ## Misc
 
-XML checking script | Validador XML:
+[Validador XML]: https://translators.xiaomi.eu/XML_MIUI10-Spanish-es.html
 
-https://translators.xiaomi.eu/XML_MIUI10-Spanish-es.html
+[Últimos cambios hechos al repositorio original en Inglés para añadir y traducir]:https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare
 
-Latest XML changes from originals values to translate | Últimos cambios hechos al repositorio original en Inglés para añadir y traducir:
-
-https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare
-
-What's new in our repository?  | Últimas actualizaciones al repositorio en Español:
-
-https://github.com/ingbrzy/MA-XML-10-SPANISH-Global/commits
+[Últimas actualizaciones al repositorio en Español]:https://github.com/ingbrzy/MA-XML-10-SPANISH-Global/commits
 
 
-# If you want to help in translations, please create a issue in this repository for further details.
+# Si quieres ayudar a traducir, por favor crea una issue en el repositorio para más información.
 
-Si quieres ayudar a traducir, por favor crea una issue en el repositorio para más información.
 *Español(América)* No se actualiza (si alguien si quiere hacer cargo que cree una issue)
