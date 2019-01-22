@@ -9,16 +9,17 @@ Crea una issue en el repositorio, indicando:
 * La aplicación
 * La frase que está la frase sin traducir o está mal escrita
 * Una captura de pantalla
-* El modelo de tú dispositivo y la versión de la ROMs
+* El modelo de tú dispositivo 
+* Versión de la ROM (Stable/Weekly, y número de versión)
 
 Todas la issues que no tengan estos datos serán rechazadas
 
 ## Voluntarios que ayudaron a la traducción:
 
-* @Infante007
-* @danielchc
-* @rdgi
-* @Muchachito
+* [@Infante007](https://github.com/Infante007)
+* [@danielchc](https://github.com/danielchc)
+* [@rdgi](https://github.com/rdgi)
+* [@Muchachito](https://github.com/Muchachito)
 
 ## Misc
 
