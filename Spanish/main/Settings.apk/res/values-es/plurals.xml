@@ -308,4 +308,7 @@ Ponte en contacto con el administrador para obtener más información sobre este
         <item quantity="other">Cambiar para ver solo alarmas durante %1$d minutos (hasta las %2$s)</item>
         <item quantity="one">Cambiar para ver solo alarmas durante un minuto (hasta las %2$s)</item>
     </plurals>
+	<plurals name="miui_sos_emergency_contacts_quantity">
+		<item quantity="other">%d añadidos</item>
+	</plurals>
 </resources>

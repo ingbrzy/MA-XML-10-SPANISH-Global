@@ -1503,4 +1503,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
     <string name="zen_mode_forever">Hasta que desactives el modo No molestar</string>
     <string name="zen_mode_forever_dnd">Hasta que desactives la opción No molestar</string>
     <string name="zen_mode_until">Hasta las %1$s</string>
+	<string name="tethered_notification_multi_device_message">%1$s dispositivos conectados</string>
+	<string name="tethered_notification_no_device_message">No hay dispositivos conectados</string>
+	<string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
 </resources>

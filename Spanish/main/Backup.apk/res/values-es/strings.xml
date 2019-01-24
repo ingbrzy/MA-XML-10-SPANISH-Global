@@ -605,4 +605,11 @@ Restaurar solo los elementos importantes será más rápido."</string>
 Libera espacio o realiza varias transferencias más pequeñas."</string>
     <string name="usb_trans_old_phone_low_space_title">No hay suficiente espacio de almacenamiento</string>
     <string name="usb_trans_old_phone_low_space_msg">Se necesita más espacio de almacenamiento para almacenar tus copias. No hay espacio suficiente para continuar con la transferencia. Puedes liberar espacio o eliminar archivos innecesarios en Seguridad, o intenta transfiriendo solo elementos importantes.</string>
+	<string name="trans_cancel_dialog_survey_title">¿Por qué interrumpiste la transferencia?</string>
+	<string name="trans_dialog_survey_finish">Enviar</string>
+	<string name="trans_success_dialog_button_market_comment">Comentario</string>
+	<string name="trans_success_dialog_button_survey">Encuesta</string>
+	<string name="trans_success_dialog_market_comment_and_survey_title">"Estás listo para el rock! Cuéntanos qué te parece Mi Mover."</string>
+	<string name="trans_success_dialog_survey_title">Agradecemos tus comentarios</string>
+	<string name="trans_success_survey_hint">Rellene todos los campos primero.</string>
 </resources>

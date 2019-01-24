@@ -226,4 +226,12 @@
     <string name="welcome_note_for_cm">"¡Y otras grandes características!
  - Sincronizar con Mi Cloud
  - Establecer recordatorios"</string>
+	<string name="cta_confirm_cancel">No permitir</string>
+	<string name="cta_confirm_ok">Permitir</string>
+	<string name="cta_dialog_message">Las notas necesitan permisos para conectarse a Internet, grabar audio y acceder a sus contactos para que funcionen normalmente. ¿Permitir?</string>
+	<string name="cta_dialog_title">Permissions required</string>
+	<string name="setting_other">OTRO</string>
+	<string name="toast_notes_hidden_edit">Esta nota se ha ocultado. Tire hacia abajo para ver las notas ocultas.</string>
+	<string name="toast_notes_hidden_home">Esta nota se ha ocultado. Tire hacia abajo para ver las notas ocultas.</string>
+	<string name="unclassfied_folder_name">Sin categoría</string>
 </resources>

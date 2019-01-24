@@ -1774,4 +1774,27 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="zen_silence_introduction">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos.</string>
     <string name="zen_silence_introduction_voice">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos. Podrás realizar llamadas.</string>
     <string name="notification_num_channels">%d categorías de notificación</string>
+	<string name="battery_can_use_time">Aproximandamente %s restante</string>
+	<string name="change_theme_reboot">Cambiar tema require un reinicio.</string>
+	<string name="aspect_cancel">Cancelar</string>
+	<string name="aspect_message">Esta aplicación se lanzará de nuevo en modo de pantalla completa. Si encuentra algún problema, puede desactivar el modo de pantalla completa para esta aplicación en Configuración &gt; Visualización de pantalla completa &gt; Modo de pantalla completa.</string>
+	<string name="aspect_ok">Aceptar</string>
+	<string name="aspect_title">Modo pantalla completa</string>
+	<string name="accessibility_aspect_button">Modo pantalla completa</string>
+	<string name="lock_screen_magazine_default_content">Cada día imágenes nuevas</string>
+	<string name="lock_screen_magazine_default_title">Carrusel de fondos</string>
+	<string name="lock_screen_magazine_global_button_text">Más</string>
+	<string name="theme">Tema</string>
+	<string name="quick_settings_extreme_batterysaver_label">Ahorro de batería extremo</string>
+	<string name="qs_customize">Permitir personalizar pulsando en la Configuración rápida</string>
+	<string name="qs_customize_info">Info</string>
+	<string name="qs_customize_remove">Eliminar</string>
+	<string name="no_tiles_add">Sin elementos a añadir</string>
+	<string name="dlg_cancel">Cancelar</string>
+	<string name="dlg_confirm">Encender</string>
+	<string name="dlg_summary_close_app">Restringir actividad de fondo y notificaciones</string>
+	<string name="dlg_summary_close_theme">Restringir temas animados</string>
+	<string name="dlg_summary_close_wifi">Apagar Wi-Fi, Bluetooth, y puntos de acceso de datos</string>
+	<string name="dlg_summary_nfc">Apagar NFC</string>
+	<string name="quick_settings_toast_drag_to_enable_custom_tile">Para agregar un elemento, manténgalo presionado y luego arrástrelo a la parte superior del panel.</string>
 </resources>

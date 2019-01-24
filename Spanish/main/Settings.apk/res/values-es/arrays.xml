@@ -1349,4 +1349,27 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
 		<item>Tono de llamada</item>
 		<item>Multimedia</item>
 	</string-array>
+	<string-array name="date_of_app_all">
+		<item>Hoy (datos)</item>
+		<item>Este mes (datos)</item>
+		<item>Último mes (datos)</item>
+		<item>Hoy Wi-Fi</item>
+		<item>Este mes Wi-Fi</item>
+		<item>Último mes Wi-Fi</item>
+	</string-array>
+	<string-array name="date_of_traffic">
+		<item>"Hoy: "</item>
+		<item>"Este mes: "</item>
+		<item>"Último mes: "</item>
+	</string-array>
+	<string-array name="date_of_traffic_prefix">
+		<item>"Hoy: "</item>
+		<item>"Este mes: "</item>
+		<item>"Último mes: "</item>
+	</string-array>
+	<string-array name="wifi_frequency_band_entries">
+		<item>Automatico</item>
+		<item>Solo 5 GHz</item>
+		<item>Solo 2.4 GHz</item>
+	</string-array>
 </resources>

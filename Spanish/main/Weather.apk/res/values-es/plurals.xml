@@ -36,4 +36,8 @@
         <item quantity="other"> | %1$s personas</item>
         <item quantity="one"> | %1$s persona</item>
     </plurals>
+	<plurals name="aqi_all_city_cur_num">
+		<item quantity="other">Media de %1$s estaciones</item>
+		<item quantity="one">Media de una estación</item>
+	</plurals>
 </resources>
