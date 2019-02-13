@@ -41,6 +41,5 @@ Toque %s para iniciar esta descarga la próxima vez que se conecte a una red Wi-
     <string name="download_queued">En fila</string>
     <string name="download_running">Descargando</string>
     <string name="download_error">No se pudo descargar</string>
-    <string name="download_running_percent">Descargando %s</string>
     <string name="common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Vuelve a intentarlo.</string>
 </resources>
