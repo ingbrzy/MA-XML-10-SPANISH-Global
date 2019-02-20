@@ -1959,6 +1959,7 @@ tu dispositivo"</string>
     <string name="unlock_pattern"><u>Patrón</u></string>
     <string name="modify_password_mode"><u>Cambiar tipo de contraseña</u></string>
     <string name="fingerprint_to_lock">Desbloquear con huella dactilar</string>
+    <string name="fingerprint_to_lock_summary">Desbloquear aplicaciones usando la huella dactilar</string>
     <string name="system_application">Aplicaciones del sistema</string>
     <string name="third_application">Aplicaciones instaladas</string>
     <string name="finger_remind_message">Añade tu huella primero. Toca para abrir Ajustes.</string>
@@ -1985,6 +1986,8 @@ tu dispositivo"</string>
     <string name="applock_add_account_setting">Cuenta y privacidad</string>
     <string name="applock_add_account_info">Añadir Mi Cuenta para poder restaurar tu contraseña si la olvidas.</string>
     <string name="applock_exit_account_info">La cuenta se eliminará automáticamente al cerrar la sesión</string>
+	<string name="applock_face_unlock_title">Desbloqueo facial</string>
+	<string name="applock_face_unlock_summary">Desbloquear aplicaciones usando el desbloqueo facial</string>
     <string name="applock_login_and_add_account">Iniciar sesión y añadir</string>
     <string name="applock_not_add_account"><u>Ahora no</u></string>
     <string name="applock_add_account">Añadir</string>
@@ -2529,10 +2532,15 @@ tu dispositivo"</string>
 	<string name="extreme_power_save_mode_card_summary">Active el modo extremo para ahorrar batería cuando la batería está baja.</string>
 	<string name="extreme_power_save_mode_summary">El ahorrador de bateria extremo restringe la activdad de segundo plano y la sincronización.</string>
     <string name="extreme_power_save_mode_title">Ahorrador extremo de batería</string>
+	<string name="privacy_apps">Aplicaciones ocultas</string>
+	<string name="privacy_apps_category_title">Aplicaciones ocultas</string>
+	<string name="privacy_apps_checkbox_remind_choice">"No mostrar de nuevo"</string>
+	<string name="privacy_apps_close">Cerrar</string>
 	<string name="privacy_apps_go_to_use">Empezar</string>
 	<string name="privacy_apps_manage">Administrar aplicaciones ocultas</string>
 	<string name="privacy_apps_manager_dialog_message">"El icono de esta aplicación no se mostrará en la pantalla de inicio después de ocultar esta aplicación. ¿Ocultar esta aplicación ahora?"</string>
 	<string name="privacy_apps_tutorial">Tutorial</string>
 	<string name="privacy_apps_tutorial_prompt_pageone">"Cuando oculta una aplicación, se mueve a una carpeta oculta. Su acceso directo en la pantalla de inicio está oculto.
 	Esta característica no es compatible con las aplicaciones del sistema."</string>
+	<string name="privacy_apps_enable_summary">Mueve las aplicaciones a una carpeta oculta y elimina sus accesos directos de la pantalla de inicio</string>
 </resources>

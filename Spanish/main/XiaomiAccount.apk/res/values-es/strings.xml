@@ -474,4 +474,5 @@ Para activar su cuenta, siga el
     <string name="sim_changed_notification_msg">Toque para actualizar su teléfono de recuperación y mantener su cuenta más segura.</string>
     <string name="recycle_phone_notification_title">Riesgo de seguridad de Mi Cuenta</string>
     <string name="recycle_phone_notification_msg">Parece que su número de teléfono ha sido reciclado. Toque para actualizar.</string>
+    <string name="used_cloud_storage_info">Almacenamiento utilizado: %s</string>
 </resources>
