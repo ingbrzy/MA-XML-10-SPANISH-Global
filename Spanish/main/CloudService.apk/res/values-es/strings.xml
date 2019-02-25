@@ -452,7 +452,7 @@ Usa una cuenta diferente."</string>
 	<string name="warning_bar_add_short_cut_success">Añadido correctamente</string>
 	<string name="warning_bar_title_cloud_space_already_full">El almacenamiento de Mi Cloud está apunto de acabarse. Puede que haya datos que no se sincronicen.</string>
 	<string name="warning_bar_title_cloud_space_full">El almacenamiento de Mi Cloud está lleno. Sincronización pausada.</string>
-	<string name="warning_bar_title_master_sync_off">Auto sync is off</string>
+	<string name="warning_bar_title_master_sync_off">La sincronización automática está desactivada</string>
 	<string name="warning_bar_title_network_unconnected">"No se puede conectar a la red"</string>
 	<string name="warning_bar_title_short_cut">Add a Home screen shortcut for Mi Cloud?</string>
 	<string name="warning_bar_title_sync_off">La sincronización con Mi Cloud está apagada</string>

@@ -24,7 +24,7 @@
     <string name="about_settings_summary">Ver información legal, estado, versión del software</string>
     <string name="about_summary">Actualizado a Android %1$s</string>
     <string name="ac_enable_summary">Establecer una contraseña para las aplicaciones individuales</string>
-    <string name="ac_enable_title">Explorador de Archivos</string>
+    <string name="ac_enable_title">Bloqueo de aplicaciones</string>
     <string name="ac_privacy_mode_sum">Se requiere una contraseña para desactivar el Modo invitado</string>
     <string name="ac_privacy_mode_title">Contraseña</string>
     <string name="ac_set_apps_title">Seleccionar aplicaciones para bloquear</string>
@@ -1254,6 +1254,8 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (azul-amarillo)</string>
     <string name="daltonizer_type">Modo de corrección</string>
     <string name="daltonizer_type_overridden">Ignorado por %1$s</string>
+	<string name="dark_ui_mode">Modo nocturno</string>
+  <string name="dark_ui_mode_title">Establecer modo nocturno</string>
     <string name="dashboard_title">Ajustes</string>
     <string name="data_limit">Límite de datos</string>
     <string name="data_saver_off">Desactivado</string>
@@ -1672,6 +1674,8 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="empty_list_msg">No tienes instalada ninguna aplicación externa.</string>
     <string name="enable_adb">Depuración USB</string>
     <string name="enable_adb_summary">Modo depuración cuando el USB esté conectado</string>
+	<string name="enable_atrace">Activar ATrace</string>
+	<string name="enable_atrace_summary">Capturar eventos del núcleo usando ATrace</string>
     <string name="enable_compatibility">Aplicación de escala</string>
     <string name="enable_freeform_support">Habilitar ventanas de forma libre</string>
     <string name="enable_freeform_support_summary">Habilitar compatibilidad con ventanas de forma libre experimental.</string>
@@ -2781,7 +2785,7 @@ Hay otros usuarios presentes en este dispositivo.
 	<string name="miui_sos_play_voice">Reproducir mensaje de SOS</string>
 	<string name="miui_sos_remind_add">Añadir</string>
 	<string name="miui_sos_remind_infocontent">"Te agregué como mi contacto de emergencia. Recibirás un mensaje con la información de mi ubicación en caso de que esté en peligro. [Mi Emergency SOS]"</string>
-	<string name="miui_sos_remind_open">Emergency SOS needs at least 1 emergency contact to work normally.</string>
+	<string name="miui_sos_remind_open">SOS de emergencia necesita al menos 1 contacto de emergencia para trabajar normalmente.</string>
 	<string name="miui_sos_remind_sendinfo">"No olvide decirles a estas personas que son sus contactos de emergencia ahora. Por lo tanto, podrán ayudarlo más rápido en caso de emergencia."</string>
 	<string name="miui_sos_remind_sendnow">Enviar ahora</string>
 	<string name="miui_sos_remind_title">Atención</string>
