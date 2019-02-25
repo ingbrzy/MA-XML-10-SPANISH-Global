@@ -1254,8 +1254,12 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (azul-amarillo)</string>
     <string name="daltonizer_type">Modo de corrección</string>
     <string name="daltonizer_type_overridden">Ignorado por %1$s</string>
+	<string name="dangerous_option">Opciones de desarrollador de alto riesgo</string>
+	<string name="dangerous_option_hint">\"%1$s\" está habilitado. Toque para cambiar la configuración.</string>
+	<string name="dangerous_option_hint_title">Característica de alto riesgo habilitada</string>
+	<string name="dangerous_option_switch_title">Notificar sobre características de alto riesgo</string>
 	<string name="dark_ui_mode">Modo nocturno</string>
-  <string name="dark_ui_mode_title">Establecer modo nocturno</string>
+	<string name="dark_ui_mode_title">Establecer modo nocturno</string>
     <string name="dashboard_title">Ajustes</string>
     <string name="data_limit">Límite de datos</string>
     <string name="data_saver_off">Desactivado</string>
