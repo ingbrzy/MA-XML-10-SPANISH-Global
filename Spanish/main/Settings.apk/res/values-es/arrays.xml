@@ -1372,4 +1372,9 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
 		<item>Solo 5 GHz</item>
 		<item>Solo 2.4 GHz</item>
 	</string-array>
+	<string-array name="dark_ui_mode_entries">
+		<item>Automático (basado en la hora del día)</item>
+		<item>Activado</item>
+		<item>Desactivado</item>
+	</string-array>
 </resources>

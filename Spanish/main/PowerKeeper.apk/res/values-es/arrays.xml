@@ -27,7 +27,7 @@
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Aplicaciones activas</item>
-        <item>Sleeping apps</item>
+        <item>Aplicaciones suspendidas</item>
     </string-array>
     <string-array name="emode_app_groups">
         <item>Aplicaciones del sistema</item>

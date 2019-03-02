@@ -1957,6 +1957,8 @@ tu dispositivo"</string>
     <string name="mixed_password_confirmed_header_continue">Establecido con éxito. Toque \"Siguiente\".</string>
     <string name="mixed_password_confirmed_header_confirm">Establecido con éxito. Toque para confirmar.</string>
     <string name="forget_pattern"><u>Contraseña olvidada</u></string>
+	<string name="forground_network_optimization_summary">Dar más ancho de banda a los juegos que se ejecutan en primer plano</string>
+	<string name="forground_network_optimization_title">Prioridad del ancho de banda</string>
     <string name="unlock_pattern"><u>Patrón</u></string>
     <string name="modify_password_mode"><u>Cambiar tipo de contraseña</u></string>
     <string name="fingerprint_to_lock">Desbloquear con huella dactilar</string>
@@ -2249,6 +2251,9 @@ tu dispositivo"</string>
     <string name="boosting">Aumentando velocidad…</string>
     <string name="get_sys_info">Obteniendo info…</string>
     <string name="function_close">Desactivado</string>
+	<string name="function_shield_summary">Restringir el brillo automático, los gestos de captura de pantalla y el modo de lectura</string>
+	<string name="function_shield_summary_m">Restringir el brillo automático y los gestos de captura de pantalla</string>
+	<string name="function_shield_title">Experiencia mejorada</string>
     <string name="add_done">Añadido correctamente</string>
     <string name="boost_done">Incrementado correctamente</string>
     <string name="boost_stop">Desactivar aumento de velocidad</string>
@@ -2273,6 +2278,7 @@ tu dispositivo"</string>
     <string name="man_add_application">Añadir manualmente aplicaciones con inicio automático</string>
     <string name="power_autorun_apps_empty">Sin aplicaciones con inicio automático</string>
     <string name="shield_keyboard_title">Desactivar botones</string>
+	<string name="shield_keyboard_summary">Restringir botones y gestos de pantalla completa durante los juegos</string>
     <string name="shield_keyboard_detail">Toque doble en los botones para volver a activarlos</string>
     <string name="anti_disturb_msg_title">No molestar</string>
     <string name="anti_disturb_msg_detail">Desactivar todas las notificaciones excepto las llamadas entrantes</string>
@@ -2560,5 +2566,8 @@ tu dispositivo"</string>
 	<string name="privacy_apps_tutorial">Tutorial</string>
 	<string name="privacy_apps_tutorial_prompt_pageone">"Cuando oculta una aplicación, se mueve a una carpeta oculta. Su acceso directo en la pantalla de inicio está oculto.
 	Esta característica no es compatible con las aplicaciones del sistema."</string>
+	<string name="privacy_apps_tutorial_prompt_pagethree">Después de ingresar su contraseña, aparecerá la carpeta con aplicaciones ocultas.</string>
+	<string name="privacy_apps_tutorial_prompt_pagetwo">"Extiende dos dedos en la pantalla. Verá un mensaje que le solicitará que ingrese su contraseña."</string>
+  
 	<string name="privacy_apps_enable_summary">Mueve las aplicaciones a una carpeta oculta y elimina sus accesos directos de la pantalla de inicio</string>
 </resources>

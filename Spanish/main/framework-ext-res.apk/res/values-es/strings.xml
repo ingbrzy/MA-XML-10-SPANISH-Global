@@ -172,6 +172,12 @@
     <string name="wifi_assistant_wifi_no_internet">Esta red Wi-Fi no tiene acceso a internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Pulsa para ver detalles</string>
     <string name="resolver_app_recommend_flag">Recomendado</string>
+	<string name="resolver_checkbox_always">Siempre</string>
+	<string name="resolver_checkbox_once">Una vez</string>
+	<string name="resolver_mi_browser">Navegador</string>
+	<string name="resolver_offical_recommend">Oficial</string>
+	<string name="resolver_other_method">Otras opciones</string>
+	<string name="resolver_recommend_options_tag">Opciones recomendadas</string>
     <string name="voice_button_action_up">Press to talk</string>
     <string name="voice_button_action_down">Release to search</string>
     <string name="voice_begin">What are you looking for?</string>
