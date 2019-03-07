@@ -562,6 +562,7 @@
   <string name="invalid_recipient_title">Error de destinatario</string>
   <string name="kilobytes">%s KB</string>
   <string name="load_from_remote">Buscar bandeja de entrada en el servidor</string>
+  <string name="list_empty_to_fresh">No hay correos, pruebe a actualizar.</string>
   <string name="load_more">Cargar más</string>
   <string name="loading_conversation">Cargando…</string>
   <string name="loading_conversations">Cargando…</string>
