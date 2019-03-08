@@ -924,7 +924,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
 	<string name="first_aid_scanning_item1">Comprobando problemas de rendimiento…</string>
 	<string name="first_aid_scanning_item2">Comprobando problemas de red…</string>
 	<string name="first_aid_scanning_item3">Comprobando ajustes incorrectos…</string>
-	<string name="first_aid_scanning_item4">Comprobando problemas de battería…</string>
+	<string name="first_aid_scanning_item4">Comprobando problemas de batería…</string>
 	<string name="first_aid_scanning_item5">Comprobando otros problemas…</string>
 	<string name="first_aid_stop_scan">Detener</string>
     <string name="exception_dialog_message">Las estadísticas de uso de datos no han podido ser calculadas debido a un error. Sin datos estadísticos precisos, Seguridad no podrá monitorizar el uso de datos. ¿Reiniciar para restaurar esta función?</string>

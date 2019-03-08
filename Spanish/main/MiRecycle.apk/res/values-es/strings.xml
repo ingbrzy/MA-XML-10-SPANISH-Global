@@ -10,7 +10,7 @@
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
-  <string name="abc_search_hint">Search…</string>
+  <string name="abc_search_hint">Buscar…</string>
   <string name="abc_searchview_description_clear">Clear query</string>
   <string name="abc_searchview_description_query">Search query</string>
   <string name="abc_searchview_description_search">Search</string>
@@ -164,14 +164,14 @@ Damaged Device from your doorstep"</string>
   <string name="recycle_description">Get upto price by recycling your old phone</string>
   <string name="recycle_entrance">Cashify Recycle</string>
   <string name="reschedule">Reschedule</string>
-  <string name="result_no_fail">Everything is great</string>
-  <string name="search_menu_title">Search</string>
+  <string name="result_no_fail">Todo está bien</string>
+  <string name="search_menu_title">Buscar</string>
   <string name="select_card">Select Card</string>
   <string name="select_reason">Select Reason</string>
   <string name="show_account_number">Account Number</string>
   <string name="show_address">Address :</string>
   <string name="show_applied">Applied</string>
-  <string name="show_apply">Applicar</string>
+  <string name="show_apply">Aplicar</string>
   <string name="show_cancel">Cancelar</string>
   <string name="show_change_payment_mode">Change Payment Mode</string>
   <string name="show_contact">Contact :</string>
@@ -189,8 +189,8 @@ Damaged Device from your doorstep"</string>
   <string name="show_reschedule">Reschedule</string>
   <string name="show_sell_now">Sell Now</string>
   <string name="show_terms_and_conditions">I agree to the Terms &amp; Conditions and Terms of Use .</string>
-  <string name="show_title_terms_and_conditions">Terms and Conditions</string>
-  <string name="show_title_terms_of_use">Terms of Use</string>
+  <string name="show_title_terms_and_conditions">Términos y condiciones</string>
+  <string name="show_title_terms_of_use">Términos de uso</string>
   <string name="show_when_you_complete_all_the_options_you_will_get_all_the_money">When you complete all the options, you will get all the money.</string>
   <string name="show_you_have_exchanged_your">"You've exchanged your"</string>
   <string name="state">Estado</string>
@@ -214,7 +214,7 @@ Damaged Device from your doorstep"</string>
   <string name="title_my_order_page">My Order</string>
   <string name="title_order_cancel_page">Cancelar</string>
   <string name="title_order_detail_page">Order Detail</string>
-  <string name="title_payment_page">Pay</string>
+  <string name="title_payment_page">Pagar</string>
   <string name="title_quote_page">Test general</string>
   <string name="toast_not_support">It is not supported in the current region.</string>
   <string name="touch_calibration_sub_title">Tap &amp; drag to erase</string>

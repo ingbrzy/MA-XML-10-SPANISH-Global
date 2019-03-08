@@ -601,6 +601,8 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="face_unlock_by_notification_screen_on_title">Permitir desbloqueo facial cuando se enciende la pantalla</string>
     <string name="face_unlock_check_failed">No se pudo reconocerte</string>
     <string name="face_unlock_close_screen">Acércate a la pantalla</string>
+	<string name="face_unlock_fail">No te he podido reconocer</string>
+	<string name="face_unlock_fail_retry">No te he podido reconocer. Pulsa el icono para volver intentarlo.</string>
     <string name="face_unlock_down">Sube un poco la cabeza</string>
     <string name="face_unlock_identify_error">Se ha producido un error de reconocimiento</string>
     <string name="face_unlock_not_found">No se pudo reconocerte</string>
@@ -620,6 +622,8 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="face_unlock_rotated_left">Gira tu cabeza a la derecha</string>
     <string name="face_unlock_rotated_right">Gira tu cabeza a la izquierda</string>
     <string name="face_unlock_stay_away_screen">Situáte entre 24 y 40 cm de la pantalla</string>
+	<string name="face_unlock_success_stay_screen_msg">Permanece en la pantalla de bloqueo después de que se verifique su cara. Deslice hacia arriba para abrir la pantalla de inicio.</string>
+	<string name="face_unlock_success_stay_screen_title">Permanece en la pantalla de bloqueo después desbloquear</string>
     <string name="failed_to_open_app_settings_toast">No se pudo abrir los ajustes para: %1$s</string>
     <string name="fingerprint_add_text">El sistema de huella ha sido actualizado. Añade tu huella de nuevo.</string>
     <string name="fingerprint_add_title">Añadir huella</string>
