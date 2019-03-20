@@ -1500,7 +1500,7 @@ Desliza hacia abajo para bloquear"</string>
     <string name="stream_system">Sistema</string>
     <string name="stream_voice_call">Llamar</string>
     <string name="strict_mode">Habilitado Modo estricto</string>
-    <string name="strict_mode_summary">Mostarar pantalla si las apps tardan en la operación principal</string>
+    <string name="strict_mode_summary">Mostrar pantalla si las apps tardan en la operación principal</string>
     <string name="structure_face_data_delete_fail">No se pudieron eliminar los datos faciales 3D. Vuelve a intentarlo.</string>
     <string name="structure_face_data_input_down">Baja un poco la cabeza</string>
     <string name="structure_face_data_input_error_away_screen">Aleja el teléfono un poco de tu cara</string>

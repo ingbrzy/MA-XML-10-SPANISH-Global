@@ -1137,6 +1137,14 @@ tu dispositivo"</string>
     <string name="deep_clean_never_memory_clean">Nunca</string>
     <string name="deep_clean_memory_clean_title">Limpiar la caché cuando el dispositivo esté bloqueado</string>
     <string name="deep_clean_disconnect_data_title">Desactivar datos móviles cuando el dispositivo esté bloqueado</string>
+	<string name="deep_power_save_item_summary_auto_brightness">Ajustar el brillo de la pantalla automáticamente para ahorrar batería.</string>
+	<string name="deep_power_save_item_summary_bluetooth">Apagar el Bluetooth para ahorrar batería</string>
+	<string name="deep_power_save_item_summary_lock_screen_time">Poner la pantalla en reposo después de 30 segundos de inactividad para ahorrar batería</string>
+	<string name="deep_power_save_item_title_auto_brightness">Encender el brillo automático</string>
+	<string name="deep_power_save_item_title_bluetooth">Apagar bluetooth</string>
+	<string name="deep_power_save_item_title_lock_screen_time">Pantalla en suspensión</string>
+	<string name="deep_save_memory_clean_summary">Borrar la memoria caché cuando bloquee el dispositivo para evitar que las aplicaciones usen la batería</string>
+	<string name="deep_save_ontime_boot_shutdown_summary">Programar hora para encender y apagar el dispositivo</string>
     <string name="power_analysis_consume_title">Uso de la batería</string>
     <string name="power_analysis_suggestion_need_optimize">Problemas del uso de batería detectados.</string>
     <string name="power_optimize_save_on_lockscreen">Ahorrar energía cuando el dispositivo esté bloqueado</string>
@@ -1676,7 +1684,9 @@ tu dispositivo"</string>
     <string name="summary_permission_root">Parece que este dispositivo tiene acceso raíz. Esto puede dañar la seguridad de su dispositivo.</string>
     <string name="title_app_update">Actualizaciones disponibles</string>
     <string name="title_find_device">Localizar dispositivo</string>
+	<string name="title_first_aid_kit">Solucionar problemas</string>
     <string name="summary_find_device">Localizar y bloquear su dispositivo allá donde esté</string>
+	<string name="summary_first_aid_kit">Resuelve los problemas en tu dispositivo ahora</string>
     <string name="title_realname_verify">Verificación del ID</string>
     <string name="summary_realname_verify">Verifique su identidad para realizar pagos más seguros.</string>
     <string name="title_mifi_insurance">Garantía extendida</string>

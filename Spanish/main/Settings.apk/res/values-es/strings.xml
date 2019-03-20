@@ -2141,6 +2141,18 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="inactive_app_active_summary">Activo. Pulsa para cambiar.</string>
     <string name="inactive_app_inactive_summary">Inactivo. Pulsa para cambiar.</string>
     <string name="inactive_apps_title">Aplicaciones inactivas</string>
+	<string name="incall_show">Vídeos de perfil para las llamadas salientes</string>
+	<string name="incall_show_apply_fail">No se pudo establecer</string>
+	<string name="incall_show_apply_success">Aplicado correctamente. Para desactivar esta característica,
+	ve a Ajustes &gt; Sonido y vibración &gt; Vídeos de perfil."</string>
+	<string name="incall_show_apply_success_without_ringtone">"Aplicado con éxito. Este video no tiene sonido. Se utilizará el tono original.
+	Para desactivar esta característica, ve a Ajustes &gt; Sonido y vibración &gt; Vídeos de perfil."</string>
+	<string name="incall_show_find_more">Buscar más</string>
+	<string name="incall_show_not_set">No hay vídeos de perfil</string>
+	<string name="incall_show_remove">Eliminar vídeo de perfil</string>
+	<string name="incall_show_remove_dialog_message">"Ya has configurado un vídeo de perfil para llamadas salientes. ¿Quitar el video ahora?"</string>
+	<string name="incall_show_remove_success">Se eliminó el vídeo de perfil con éxito</string>
+	<string name="incall_show_title">Vídeos de perfil</string>
     <string name="include_app_data_title">Incluir datos de aplicaciones</string>
     <string name="incoming_call_breathing_light_color_title">Color del LED para llamadas</string>
     <string name="incoming_call_breathing_light_freq_title">Frecuencia de parpadeo del LED para llamadas</string>

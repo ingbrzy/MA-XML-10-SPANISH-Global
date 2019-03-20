@@ -104,8 +104,7 @@
     <string name="disable_wallpaper_scroll">Desactivar desplazamiento entre pantallas</string>
 	<string name="double_tap_to_lock_title">Doble toque para bloquear</string>
     <string name="download_action">Descargar</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
+	<string name="dual_app">App. duales</string>
     <string name="edit_folder_title">Editar nombre de la carpeta</string>
     <string name="edit_mode_group">Grupo</string>
     <string name="edit_mode_group_error_full">Sin espacio suficiente</string>
