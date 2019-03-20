@@ -1143,8 +1143,6 @@ tu dispositivo"</string>
 	<string name="deep_power_save_item_title_auto_brightness">Encender el brillo automático</string>
 	<string name="deep_power_save_item_title_bluetooth">Apagar bluetooth</string>
 	<string name="deep_power_save_item_title_lock_screen_time">Pantalla en suspensión</string>
-	<string name="deep_save_memory_clean_summary">Borrar la memoria caché cuando bloquee el dispositivo para evitar que las aplicaciones usen la batería</string>
-	<string name="deep_save_ontime_boot_shutdown_summary">Programar hora para encender y apagar el dispositivo</string>
     <string name="power_analysis_consume_title">Uso de la batería</string>
     <string name="power_analysis_suggestion_need_optimize">Problemas del uso de batería detectados.</string>
     <string name="power_optimize_save_on_lockscreen">Ahorrar energía cuando el dispositivo esté bloqueado</string>
