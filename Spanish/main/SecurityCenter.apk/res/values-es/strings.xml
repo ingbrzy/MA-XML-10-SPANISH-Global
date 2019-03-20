@@ -2572,6 +2572,7 @@ tu dispositivo"</string>
 	<string name="privacy_apps_close">Cerrar</string>
 	<string name="privacy_apps_go_to_use">Empezar</string>
 	<string name="privacy_apps_manage">Administrar aplicaciones ocultas</string>
+	<string name="privacy_apps_manage_dialog_title">Sobre las aplicaciones ocultas</string>
 	<string name="privacy_apps_manager_dialog_message">"El icono de esta aplicación no se mostrará en la pantalla de inicio después de ocultar esta aplicación. ¿Ocultar esta aplicación ahora?"</string>
 	<string name="privacy_apps_tutorial">Tutorial</string>
 	<string name="privacy_apps_tutorial_prompt_pageone">"Cuando oculta una aplicación, se mueve a una carpeta oculta. Su acceso directo en la pantalla de inicio está oculto.

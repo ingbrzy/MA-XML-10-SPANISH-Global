@@ -593,6 +593,15 @@
     <string name="title_system_audio_resource">Tonos de llamada del sistema</string>
     <string name="title_system_wallpaper_resource">Fondos de pantalla del sistema</string>
     <string name="to_activate_the_account">Activa Mi Cuenta ahora</string>
+	<string name="transparent_wallpaper">Fondo transparente</string>
+	<string name="transparent_wallpaper_apply_success">Establecido con éxito. Puedes desactivar esta función en Temas &gt; Perfil &gt; Características beta.</string>
+	<string name="transparent_wallpaper_enable_success">Activado correctamente</string>
+	<string name="transparent_wallpaper_guide">Volver a temass</string>
+	<string name="transparent_wallpaper_guide_tip">Puede seleccionar un fondo de pantalla transparente en Temas ahora.</string>
+	<string name="transparent_wallpaper_white_wallpaper">Establecer fondo blanco</string>
+	<string name="transparent_wallpaper_white_wallpaper_failed">"No se pudo hacer fondo blanco"</string>
+	<string name="transparent_wallpaper_white_wallpaper_success">El color de fondo es blanco ahora</string>
+	<string name="transparent_wallpaper_white_wallpaper_tip">El fondo transparente se ve mejor en el fondo blanco</string>
     <string name="uid_change_dialog_message">Ha eliminado actualizaciones. Reiniciar el dispositivo para poder usar los temas.</string>
     <string name="uid_change_dialog_ok">Entendido</string>
     <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
