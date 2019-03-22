@@ -593,6 +593,8 @@ disponibles"</string>
     <string name="image_invalid_path">Ruta no válida</string>
     <string name="image_not_found">No se pudo encontrar la imagen</string>
     <string name="image_quota_fulfiled">Demasiadas imágenes. Elimina alguna e inténtalo de nuevo.</string>
+	<string name="image_selection_summary">MIUI analizará fotos que sean similares y marcará las mejores. Desactiva esta opción para borrar las marcas de las fotos.</string>
+	<string name="image_selection_title">Seleccionar mejor foto</string>
     <string name="image_with_time">Foto tomada con %s</string>
     <string name="image_with_time_and_location">Foto tomada con %1$s. Localización: %2$s.</string>
     <string name="impunity_declaration_settings">Notificación de conexión a internet</string>
@@ -906,6 +908,7 @@ para personalizar la Galería"</string>
     <string name="recent_album_empty_title">No se han añadido fotos recientemente</string>
     <string name="recommanded_face_abandon_tip">Eliminado de sugerencias</string>
     <string name="recommanded_face_added_tip">Añadido a \"%s\"</string>
+	<string name="recommend_category_title">Selecciones de la galería</string>
     <string name="recovery_merge">Combinar</string>
     <string name="recovery_merge_or_rename">Combinar álbumes</string>
     <string name="recovery_merge_or_rename_message">Ya existe un álbum con este nombre. ¿Combinar ahora?</string>
