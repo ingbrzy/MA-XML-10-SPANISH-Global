@@ -2371,7 +2371,7 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="locale_remove_menu">Quitar</string>
     <string name="locale_settings">Región</string>
     <string name="location_access_summary">Las aplicaciones pueden obtener tu información de ubicación</string>
-    <string name="location_access_title">Acesso a ubicación</string>
+    <string name="location_access_title">Acceso a ubicación</string>
     <string name="location_agps_apn_choose_dialog_title">Tipos de APN</string>
     <string name="location_agps_apn_summary">Selecciona el tipo de APN preferida</string>
     <string name="location_agps_apn_type">Tipos de APN</string>
