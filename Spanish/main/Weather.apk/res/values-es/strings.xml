@@ -256,7 +256,18 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
 	<string name="receive_net_mock_success">Net mock receive success</string>
 	<string name="translate_notification_info">Traducir datos en segundo plano…</string>
 	<string name="update_notification_info">Actualizando datos en segundo plano…</string>
-	<string name="user_agreement">User Agreement</string>
+	<string name="user_agreement">Acuerdo de usuario</string>
 	<string name="weather_alert_channel_name">Alertas</string>
 	<string name="weather_service_channel_name">Servicios en segundo plano</string>
+	<string name="permission_device_info">Información del dispositivo</string>
+	<string name="activity_find_city_dialog_message_location_service">Para obtener información relevante sobre el clima, permita que el clima acceda a su ubicación.</string>
+	<string name="permission_device_introduce">Para reconocer la ID del dispositivo según el modelo del dispositivo y el IMEI, y para proporcionar servicios localizados según las preferencias de idioma</string>
+	<string name="permission_exit">Salir</string>
+	<string name="permission_privacy">Política de privacidad (obligatorio)</string>
+	<string name="permission_select_all">Seleccionar todo</string>
+	<string name="permission_storage">Almacenamiento</string>
+	<string name="permission_storage_introduce">Para acceder y guardar archivos en el dispositivo</string>
+	<string name="permission_user_protocol">Acuerdo de usuario (obligatorio)</string>
+	<string name="weather_introduce">Siempre contigo, llueva o haga sol.</string>
+	<string name="weather_permission_agree">Aceptar</string>
 </resources>

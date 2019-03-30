@@ -1777,7 +1777,13 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="zen_priority_introduction">No serás molestado por sonidos o vibraciones, excepto por los de alarmas, recordatorios, eventos y llamadas de contactos que especifique. Podrás escuchar cualquier elemento que decidas reproducir, incluyendo música, videos y juegos.</string>
     <string name="zen_silence_introduction">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos.</string>
     <string name="zen_silence_introduction_voice">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos. Podrás realizar llamadas.</string>
-    <string name="notification_num_channels">%d categorías de notificación</string>
+    <string name="zen_interruption_level_priority">Solo prioridad</string>
+    <string name="zen_mode_duration_always_prompt_title">Preguntar siempre</string>
+    <string name="zen_mode_duration_settings_title">Duration</string>
+    <string name="zen_mode_enable_dialog_turn_on">Activar</string>
+    <string name="zen_mode_settings_summary_off">Nunca</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Activar No Molestar</string>
+	<string name="notification_num_channels">%d categorías de notificación</string>
 	<string name="battery_can_use_time">Aproximandamente %s restante</string>
 	<string name="change_theme_reboot">Cambiar tema require un reinicio.</string>
 	<string name="aspect_cancel">Cancelar</string>
@@ -1801,4 +1807,5 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
 	<string name="dlg_summary_close_wifi">Apagar Wi-Fi, Bluetooth, y puntos de acceso de datos</string>
 	<string name="dlg_summary_nfc">Apagar NFC</string>
 	<string name="quick_settings_toast_drag_to_enable_custom_tile">Para agregar un elemento, manténgalo presionado y luego arrástrelo a la parte superior del panel.</string>
+	<string name="time_unit_just_now">Ahora mismo</string>
 </resources>

@@ -82,4 +82,12 @@
     <string name="storage_location_summary">Seleccion tu método de almacenamiento preferido</string>
     <string name="timer_format">%s</string>
     <string name="unchecked">No seleccionado</string>
+	<string name="first_using_mic_dialog_message">La grabadora de pantalla necesita acceso a tu micrófono para grabar audio. ¿Permitir?</string>
+    <string name="first_using_mic_dialog_title">Se necesitan permisos</string>
+    <string name="permission_intro_microphone">Para grabar sonido cuando la fuente de sonido está configurada para micrófono</string>
+    <string name="permission_intro_storage">Para guardar las grabaciones</string>
+    <string name="sound_source_summary_without_system_sounds">Usar micrófono o sonido en silencio</string>
+    <string name="using_record_confirm_cancel">Denegar</string>
+    <string name="using_record_confirm_ok">Permitir</string>
+    <string name="warning_recording_when_a2dp_connect">"Your device doesn't support recording system sounds while Bluetooth headset is being used."</string>
 </resources>

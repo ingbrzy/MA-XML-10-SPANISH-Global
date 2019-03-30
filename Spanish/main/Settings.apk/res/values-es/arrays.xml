@@ -1378,4 +1378,8 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
 		<item>Activado</item>
 		<item>Desactivado</item>
 	</string-array>
+	<string-array name="notification_shade_shortcut_entries">
+        <item>Búsqueda</item>
+        <item>Ajustes</item>
+    </string-array>
 </resources>

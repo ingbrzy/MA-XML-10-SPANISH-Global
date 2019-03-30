@@ -2581,4 +2581,5 @@ tu dispositivo"</string>
 	<string name="card_main_deepclean_facebook_title">Limpiador Facebook</string>
     <string name="card_main_hwtest_title">Test de hardware</string>
 	<string name="privacy_apps_enable_summary">Mueve las aplicaciones a una carpeta oculta y elimina sus accesos directos de la pantalla de inicio</string>
+	<string name="power_save_started_summary_text">"El ahorro de batería está activado. Reduce la actividad en segundo plano de las aplicaciones, detiene la sincronización y minimiza las animaciones del sistema."</string>
 </resources>

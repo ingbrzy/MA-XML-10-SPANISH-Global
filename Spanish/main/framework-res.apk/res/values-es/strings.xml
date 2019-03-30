@@ -1519,4 +1519,18 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
 	<string name="permgrouprequest_sms">Permitir &lt;b&gt;%1$s&lt;/b&gt; envíe y vea SMS?</string>
 	<string name="permgrouprequest_storage">Permitir &lt;b&gt;%1$s&lt;/b&gt; acceda a las fotos, el contenido multimedia y los archivos de tu dispositivo?</string>
 	<string name="permission">Permisos</string>
+	<string name="notification_app_name_settings">Ajustes</string>
+	<string name="notification_app_name_system">Sistema</string>
+	<string name="notification_appops_camera_active">Cámara</string>
+	<string name="notification_appops_microphone_active">Micrófono</string>
+	<string name="notification_appops_overlay_active">mostrar sobre otras aplicaciones en su pantalla</string>
+	<string name="notification_channel_do_not_disturb">No molestar</string>
+	<string name="notification_channel_heavy_weight_app">Aplicaciones ejecutándose</string>
+	<string name="notification_channel_sim">Estado de la SIM</string>
+	<string name="notification_channel_system_changes">Cambios del sistema</string>
+	<string name="notification_description">Llamada de voz</string>
+	<string name="add_calendar_event">Programar</string>
+	<string name="add_calendar_event_desc">Programar un evento a esta hora</string>
+	<string name="add_contact">Añadir</string>
+	<string name="add_contact_desc">Añadir a contactos</string>
 </resources>

@@ -6417,4 +6417,20 @@ Actualizar la configuración a:
      <string name="zen_onboarding_screen_off_title">Bloquear cuando la pantalla está apagada</string>
      <string name="zen_onboarding_screen_on_summary">"No mostrar notificaciones en absoluto, excepto la actividad y el estado del teléfono"</string>
      <string name="zen_onboarding_screen_on_title">Bloquear cuando la pantalla está encendida</string>
+	<string name="custom_carrier_title">Editar nombre de operador</string>
+	<string name="custom_wifi_name_title">Editar nombre de Wi-Fi</string>
+	<string name="cutout_mode_always">Mostrar siempre notch</string>
+	<string name="cutout_mode_default">Auto</string>
+	<string name="cutout_mode_settings_title">Algunas aplicaciones pueden mostrarse incorrectamente si personaliza la forma en que se muestra el notch.</string>
+	<string name="cutout_mode_title">Notch en aplicaciones individuales</string>
+	<string name="cutout_type_desc">Activar para suavizar las curvas de notch</string>
+	<string name="cutout_type_title">Administrar forma notch</string>
+	<string name="show_network_speed_title">Mostrar velocidad de conexión</string>
+	<string name="show_operator_name_summary">Mostrar nombre de la red en la barra de estado</string>
+	<string name="show_operator_name_title">Nombre de la red</string>
+	<string name="decryption_settings_summary">Teléfono no encriptado</string>
+	<string name="power_menu_under_keyguard_summary">Permitir el acceso al menú de apagado mientras el dispositivo está bloqueado</string>
+    <string name="power_menu_under_keyguard_title">Acceso al menú de apagado</string>
+    <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos de pantalla completa, puedes activar el modo con una mano usando el Asistente táctil. También puede cambiar a usar botones en lugar de gestos de pantalla completa."</string>
+
 </resources>

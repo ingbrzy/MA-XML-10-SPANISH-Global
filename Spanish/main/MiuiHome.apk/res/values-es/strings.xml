@@ -346,4 +346,11 @@
     <string name="widget_gadget_player">Música</string>
     <string name="widget_global_search">Buscar</string>
     <string name="widget_quick_function">Funciones rápidas</string>
+	<string name="edit_mode_top_menu_finish">Aceptar</string>
+	<string name="gadget_dual_clock_label">Reloj doble</string>
+	<string name="menu_finish">Aceptar</string>
+	<string name="recommend_apps_no_data_toast">No recommendations for now.</string>
+	<string name="recommend_refresh">Actualizar</string>
+	<string name="recommend_xout">No mostrar</string>
+	<string name="widgets_preview_title">Añadir widget</string>
 </resources>
