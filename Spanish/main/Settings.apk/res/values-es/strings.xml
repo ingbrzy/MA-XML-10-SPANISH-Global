@@ -2764,6 +2764,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miui_lab_super_resolution_desc">Hacer las imágenes más nítidas</string>
     <string name="miui_lab_super_resolution_title">Súper resolución</string>
 	<string name="miui_master_clear_summary">Eliminar todos los datos del teléfono</string>
+	<string name="miui_more_special_feature">Descubrir nuevas características</string>
 	<string name="miui_sos_audio_summary">Reproducir mensaje SOS después de que el contacto de emergencia se recupera</string>
 	<string name="miui_sos_audio_title">Mensaje de SOS</string>
 	<string name="miui_sos_call_log_duration">Duración</string>
@@ -4041,6 +4042,7 @@ Para ello, sigue estos pasos:
     <string name="search_page_layout_settings">Tamaño de texto;Tamaño de fuente;Pequeño;Grande;Mediano;XXL;Enorme;Tamaños de fuente</string>
     <string name="search_permission_manager">Permisos;Acceso raíz</string>
     <string name="search_permission_settings_title">Permisos de la aplicación</string>
+	
     <string name="search_pointer_speed">Velocidad del puntero</string>
     <string name="search_power_checker">Verificador de energía</string>
     <string name="search_power_hide_mode_title">Administrar el uso de batería de las aplicaciones;Uso de batería de las aplicaciónes;Uso de la batería;Estadísticas de la batería</string>
@@ -4299,6 +4301,7 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="show_all_anrs_summary">Mostrar \"Aplicación no responde\" para aplicaciones en segundo plano</string>
     <string name="show_all_apps">Mostrar uso completo del dispositivo</string>
     <string name="show_background_processes">Procesos en caché</string>
+	<string name="show_carrier_under_keyguard_title">Mostar operador cuando el dispositivo está bloqueado</string>
     <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
     <string name="show_connected_devices_title">Dispositivos conectados</string>
     <string name="show_dev_already">Las opciones para desarrolladores ya están activadas.</string>
@@ -4316,6 +4319,7 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="show_non_rect_clip">Depurar operaciones de corte no rectangulares</string>
     <string name="show_notification_channel_warnings">Mostrar avisos del canal de notificaciones</string>
     <string name="show_notification_channel_warnings_summary">Mostrar aviso en pantalla cuando la aplicación muestra una notificación sin un canal válido</string>
+	<string name="show_notification_icon_title">Mostrar iconos de las notificaciones</string>
     <string name="show_owner_info_on_lockscreen_label">Mostrar firma en la Pantalla de bloqueo</string>
     <string name="show_password">Mostrar contraseñas</string>
     <string name="show_password_summary">Mostrar los caracteres brevemente al escribir</string>
