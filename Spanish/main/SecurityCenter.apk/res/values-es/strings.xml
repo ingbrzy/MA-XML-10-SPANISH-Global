@@ -2577,6 +2577,8 @@ tu dispositivo"</string>
 	Esta característica no es compatible con las aplicaciones del sistema."</string>
 	<string name="privacy_apps_tutorial_prompt_pagethree">Después de ingresar su contraseña, aparecerá la carpeta con aplicaciones ocultas.</string>
 	<string name="privacy_apps_tutorial_prompt_pagetwo">"Extiende dos dedos en la pantalla. Verá un mensaje que le solicitará que ingrese su contraseña."</string>
-  
+    <string name="security_center_slogan">Seguridad ante todo.</string>
+	<string name="card_main_deepclean_facebook_title">Limpiador Facebook</string>
+    <string name="card_main_hwtest_title">Test de hardware</string>
 	<string name="privacy_apps_enable_summary">Mueve las aplicaciones a una carpeta oculta y elimina sus accesos directos de la pantalla de inicio</string>
 </resources>

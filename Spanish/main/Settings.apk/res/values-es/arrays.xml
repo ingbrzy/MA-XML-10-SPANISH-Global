@@ -214,7 +214,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
-        <item>Porcentaje</item>
+        <item>Porcentaje (dentro del icono)</item>
+        <item>Porcentaje (al lado del icono)</item>
         <item>Barra superior</item>
     </string-array>
     <string-array name="battery_labels">

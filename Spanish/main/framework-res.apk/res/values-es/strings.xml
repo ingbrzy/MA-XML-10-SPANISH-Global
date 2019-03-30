@@ -1506,4 +1506,17 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
 	<string name="tethered_notification_multi_device_message">%1$s dispositivos conectados</string>
 	<string name="tethered_notification_no_device_message">No hay dispositivos conectados</string>
 	<string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
+	<string name="permgroupdesc_calllog">read and write phone call log</string>
+	<string name="permgrouplab_calllog">Historial de llamadas</string>
+	<string name="permgrouprequest_calendar">Permitir &lt;b&gt;%1$s&lt;/b&gt; acceda a tu calendario?</string>
+	<string name="permgrouprequest_calllog">Permitir &lt;b&gt;%1$s&lt;/b&gt; acceda al registro de las llamadas telefónicas?</string>
+	<string name="permgrouprequest_camera">Permitir &lt;b&gt;%1$s&lt;/b&gt; tome fotos y grabe videos?</string>
+	<string name="permgrouprequest_contacts">Permitir &lt;b&gt;%1$s&lt;/b&gt; acceda a tus contactos?</string>
+	<string name="permgrouprequest_location">"Permitir &lt;b&gt;%1$s&lt;/b&gt; acceda a la ubicación de este dispositivo?"</string>
+	<string name="permgrouprequest_microphone">Permitir &lt;b&gt;%1$s&lt;/b&gt; grabe audio?</string>
+	<string name="permgrouprequest_phone">Permitir &lt;b&gt;%1$s&lt;/b&gt; haga y administre las llamadas telefónicas?</string>
+	<string name="permgrouprequest_sensors">Permitir &lt;b&gt;%1$s&lt;/b&gt; acceda a los datos del sensor de tus signos vitales?</string>
+	<string name="permgrouprequest_sms">Permitir &lt;b&gt;%1$s&lt;/b&gt; envíe y vea SMS?</string>
+	<string name="permgrouprequest_storage">Permitir &lt;b&gt;%1$s&lt;/b&gt; acceda a las fotos, el contenido multimedia y los archivos de tu dispositivo?</string>
+	<string name="permission">Permisos</string>
 </resources>
