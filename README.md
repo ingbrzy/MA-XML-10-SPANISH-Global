@@ -21,6 +21,7 @@ Todas la issues que no tengan estos datos serán rechazadas
 * [@rdgi](https://github.com/rdgi)
 * [@Muchachito](https://github.com/Muchachito)
 
+*Si quieres donar para contribuir al proyecto no dudes en contactarnos*
 ## Misc
 
 [Validador XML](https://translators.xiaomi.eu/XML_MIUI10-Spanish-es.html)
