@@ -1466,7 +1466,6 @@ para personalizar la Galería"</string>
      <string name="photo_editor_crop_auto_tips">"Recortada automáticamente"</string>
      <string name="photo_editor_frame">"Cuadro"</string>
      <string name="photo_editor_talkback_crop_screen">"Relación de aspecto de pantalla completa"</string>
-     <string name="photo_editor_transition_image_view">"photo_view"</string>
      <string name="photo_font_cancel_download">"Cancelar"</string>
      <string name="photo_font_download">"Descargar"</string>
      <string name="photo_font_download_failed_for_notwork">"No se pudo descargar. Conéctate a la red y vuelve a intentarlo."</string>
