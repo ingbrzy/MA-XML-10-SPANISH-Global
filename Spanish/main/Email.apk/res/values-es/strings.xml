@@ -476,9 +476,9 @@
   <string name="folder_drafts_name_en0">Borradores</string>
   <string name="folder_drafts_name_en1">Borrador</string>
   <string name="folder_drafts_name_en2">[Gmail]/Borradores</string>
-  <string name="folder_junk_name_cn0">Correo No Deseado</string>
-  <string name="folder_junk_name_cn1">Correo Basura</string>
-  <string name="folder_junk_name_cn2">[Gmail]/Correo No Deseado</string>
+  <string name="folder_junk_name_cn0">Spam</string>
+  <string name="folder_junk_name_cn1">Spam</string>
+  <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
   <string name="folder_junk_name_en0">Spam</string>
   <string name="folder_junk_name_en1">Correo Masivo</string>
   <string name="folder_junk_name_en2">Correo Basura</string>
@@ -486,6 +486,7 @@
   <string name="folder_junk_name_en4">Basura</string>
   <string name="folder_list_display_all">Mostrar todas las carpetas</string>
   <string name="folder_list_display_only_import">Solo mostrar carpetas importantes</string>
+  <string name="folder_no_mails">No hay emails en esta carpeta</string>
   <string name="folder_picker_title">Seleccionar carpetas</string>
   <string name="folder_removed">Eliminado de %1$s</string>
   <string name="folder_sent_name_cn0">Enviados</string>

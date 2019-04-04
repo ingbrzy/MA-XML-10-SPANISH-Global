@@ -1405,4 +1405,12 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="webview_find_on_page">Buscar en la página</string>
     <string name="webviewchromium_private_browsing_warning">La función no es compatible con esta versión de Android.</string>
     <string name="week_picker_dialog_title">Ajustar semana</string>
+	<string name="dialog_clipboard_tabs_action">Pulsa para abrir</string>
+	<string name="dialog_clipboard_tabs_tip">Encuentrar enlaces ya copiados</string>
+	<string name="dialog_confirm_delete_downloads_message">¿Borrar %s tareas?</string>
+	<string name="dialog_recovery_tabs_action">Pulse para restaurar</string>
+	<string name="dialog_recovery_tabs_disc">La detección de páginas no cerradas requiere una recuperación completa.</string>
+	<string name="dialog_recovery_tabs_tip"></string>
+	<string name="dialog_recovery_tabs_title">Open the page before recovery</string>
+	<string name="document_download_immediate">Descargar</string>
 </resources>
