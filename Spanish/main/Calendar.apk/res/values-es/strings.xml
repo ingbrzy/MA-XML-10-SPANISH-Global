@@ -235,7 +235,6 @@
     <string name="month_view">Mes</string>
     <string name="monthly">Mensualmente</string>
     <string name="monthly_on_day">Mensualmente (misma fecha)</string>
-    <string name="monthly_on_day_count">Mensualmente (%1$s %2$s)</string>
     <string name="network_not_available">No se puede conectar a la red</string>
     <string name="new_event_description">Nuevo</string>
     <string name="new_event_dialog_label">Nuevo evento</string>
