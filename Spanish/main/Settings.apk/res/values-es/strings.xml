@@ -6435,11 +6435,6 @@ Actualizar la configuración a:
 	<string name="status_bar_settings_manage_notification">Notificaciones</string>
 	<string name="badge_title">Mostrar número de notificaciones</string>
 	
-	<string name="usage">Uso</string>
-	<string name="usage_access">Usage access</string>
-	<string name="usage_access_description">Usage access allows an app to track what other apps you’re using and how often, as well as your carrier, language settings, and other details.</string>
-	<string name="usage_access_title">Apps with usage access</string>
-	<string name="usage_log">App usage statistics</string>
 	<string name="usage_state_app_timer">Tiempo de pantalla</string>
 	<string name="usage_state_app_usage_detail_title">Detalles de uso de la aplicación</string>
 	<string name="usage_state_app_usage_list_title">"Tiempo de uso aplicaciones hoy"</string>
@@ -6477,9 +6472,7 @@ Actualizar la configuración a:
 	<string name="usage_state_week_total_text">Tiempo de uso (últimos 7 días)</string>
 	<string name="usage_state_work_day">Días de la semana</string>
 	<string name="usage_state_work_day_hour_minute" formatted="false">Días de la semana: %dh %dm</string>
-	<string name="usage_stats_label">Estadísticas de uso</string>
 	<string name="usage_stats_normal_day">Días de la semana</string>
 	<string name="usage_stats_week_day">Fin de semana</string>
-	<string name="usage_time_label">Tiempo de uso</string>
 	<string name="peek_notification_icon_title">Mostrar iconos para notificaciones entrantes</string>
 </resources>
