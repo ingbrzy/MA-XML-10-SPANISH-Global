@@ -6481,5 +6481,5 @@ Actualizar la configuración a:
 	<string name="usage_stats_normal_day">Días de la semana</string>
 	<string name="usage_stats_week_day">Fin de semana</string>
 	<string name="usage_time_label">Tiempo de uso</string>
-
+	<string name="peek_notification_icon_title">Mostrar iconos para notificaciones entrantes</string>
 </resources>
