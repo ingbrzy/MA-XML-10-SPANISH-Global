@@ -516,6 +516,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="dlg_error_title">Operación de USB fallida</string>
     <string name="dlg_ok">Aceptar</string>
     <string name="dnd_is_off">No molestar desactivado</string>
+	<string name="dnd_notification_warnings_title">Las llamadas y notificaciones serán silenciadas hasta que desactives el modo No Molestar</string>
     <string name="do_disclosure_generic">Este dispositivo está gestionado por tu organización</string>
     <string name="do_disclosure_with_name">Este dispositivo está gestionado por%s</string>
     <string name="do_not_silence">No silencionar</string>
@@ -1808,4 +1809,5 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
 	<string name="dlg_summary_nfc">Apagar NFC</string>
 	<string name="quick_settings_toast_drag_to_enable_custom_tile">Para agregar un elemento, manténgalo presionado y luego arrástrelo a la parte superior del panel.</string>
 	<string name="time_unit_just_now">Ahora mismo</string>
+
 </resources>

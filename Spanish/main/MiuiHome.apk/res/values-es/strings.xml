@@ -353,4 +353,5 @@
 	<string name="recommend_refresh">Actualizar</string>
 	<string name="recommend_xout">No mostrar</string>
 	<string name="widgets_preview_title">Añadir widget</string>
+	<string name="launcher_sliding_up_gesture">Deslizar hacia arriba para buscar</string>
 </resources>

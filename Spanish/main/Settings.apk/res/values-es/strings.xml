@@ -4301,7 +4301,7 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="show_all_anrs_summary">Mostrar \"Aplicación no responde\" para aplicaciones en segundo plano</string>
     <string name="show_all_apps">Mostrar uso completo del dispositivo</string>
     <string name="show_background_processes">Procesos en caché</string>
-	<string name="show_carrier_under_keyguard_title">Mostar operador cuando el dispositivo está bloqueado</string>
+	<string name="show_carrier_under_keyguard_title">Mostrar operador cuando el dispositivo está bloqueado</string>
     <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
     <string name="show_connected_devices_title">Dispositivos conectados</string>
     <string name="show_dev_already">Las opciones para desarrolladores ya están activadas.</string>
@@ -4507,7 +4507,6 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar en la pantalla de bloqueo</string>
 	<string name="status_bar_settings_function_description">Sobre esta característica</string>
     <string name="status_bar_settings_long_click_sort">Pulsa y mantén para acceder a un acceso rápido</string>
-    <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>
     <string name="status_bar_settings_no_carrier">Ninguno</string>
     <string name="status_bar_settings_notification_bar">Panel de notificaciones</string>
     <string name="status_bar_settings_notification_led">Luz de notificación</string>
@@ -4727,7 +4726,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="storageuse_settings_summary">Ver almacenamiento usado por aplicaciones</string>
     <string name="storageuse_settings_title">Uso de almacenamiento</string>
     <string name="strict_mode">Habilitado Modo estricto</string>
-    <string name="strict_mode_summary">Mostarar pantalla si las apps tardan en la operación principal</string>
+    <string name="strict_mode_summary">Mostrar pantalla si las apps tardan en la operación principal</string>
     <string name="structure_add_facerecoginition_text">Añadir datos faciales 3D</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">No se puede usar esta característica debido a la batería baja</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">La batería debe tener al menos un 5% de carga para comenzar a grabar.</string>
@@ -6352,9 +6351,9 @@ Ten en cuenta que se seguirán mostrando las notificaciones importantes sobre el
 	<string name="allow_float_title">Notificaciones flotantes</string>
 	<string name="allow_interruption">Permitir interrupciones</string>
 	<string name="allow_interruption_summary">Permitir que la aplicación realice notificaciones de sonido, vibración la pantalla</string>
-	<string name="allow_keyguard_summary">Mostar notificaciones en la pantalla de bloqueo</string>
+	<string name="allow_keyguard_summary">Mostrar notificaciones en la pantalla de bloqueo</string>
 	<string name="allow_keyguard_title">Notificaciones en la pantalla de bloqueo</string>
-	<string name="allow_lights_title">Permitir notificaciones con luz.</string>
+	<string name="allow_lights_title">Mostrar notificaciones LED</string>
 	<string name="allow_sound_title">Permitir sonido</string>
 	<string name="allow_vibrate_title">Permitir vibración</string>
 	<string name="android_version_pending_update_summary">Actualización disponible</string>
@@ -6430,5 +6429,57 @@ Actualizar la configuración a:
 	<string name="power_menu_under_keyguard_summary">Permitir el acceso al menú de apagado mientras el dispositivo está bloqueado</string>
     <string name="power_menu_under_keyguard_title">Acceso al menú de apagado</string>
     <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos de pantalla completa, puedes activar el modo con una mano usando el Asistente táctil. También puede cambiar a usar botones en lugar de gestos de pantalla completa."</string>
+	<string name="battery_indicator_title">Indicador de batería</string>
+	<string name="toggle_collapse_after_clicked_title">Cerrar después de tocar</string>
+	<string name="manage_notification_title">Notificaciones</string>
+	<string name="status_bar_settings_manage_notification">Notificaciones</string>
+	<string name="badge_title">Mostrar número de notificaciones</string>
+	
+	<string name="usage">Uso</string>
+	<string name="usage_access">Usage access</string>
+	<string name="usage_access_description">Usage access allows an app to track what other apps you’re using and how often, as well as your carrier, language settings, and other details.</string>
+	<string name="usage_access_title">Apps with usage access</string>
+	<string name="usage_log">App usage statistics</string>
+	<string name="usage_state_app_timer">Tiempo de pantalla</string>
+	<string name="usage_state_app_usage_detail_title">Detalles de uso de la aplicación</string>
+	<string name="usage_state_app_usage_list_title">"Tiempo de uso aplicaciones hoy"</string>
+	<string name="usage_state_app_usage_list_week_title">"Tiempo de uso aplicaciones (últimos 7 días)"</string>
+	<string name="usage_state_app_usage_tip_title" formatted="false">Tiempo de uso entre %d:00 y %d:00</string>
+	<string name="usage_state_app_use_time">Uso de pantalla de aplicación</string>
+	<string name="usage_state_channel_mouth">Últimos 30 días</string>
+	<string name="usage_state_channel_week">Últimos 7 días</string>
+	<string name="usage_state_device_noti_today_tip_title" formatted="false">Notificaciones entre %d:00 y %d:00</string>
+	<string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispositivo desbloqueado %d:00 and %d:00</string>
+	<string name="usage_state_friday">Vie</string>
+	<string name="usage_state_go_more">Más aplicaciones</string>
+	<string name="usage_state_less_one_minute">Menos de 1 minuto</string>
+	<string name="usage_state_monday">Lun</string>
+	<string name="usage_state_mourth_day">"'Tiempo de uso en' d MMM"</string>
+	<string name="usage_state_noti_mourth_day">"'Notificaciones en' d MMM"</string>
+	<string name="usage_state_notification">Administrar notificaciones</string>
+	<string name="usage_state_notification_manager">Administrar notificaciones de las aplicaciones</string>
+	<string name="usage_state_remind_summary">Activar para recibir alertas de tiempo de pantalla. Puede establecer diferentes límites de tiempo para los días de semana y fines de semana.</string>
+	<string name="usage_state_remind_title">Alerta de tiempo de uso</string>
+	<string name="usage_state_rest_day">Fin de Semana</string>
+	<string name="usage_state_saturday">Sab</string>
+	<string name="usage_state_set_invalid_time_toast">"No se pueden establecer límites de tiempo inferiores a 1 minuto."</string>
+	<string name="usage_state_sunday">Dom</string>
+	<string name="usage_state_thursday">Jue</string>
+	<string name="usage_state_today">Hoy</string>
+	<string name="usage_state_today_total_text">Tiempo de uso hoy</string>
+	<string name="usage_state_tuesday">Mar</string>
+	<string name="usage_state_unlock_mourth_day">"'Desbloqueado' d MMM"</string>
+	<string name="usage_state_usage_time">Tiempo de uso</string>
+	<string name="usage_state_usage_time_remind">Alerta de tiempo de usot</string>
+	<string name="usage_state_use_time_remind_title">Alerta de tiempo de uso</string>
+	<string name="usage_state_wednesday">Mie</string>
+	<string name="usage_state_week_day_hour_minute" formatted="false">Fin de semana: %dh %dm</string>
+	<string name="usage_state_week_total_text">Tiempo de uso (últimos 7 días)</string>
+	<string name="usage_state_work_day">Días de la semana</string>
+	<string name="usage_state_work_day_hour_minute" formatted="false">Días de la semana: %dh %dm</string>
+	<string name="usage_stats_label">Estadísticas de uso</string>
+	<string name="usage_stats_normal_day">Días de la semana</string>
+	<string name="usage_stats_week_day">Fin de semana</string>
+	<string name="usage_time_label">Tiempo de uso</string>
 
 </resources>
