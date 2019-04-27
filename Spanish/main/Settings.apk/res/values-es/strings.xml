@@ -6475,4 +6475,20 @@ Actualizar la configuración a:
 	<string name="usage_stats_normal_day">Días de la semana</string>
 	<string name="usage_stats_week_day">Fin de semana</string>
 	<string name="peek_notification_icon_title">Mostrar iconos para notificaciones entrantes</string>
+	<string name="lights_title">Notificación LED</string>
+	<string name="visibility_override_title">Pantalla de bloqueo</string>
+	<string name="block_title">Mostrar notificaciones</string>
+	<string name="importance_default">Preterminado</string>
+	<string name="importance_high">ALta</string>
+	<string name="importance_low">Baja</string>
+	<string name="importance_min">Mínima</string>
+	<string name="importance_title">Importancia</string>
+	<string name="sound_title">Sonido</string>
+	<string name="speed_label_fast">Rápido</string>
+	<string name="speed_label_medium">Medio</string>
+	<string name="speed_label_okay">Vale</string>
+	<string name="speed_label_slow">Lento</string>
+	<string name="speed_label_very_fast">Muy Rápido</string>
+	<string name="speed_label_very_slow">Muy Lento</string>
+	<string name="vibrate_title">Vibración</string>
 </resources>
