@@ -220,4 +220,8 @@
     <string name="timer_pause_hint">Pausar</string>
     <string name="timer_cancel_hint">Detener</string>
     <string name="timer_running_hint">Continuar</string>
+	<string name="check_theme_app_install">Comprueba que la aplicación de Temas está instalada en tu dispositivo.</string>
+	<string name="clock_bg_button_setting_summary_common">Seleccione el color de fondo para la aplicación Reloj</string>
+	<string name="clock_bg_button_setting_summary_follow_sys">El negro se usará como color de fondo cada vez que cambie al modo Oscuro</string>
+	<string name="clock_bg_button_setting_title">Color de fondo</string>
 </resources>

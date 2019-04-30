@@ -1809,5 +1809,9 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
 	<string name="dlg_summary_nfc">Apagar NFC</string>
 	<string name="quick_settings_toast_drag_to_enable_custom_tile">Para agregar un elemento, manténgalo presionado y luego arrástrelo a la parte superior del panel.</string>
 	<string name="time_unit_just_now">Ahora mismo</string>
-
+	<string name="battery_low_button_not_open_power_save">Ahora no</string>
+	<string name="battery_low_button_open_power_save">Activar</string>
+	<string name="battery_low_percent_format_save_mode_closed">Menos de %d%% batería restante. Cargue su dispositivo.</string>
+	<string name="battery_low_percent_format_save_mode_open">Menos de %d%% batería restante. Active el modo Ahorro de batería para ahorrar energía.</string>
+	<string name="battery_low_title_power_save">Ahorro de batería</string>
 </resources>
