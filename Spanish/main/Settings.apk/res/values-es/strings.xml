@@ -2413,7 +2413,7 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="location_network_based">Wi-Fi y red móvil</string>
     <string name="location_no_recent_apps">Ninguna aplicación ha solicitado la ubicación recientemente</string>
     <string name="location_off_summary">DESACTIVADO</string>
-    <string name="location_on_summary">ACTIVADO / %1$s</string>
+    <string name="location_on_summary">ACTIVADO</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Los servicios y las aplicaciones del sistema pueden detectar dispositivos Bluetooth en cualquier momento para mejorar la precisión de la ubicación.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Búsqueda de dispositivos Bluetooth</string>
     <string name="location_scanning_screen_title">Búsqueda</string>
