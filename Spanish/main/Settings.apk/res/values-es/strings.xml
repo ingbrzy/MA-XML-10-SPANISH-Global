@@ -6434,7 +6434,6 @@ Actualizar la configuración a:
 	<string name="manage_notification_title">Notificaciones</string>
 	<string name="status_bar_settings_manage_notification">Notificaciones</string>
 	<string name="badge_title">Mostrar número de notificaciones</string>
-	
 	<string name="usage_state_app_timer">Tiempo de pantalla</string>
 	<string name="usage_state_app_usage_detail_title">Detalles de uso de la aplicación</string>
 	<string name="usage_state_app_usage_list_title">"Tiempo de uso aplicaciones hoy"</string>
@@ -6465,7 +6464,7 @@ Actualizar la configuración a:
 	<string name="usage_state_tuesday">Mar</string>
 	<string name="usage_state_unlock_mourth_day">"'Desbloqueado' d MMM"</string>
 	<string name="usage_state_usage_time">Tiempo de uso</string>
-	<string name="usage_state_usage_time_remind">Alerta de tiempo de usot</string>
+	<string name="usage_state_usage_time_remind">Alerta de tiempo de uso</string>
 	<string name="usage_state_use_time_remind_title">Alerta de tiempo de uso</string>
 	<string name="usage_state_wednesday">Mie</string>
 	<string name="usage_state_week_day_hour_minute" formatted="false">Fin de semana: %dh %dm</string>
@@ -6479,7 +6478,7 @@ Actualizar la configuración a:
 	<string name="visibility_override_title">Pantalla de bloqueo</string>
 	<string name="block_title">Mostrar notificaciones</string>
 	<string name="importance_default">Preterminado</string>
-	<string name="importance_high">ALta</string>
+	<string name="importance_high">Alta</string>
 	<string name="importance_low">Baja</string>
 	<string name="importance_min">Mínima</string>
 	<string name="importance_title">Importancia</string>
