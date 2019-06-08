@@ -264,4 +264,28 @@
         <item quantity="other">%d elementos</item>
         <item quantity="one">%d elemento</item>
     </plurals>
+	<plurals name="backup_file_over_size_title">
+		<item quantity="other">%d elementos son demasiado grandes para hacer una copia de seguridad</item>
+		<item quantity="one">%d elemento son demasiado grandes para hacer una copia de seguridad</item>
+	</plurals>
+	<plurals name="burst_image_download_item_title_count">
+		<item quantity="other">%d fotos</item>
+		<item quantity="one">%d foto</item>
+	</plurals>
+	<plurals name="burst_save_confirm_dialog_message">
+		<item quantity="other">¿Guardar %d fotos seleccionadas y eliminar el resto?</item>
+		<item quantity="one">¿Guardar la foto seleccionada y eliminar el resto?</item>
+	</plurals>
+	<plurals name="burst_save_selected">
+		<item quantity="other">Guardar %d fotos seleccionada</item>
+		<item quantity="one">Guardar foto seleccionada</item>
+	</plurals>
+	<plurals name="photo_count_format">
+	<item quantity="other">%1$d elementos</item>
+	<item quantity="one">%1$d elemento</item>
+	</plurals>
+	<plurals name="video_count_format">
+		<item quantity="other">%1$d archivos</item>
+		<item quantity="one">%1$d archivo</item>
+	</plurals>
 </resources>
