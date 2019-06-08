@@ -6816,7 +6816,6 @@ Actualizar la configuración a:
 	<string name="display_cutout_emulation">"Simular una pantalla con un recorte"</string>
 	<string name="display_cutout_emulation_keywords">"corte de pantalla, muesca"</string>
 	<string name="display_cutout_emulation_none">"Ninguna"</string>
-	<string name="dndm_auto_time_setting_summary">"%1$s - %2$s"</string>
 	<string name="double_tap_power_for_camera_suggestion_title">"Abre la cámara rápidamente"</string>
 	<string name="double_twist_for_camera_suggestion_title">"Toma selfies más rápido"</string>
 	<string name="doze_always_on_title">"Siempre en"</string>
@@ -7068,7 +7067,6 @@ Actualizar la configuración a:
 	<string name="power_remaining_less_than_duration_only">"Quedan menos de %1$s"</string>
 	<string name="power_remaining_more_than_subtext">"Más de %1$s restantes (%2$s)"</string>
 	<string name="power_remaining_only_more_than_subtext">"Más de %1$s restantes"</string>
-	<string name="power_remaining_settings_home_page">"%1$s - %2$s"</string>
 	<string name="power_usage_enhanced_debug">"%1$s izquierda (Nuevo ML est)"</string>
 	<string name="power_usage_old_debug">"%1$s izquierda (antiguo est)"</string>
 	<string name="pref_show_lunar_calendar_title">"Mostrar calendario chino tradicional en la pantalla de bloqueo"</string>
@@ -7196,7 +7194,6 @@ Actualizar la configuración a:
 	<string name="sort_order_recent_notification">"Más reciente"</string>
 	<string name="spell_checker_master_switch_title">"Usar el corrector ortográfico"</string>
 	<string name="standby_bucket_summary">"Estado de espera de la aplicación: %s"</string>
-	<string name="status_bar_settings_carrier_sim">"SIM %1$s : "</string>
 	<string name="status_data_network_type">"Tipo de red de datos móviles"</string>
 	<string name="status_number_sim_slot">"Número de teléfono (ranura sim %1$d )"</string>
 	<string name="status_number_sim_status">"Número de teléfono en la tarjeta SIM"</string>

@@ -1920,10 +1920,6 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
 	<string name="private_dns_mode_provider_failure">"No se pudo conectar"</string>
 	<string name="private_dns_mode_provider_hostname_hint">"Introduzca el nombre de host del proveedor de DNS"</string>
 	<string name="qs_paging">"Utilice la nueva configuración rápida"</string>
-	<string name="quick_settings_tiles">"defecto"</string>
-	<string name="quick_settings_tiles_default">"celular, wifi, linterna, silencio, captura de pantalla, bt, inteligencia automática, avión, bloqueo de pantalla, gps, rotación, modo de papel, modo silencioso, salvapantallas, dispositivo de control de extremos, personalizado (com.milink.service / com.milink.ui.service.MiLinkTileService), drivemode , modo de energía, vibrar, zona interactiva, sincronización, botón de pantalla, nfc, editar"</string>
-	<string name="quick_settings_tiles_retail_mode">"Celular, salvapantallas, modo de alimentación, linterna, rotación, ubicación"</string>
-	<string name="quick_settings_tiles_stock">"celular, wifi, linterna, silencio, captura de pantalla, bt, inteligencia automática, avión, bloqueo de pantalla, gps, rotación, modo de papel, modo silencioso, salvapantallas, dispositivo de control de extremos, personalizado (com.milink.service / com.milink.ui.service.MiLinkTileService), drivemode , modo de energía, vibrar, zona interactiva, sincronización, botón de pantalla, nfc, editar"</string>
 	<string name="rapid_charge_mode_tip">"Carga rapida"</string>
 	<string name="report_rejected_touch">"Informe de contacto rechazado"</string>
 	<string name="select_private_dns_configuration_dialog_title">"Seleccione el modo DNS privado"</string>
