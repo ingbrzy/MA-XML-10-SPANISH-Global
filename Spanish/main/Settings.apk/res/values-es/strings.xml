@@ -6856,7 +6856,7 @@ Actualizar la configuración a:
 	<string name="fingerprint_wakeup_title">"Toque sensor de huellas dactilares para encender"</string>
 	<string name="fold_title">"Reglas para notificaciones agrupadas."</string>
 	<string name="font_size_preview_text">"Servez à ce monsieur une bière et des kiwis."</string>
-	<string name="forget_password_dialog_button_text">"Espalda"</string>
+	<string name="forget_password_dialog_button_text">"Recuperar"</string>
 	<string name="forget_password_dialog_content_four">"&lt;Datos&gt; 2. Seleccione &amp; lt; font color = # e6e6e6 &amp; gt; [Borrar datos] &amp; lt; / font &amp; gt; y espere hasta que su dispositivo se reinicie. &lt;/Data&gt;"</string>
 	<string name="forget_password_dialog_content_one">"&lt;Datos&gt; \"Si olvida su contraseña, no podrá restaurarla. Sin embargo, puede restablecer su contraseña después de que &amp; lt; font color = # ec2700 &amp; gt; borre todos los datos de su dispositivo &amp; lt; / font &amp; gt; (incluidas las fotos , contactos, etc.). Realice una copia de seguridad de todos los datos importantes antes de esto. \"&lt;/Data&gt;"</string>
 	<string name="forget_password_dialog_content_three">"&lt;Datos&gt; \"1. Apague su dispositivo. Presione el botón &amp; lt; font color = # e6e6e6 &amp; gt; [Power] &amp; lt; / font &amp; gt; y el botón &amp; lt; font color = # e6e6e6 &amp; gt; [Volume +] &amp; lt; / font &amp; gt; simultáneamente. y manténgalos pulsados hasta que vea el icono &amp; lt; img src = '' &amp; gt; \"&lt;/Data&gt;"</string>
@@ -6866,7 +6866,7 @@ Actualizar la configuración a:
 	<string name="game_booster">"Juego; Juegos; Turbo; Juegos; Modo de juego"</string>
 	<string name="gesture_prevent_ringing_screen_title">"Evitar el timbre"</string>
 	<string name="gesture_prevent_ringing_sound_title">"Atajo para evitar que suene"</string>
-	<string name="gesture_prevent_ringing_title">"Presiona Power &amp; Volume Up juntos"</string>
+	<string name="gesture_prevent_ringing_title">"Presiona Encendido y subir volumen juntos juntos"</string>
 	<string name="google_assistant_label">"Asistente de Google"</string>
 	<string name="gxzw_anim_light">"Neón"</string>
 	<string name="gxzw_anim_pulse">"Pulso"</string>
