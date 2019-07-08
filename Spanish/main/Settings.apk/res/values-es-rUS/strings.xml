@@ -2013,7 +2013,6 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="gesture_preference_title">Gestos</string>
     <string name="gesture_setting_off">Desactivado</string>
     <string name="gesture_setting_on">Activado</string>
-    <string name="gesture_wakeup_title">Toque dos veces la pantalla para despertar</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">Esta configuración afecta a todos los usuarios de este dispositivo.</string>

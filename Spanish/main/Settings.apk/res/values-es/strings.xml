@@ -2043,7 +2043,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="gesture_preference_title">Gestos</string>
     <string name="gesture_setting_off">Desactivado</string>
     <string name="gesture_setting_on">Activado</string>
-    <string name="gesture_wakeup_title">Doble pulsación en la pantalla para despertar</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">Esta configuración afecta a todos los usuarios de este teléfono.</string>
