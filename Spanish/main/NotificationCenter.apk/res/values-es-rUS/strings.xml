@@ -29,7 +29,6 @@
     <string name="off">Desactivado</string>
     <string name="on">Activado</string>
     <string name="show_badge_notifications">Íconos de notificaciones</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_disable_float_notification">Notificaciones flotantes restringidas</string>
     <string name="summary_disable_lockscreen_notification">Notificaciones en la pantalla de bloqueo restringidas</string>
     <string name="summary_disable_show_badge_notification">Íconos de notificaciones restringidos</string>
