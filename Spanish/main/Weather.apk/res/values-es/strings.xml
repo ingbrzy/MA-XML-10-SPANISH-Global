@@ -27,7 +27,7 @@
     <string name="alert_detail_title">Detalles de la alerta</string>
     <string name="alert_warning">Alertas meteorológicas</string>
     <string name="already_voted_toast">Ya ha votado hoy</string>
-    <string name="app_name">El tiempo</string>
+    <string name="app_name">Tiempo</string>
     <string name="aqi_data_source">Desarrollado por Colorful Clouds</string>
     <string name="aqi_desc">Índice de Calidad del Aire</string>
     <string name="aqi_detail_24_hours">Previsión para 24 horas</string>

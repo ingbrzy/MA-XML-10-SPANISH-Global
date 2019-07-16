@@ -20,4 +20,24 @@
         <item quantity="other">%s caracteres</item>
         <item quantity="one">%s caracter</item>
     </plurals>
+	     <plurals name="alert_message_delete">
+        <item quantity="other">¿Eliminar %1$s elementos?</item>
+        <item quantity="one">¿Eliminar elemento?</item>
+     </plurals>
+     <plurals name="format_move_notes_out_folder">
+        <item quantity="other">Se han eliminado %1$s de la carpeta</item>
+        <item quantity="one">Se ha eliminado %1$s de la carpeta</item>
+     </plurals>
+     <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Se han movido %1$s notas a %2$s</item>
+        <item quantity="one">Se ha movido %1$s note a %2$s</item>
+     </plurals>
+     <plurals name="toast_notes_hidden_count">
+        <item quantity="other">Se han ocultado %1$s notas correctamente</item>
+        <item quantity="one">Se ha ocultado %1$s nota correctamente</item>
+     </plurals>
+     <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Se han desocultado %1$s notas correctamente</item>
+        <item quantity="one">Se ha desocultado %1$s nota correctamente</item>
+     </plurals>
 </resources>

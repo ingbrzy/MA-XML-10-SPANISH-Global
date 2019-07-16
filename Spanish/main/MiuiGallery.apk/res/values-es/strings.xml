@@ -1207,8 +1207,8 @@ para personalizar la Galería"</string>
     <string name="video_editor_down_load_later">Más tarde</string>
     <string name="video_editor_down_load_no_wifi_tips">Conectar a Wi-Fi para descargar</string>
     <string name="video_editor_down_load_now">Descargar</string>
-    <string name="video_editor_encode_video">Cifrando vídeo…</string>
-    <string name="video_editor_encode_video_error">No se pudo cifrar el vídeo</string>
+    <string name="video_editor_encode_video">Codificando vídeo…</string>
+    <string name="video_editor_encode_video_error">No se pudo codificando el vídeo</string>
     <string name="video_editor_fatal_error">Error desconocido</string>
     <string name="video_editor_filter">Filtro</string>
     <string name="video_editor_filter_and_regulator">Filtros</string>

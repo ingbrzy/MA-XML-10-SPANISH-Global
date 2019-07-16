@@ -234,4 +234,18 @@
 	<string name="toast_notes_hidden_edit">Esta nota se ha ocultado. Tire hacia abajo para ver las notas ocultas.</string>
 	<string name="toast_notes_hidden_home">Esta nota se ha ocultado. Tire hacia abajo para ver las notas ocultas.</string>
 	<string name="unclassfied_folder_name">Sin categoría</string>
+	
+     <string name="permission_intro_contact">Para marcar notas tomadas durante las llamadas.</string>
+     <string name="permission_intro_microphone">Para grabar notas de voz</string>
+     <string name="permission_intro_phone">Para marcar notas tomadas en una llamada</string>
+     <string name="permission_intro_storage">Para guardar imágenes y archivos adjuntos</string>
+     <string name="toast_pic_is_not_really">Guardar imagen…</string>
+     <string name="toast_refuse_to_use_contact">"Los permisos de contactos están restringidos.
+Permita que Notas lea sus contactos y encuentre cuentas en el dispositivo."</string>
+     <string name="toast_refuse_to_use_external_storage">"Los permisos de almacenamiento están restringidos.
+Permita que Notas lea el contenido de su tarjeta SD."</string>
+     <string name="toast_refuse_to_use_phone_state">"Los permisos de teléfono están restringidos.
+Permitir que Notas lea el estado y la identidad del teléfono."</string>
+     <string name="toast_refuse_to_use_record_audio">"Los permisos de micrófono están restringidos.
+Permitir a Notas grabar audio."</string>
 </resources>

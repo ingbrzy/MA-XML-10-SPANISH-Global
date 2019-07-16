@@ -224,4 +224,20 @@
 	<string name="clock_bg_button_setting_summary_common">Seleccione el color de fondo para la aplicación Reloj</string>
 	<string name="clock_bg_button_setting_summary_follow_sys">El negro se usará como color de fondo cada vez que cambie al modo Oscuro</string>
 	<string name="clock_bg_button_setting_title">Color de fondo</string>
+	<string name="timer_alert_mute_off">La alarma sonará cuando el temporizador se detenga</string>
+	<string name="timer_alert_mute_on">La alarma no sonará cuando el temporizador se detenga</string>
+	<string name="timer_alert_mute_remind">Toque para desactivar la alarma</string>
+	<string name="timer_alert_mute_switch">Interruptor silenciar las alarmas del temporizador</string>
+	<string name="timer_can_continue_in_timer">Abrir temporizador para continuar</string>
+	<string name="timer_created">Temporizador añadido correctamente</string>
+	<string name="timer_end_time_format">HH:mm MMM dd</string>
+	<string name="timer_end_time_format_today">HH:mm</string>
+	<string name="timer_is_paused">Temporizador está pausado</string>
+	<string name="update_notification_info">Actualizando datos en segundo plano…</string>
+	<string name="user_agreement">Acuerdo de usuarios</string>
+	<string name="worldclock_resident_city_text">Segundo reloj: %s</string>
+	<string name="worldclock_resident_city_text_detail">El segundo reloj está activado</string>
+	<string name="worldcolock_date_display_prefix">Actual: </string>
+	<string name="repeat_count">Veces</string>
+	<string name="expired_timers_dismissed">El temporizador se ha desactivado correctamente</string>
 </resources>

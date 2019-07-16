@@ -375,4 +375,9 @@
 	<string name="minus_one_screen">Baúl de aplicaciones</string>
 	<string name="privacy_thumbnail_blur_summary">Desenfocar vista previa de aplicaciones en Recientes</string>
 	<string name="privacy_thumbnail_blur_title">Desenfocar vista previa</string>
+	<string name="activity_not_unlocked">Espere hasta que su dispositivo se reinicie por completo antes de abrir aplicaciones</string>
+	<string name="shake_to_align_icons">Agite el dispositivo para llenar las celdas vacías con iconos</string>
+	<string name="shake_to_align_icons_summary">Shake your device while in editing mode to fill empty cells with icons automatically</string>
+	<string name="shake_to_align_icons_title">Agite su dispositivo mientras está en modo de edición para llenar las celdas vacías con iconos automáticamente</string>
+	<string name="system_shortcuts_more_operation">Info. app</string>
 </resources>

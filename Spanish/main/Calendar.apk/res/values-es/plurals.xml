@@ -61,8 +61,8 @@
         <item quantity="one">%1$d día después</item>
     </plurals>
     <plurals name="date_calculate_days_ago">
-        <item quantity="other">%1$d días atrás</item>
-        <item quantity="one">%1$d día atrás</item>
+        <item quantity="other">%1$d días antes</item>
+        <item quantity="one">%1$d día antes</item>
     </plurals>
     <plurals name="date_calculate_direction_backward">
         <item quantity="other">%1$d días después</item>

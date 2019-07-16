@@ -2582,4 +2582,9 @@ tu dispositivo"</string>
     <string name="card_main_hwtest_title">Test de hardware</string>
 	<string name="privacy_apps_enable_summary">Mueve las aplicaciones a una carpeta oculta y elimina sus accesos directos de la pantalla de inicio</string>
 	<string name="power_save_started_summary_text">"El ahorro de batería está activado. Reduce la actividad en segundo plano de las aplicaciones, detiene la sincronización y minimiza las animaciones del sistema."</string>
+	<string name="quick_reply_title">Respuestas rápidas</string>
+    <string name="qucick_replay_instrument">Use respuestas rápidas en las notificaciones de las aplicaciones seleccionadas (por ejemplo, WhatsApp, WeChat, QQ)</string>
+	<string name="quick_replay_list_title">Aplicaciones disponibles</string>
+	<string name="app_manager_thumbnail_blur_summary">Desenfoncar vista previa en aplicaciones recientes</string>
+	<string name="app_manager_thumbnail_blur_title">Desenfoncar vista previa de aplicaciones</string>
 </resources>
