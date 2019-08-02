@@ -423,7 +423,7 @@ También puedes añadir recordatorios para no perderte de nada importante."</str
     <string name="yearly">Anualmente (cada %s)</string>
     <string name="yearly_plain">Anualmente</string>
 	<string name="reminder_later">Recordar más tarde</string>
-	<string name="default_reminder_later_time">Intervalo preterminado para \"Recordar más tarde\"</string>
+	<string name="default_reminder_later_time">Intervalo predeterminado para \"Recordar más tarde\"</string>
 	<string name="search_menu_title">Buscar</string>
 	<string name="select_today_tip">Hoy</string>
 	<string name="setting">Ajustes</string>
