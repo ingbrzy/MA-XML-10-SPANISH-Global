@@ -776,7 +776,6 @@ en modo Retrato"</string>
 	<string name="pref_camera_video_bokeh_on">Video bokeh</string>
 	<string name="pref_camera_volumekey_function_entry_timer">Cuenta atrás del obturador</string>
 	<string name="pref_google_lens_summary">Apunte su cámara a la información de contacto, las URL y los códigos QR para ver las opciones disponibles</string>
-	<string name="pref_google_lens_title">Sugerencias de lentes</string>
 	<string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
 	<string name="pref_new_slow_motion_video_quality_240_720only">Solo puedes grabar videos de 720p con 240 fps</string>
 	<string name="pref_new_slow_motion_video_quality_960_720only">Solo puedes grabar videos de 720p con 960 fps</string>
