@@ -7458,4 +7458,16 @@ Actualizar la configuración a:
 	<string name="gmscore_settings_title">Servicios básicos de Google</string>
 	<string name="google_service_title">Servicios de Google</string>
 	<string name="headset_settings_title">Auriculares</string>
+	<string name="home_title">Pantalla de inicio</string>
+	<string name="power_usage_summary_title_new">Batería y rendimiento</string>
+	<string name="input_method_function_clipboard">Portapapeles y frases frecuentes</string>
+	<string name="disallow_lock_screen_summary">Permite las notificaciones en \"Notificaciones de las aplicaciones\" primero</string>
+	<string name="right_function_key">Acceso directo derecho</string>
+	<string name="left_function_key">Acceso directo derecho</string>
+	<string name="settings_new_version_btn">Actualizar</string>
+	<string name="long_press_power_key">Mantenga presionado el botón de encendido</string>
+    <string name="long_press_power_key_tips">&lt;Data&gt;Mantenga presionado el botón de encendido &amp;lt;font color=#999999&amp;gt;Más rápido y más conveniente&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+	<string name="gesture_wakeup_summary">Puede tocar dos veces para apagar la pantalla cuando está aplicado tema predeterminado o clásico.</string>
+	<string name="gesture_wakeup_title">Tocar dos veces para apagar pantalla</string>
+	<string name="key_shortcut_settings_title">Atajos de botones</string>
 </resources>

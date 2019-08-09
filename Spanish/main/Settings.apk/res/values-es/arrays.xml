@@ -1382,4 +1382,9 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Búsqueda</item>
         <item>Ajustes</item>
     </string-array>
+	<string-array name="keyguard_notification_status_entries">
+		<item>Encender pantalla</item>
+		<item>Mostrar animación</item>
+		<item>No encender pantalla</item>
+	</string-array>
 </resources>
