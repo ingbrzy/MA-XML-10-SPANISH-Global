@@ -606,8 +606,6 @@ en modo Retrato"</string>
 	<string name="custom_watermark_words">Marca de agua personalizada</string>
 	<string name="custom_watermark_words_input_hint">Introducir texto</string>
 	<string name="custom_watermark_words_save_success">Guardado exitosamente</string>
-	<string name="device_feature_configuration_file_name">defecto</string>
-	<string name="device_india_watermark_default_text"></string>
 	<string name="dialog_ok_time">Aceptar (%ds)</string>
 	<string name="edit_blusher">Colorete</string>
 	<string name="edit_eyebrow_dye">Cejas</string>
