@@ -6,7 +6,6 @@
     </plurals>
     <plurals name="announce_for_unread">
         <item quantity="other">%2$s sin leer de %1$s</item>
-        <item quantity="one">%2$s sin leer de %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">¿Eliminar %1$d fondos de pantalla?</item>

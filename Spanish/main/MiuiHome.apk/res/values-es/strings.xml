@@ -380,4 +380,21 @@
 	<string name="shake_to_align_icons_summary">Agite su dispositivo mientras está en modo de edición para llenar las celdas vacías con iconos automáticamente</string>
 	<string name="shake_to_align_icons_title">Agite su dispositivo mientras está en modo de edición para llenar las celdas vacías con iconos automáticamente</string>
 	<string name="system_shortcuts_more_operation">Info. app</string>
+	<string name="no_space_toast_when_click_widget">No hay suficiente espacio en esta página. Intenta arrastrar este elemento a una página diferente..</string>
+    <string name="unstable_dialog_content">"Esta es una versión preliminar de la imagen del sistema Android, y está sujeta a cambios. El uso de esta imagen del sistema se rige por el Acuerdo de licencia de Android SDK Preview. La imagen del sistema de vista previa de Android no es una versión estable y puede contener errores y defectos que pueden provocar daños en los sistemas, dispositivos o datos de su computadora. La vista previa de la imagen del sistema Android no está sujeta a las mismas pruebas que el sistema operativo de fábrica y puede hacer que este dispositivo, los servicios instalados o las aplicaciones dejen de funcionar."</string>
+	<string name="all_apps">Todas las aplicaciones</string>
+	<string name="all_apps_no_search_results">No se han encontrado resultados</string>
+	<string name="all_apps_search_app">Buscar aplicaciones</string>
+	<string name="all_apps_search_market_message">Buscar online</string>
+	<string name="all_apps_setting_desktop_desc">Mostrar todas las aplicaciones instaladas en la pantalla de inicio. Mantenga presionado el ícono de una aplicación para ver los accesos directos disponibles, administrar o desinstalar la aplicación.</string>
+	<string name="all_apps_setting_desktop_title">Normal</string>
+	<string name="all_apps_setting_drawer_desc">"Todas las aplicaciones instaladas se pueden acceder cajón de aplicaciones que se pueden abrir deslizando hacia arriba en la pantalla de inicio. Aún podrá encontrar las aplicaciones que movió a la pantalla de inicio en el cajón de aplicaciones."</string>
+	<string name="all_apps_setting_drawer_tips_desc">El cajón de aplicaciones se abre deslizando hacia arriba en la pantalla de inicio. Cambiar al modo de pantalla de inicio con el cajón de aplicaciones hará que la búsqueda no esté disponible. ¿Cambiar de todos modos?</string>
+	<string name="all_apps_setting_drawer_tips_title">Usar Cajón de aplicaciones</string>
+	<string name="all_apps_setting_drawer_title">Cajón de aplicaciones</string>
+	<string name="all_apps_setting_title">Pantalla de inicio</string>
+	<string name="all_apps_slide_up_tips">Deslizar hacia arriba está reservado para abrir el cajón de aplicaciones. Cambie al modo de pantalla de inicio normal e intente nuevamente..</string>
+	<string name="all_apps_suggestions">Sugerencias</string>
+	<string name="recent_apps">Recientes</string>
+	<string name="remove_invalidate_gadget_tips">Uno de los widgets que usa ya no está disponible. Puedes agregar otro.</string>
 </resources>

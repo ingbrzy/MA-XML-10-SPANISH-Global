@@ -17,20 +17,6 @@
         <item>Máximo 3 procesos</item>
         <item>Máximo 4 procesos</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="battery_options">
         <item>Mostrar siempre porcentaje</item>
         <item>Mostrar porcentaje al cargar (predeterminado)</item>
@@ -85,14 +71,16 @@
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Usar preferencia de sistema (Por defecto)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
-        <item>LDAC</item>
-        <item>Habilitar códigos opcionales</item>
-        <item>Deshabilitar códigos opcionales</item>
+		<item>Usar preferencia de sistema (Por defecto)</item>
+		<item>SBC</item>
+		<item>AAC</item>
+		<item>Qualcomm® aptX™ audio</item>
+		<item>Qualcomm® aptX™ HD audio</item>
+		<item>LDAC</item>
+		<item>Qualcomm® aptX™ Adaptive audio</item>
+		<item>LHDC</item>
+		<item>Habilitar códigos opcionales</item>
+		<item>Deshabilitar códigos opcionales</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar preferencia de sistema (Por defecto)</item>
