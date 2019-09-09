@@ -7470,4 +7470,6 @@ Actualizar la configuración a:
 	<string name="gesture_wakeup_summary">Puede tocar dos veces para apagar la pantalla cuando está aplicado tema predeterminado o clásico.</string>
 	<string name="gesture_wakeup_title">Tocar dos veces para apagar pantalla</string>
 	<string name="key_shortcut_settings_title">Atajos de botones</string>
+	<string name="dark_color_summary_lcd">Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro puede ayudarlo a aliviar la fatiga visual cuando usa su dispositivo en la oscuridad.</string>
+	<string name="dark_color_summary_oled">Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro reduce el consumo de energía y ayuda a aliviar la fatiga visual</string>
 </resources>
