@@ -875,4 +875,16 @@
   <string name="you_liao_xunlei_str">Xunlei Anfitrión</string>
   <string name="youliao_dialog_title">¿No hay vídeos interesantes?</string>
   <string name="youliao_master_rank">Top Youliao</string>
+	<string name="otg_file_security_confirm">copiar al teléfono</string>
+	<string name="otg_file_security_details">Por favor copie al teléfono</string>
+	<string name="privacy_policy">Política de privacidad</string>
+	<string name="rename_input_null">Introducir nuevo nombre</string>
+	<string name="request_document_permission">Para administrar archivos en su tarjeta SD, otorgue al Administrador de archivos los permisos necesarios.</string>
+	<string name="request_document_permission_title">Se necesitan permisos</string>
+	<string name="start_doc">Archivos</string>
+	<string name="start_phone">Almacenamiento</string>
+	<string name="switch_doc_type">Seleccionar formato</string>
+	<string name="tab_app">Más</string>
+	<string name="text_select_all">Seleccionar todo</string>
+	<string name="text_select_nothing">Deseleccionar todo</string>
 </resources>

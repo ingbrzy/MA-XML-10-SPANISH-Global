@@ -7199,8 +7199,8 @@ Actualizar la configuración a:
 	<string name="status_serialno">"Número de serie"</string>
 	<string name="status_voice_network_type">"Tipo de red de voz móvil"</string>
 	<string name="storage_wizard_format_confirm_v2_action">"Formato ^1"</string>
-	<string name="storage_wizard_format_confirm_v2_body">"Este ^1 debe formatearse para almacenar aplicaciones, archivos y medios. El formateo borrará el contenido existente en el ^2. Para evitar perder contenido, haga una copia de seguridad en otro ^ 3 o dispositivo."</string>
-	<string name="storage_wizard_format_confirm_v2_title">"Formato de este ^1?"</string>
+	<string name="storage_wizard_format_confirm_v2_body">"Esta ^1 debe formatearse para almacenar aplicaciones, archivos y medios. El formateo borrará el contenido existente en la ^2. Para evitar perder contenido, haga una copia de seguridad en otro ^3 o dispositivo."</string>
+	<string name="storage_wizard_format_confirm_v2_title">"Formato de esta ^1?"</string>
 	<string name="storage_wizard_init_v2_external_action">"Almacenamiento portátil"</string>
 	<string name="storage_wizard_init_v2_external_summary">"Para transferir archivos y medios entre dispositivos."</string>
 	<string name="storage_wizard_init_v2_external_title">"Uso para almacenamiento portátil"</string>

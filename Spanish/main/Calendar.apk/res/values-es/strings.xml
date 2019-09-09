@@ -433,4 +433,7 @@ También puedes añadir recordatorios para no perderte de nada importante."</str
 	<string name="setting_daysoff_update_net_err">"No se pudo buscar actualizaciones. Espera un minuto o dos y vuelva a intentarlo."</string>
 	<string name="setting_daysoff_update_schedule">Actualizando…</string>
 	<string name="setting_daysoff_update_success">Actualizado correctamente</string>
+	<string name="shortcut_new_event">Añadir evento</string>
+	<string name="shortcut_next_agenda">Siguiente evento</string>
+	<string name="shortcut_settings">Ajustes</string>
 </resources>
